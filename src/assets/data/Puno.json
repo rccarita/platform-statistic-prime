@@ -1,0 +1,5587 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "52.21",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "29.22",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "61.72",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "53.14",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "51.08",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "48.96",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "66.28",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "50.68",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "58.46",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "57.78",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "55.85",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "56.52",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "74.94",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "92.15",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "163.83",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "1544",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "1532",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "61.93",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "65.22",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "64.57",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "67.71",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "66.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "69.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "71.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "76.91",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "76.75",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "81.45",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "3191209.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "3725873.53",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "11853220.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "759156",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "3273147",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "203429",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "14117220",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "1076029",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "21",
+                    "valor": "17.52",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "21",
+                    "valor": "18.35",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "21",
+                    "valor": "18.94",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "19.44",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "19.73",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "19.85",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "20.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "21.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "23.11",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "24.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "26.72",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "29.18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "32.18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "34.81",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "36.35",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "37.46",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "38.72",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "40.03",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "41.27",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "42.52",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "43.37",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "45.18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "46.8",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "21",
+                    "valor": "22074",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "21",
+                    "valor": "23340",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "21",
+                    "valor": "24304",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "25135",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "25642",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "25874",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "26452",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "28062",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "29889",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "31645",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "34169",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "37074",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "40543",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "43477",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "45056",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "46200",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "47696",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "49387",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "51041",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "52689",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "53692",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "55720",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "57395",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "66963.68",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "4",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {},
+        "50100": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "460000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "460000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "460000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "460000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "460000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "460000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "460000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "460000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "460000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "460000",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "21",
+                    "valor": "20.96",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "21",
+                    "valor": "20.23",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "21",
+                    "valor": "20.22",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "21",
+                    "valor": "20.21",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "20.19",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "20.18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "20.15",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "20.14",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "20.13",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "20.11",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "20.11",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "20.08",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "20.06",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "20.05",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "20.03",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "19.99",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "19.97",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "19.94",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "19.86",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "19.77",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "19.71",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "19.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "19.61",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "19.59",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "343015.6",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "745510.41",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "1445454",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "1444511",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "1443581",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "1442416",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "1439473",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "1437657",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "1435548",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "1429774",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "1423073.07",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "1419357.24",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "1413756.09",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "1411865.19",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "1410313.77",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "563403.06",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "579627.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "633759.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "642265.92",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "650341.8",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "632808.99",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "641124.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "653749.2",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "21",
+                    "valor": "1777",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "21",
+                    "valor": "2577",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "21",
+                    "valor": "899",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "21",
+                    "valor": "3847",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "21",
+                    "valor": "1936",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "21",
+                    "valor": "2015",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "21",
+                    "valor": "1059",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "2526",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "1503",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "698",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "691",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "755",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "990",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "1659",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "1341",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "1440",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "1083",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "372",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "49",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "30",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "31",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "10",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "35",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "82",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "21.26",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "120.65",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "110.31",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "67.18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "104.55",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "409.41",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "142.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "155.21",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "106.73",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "610.2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "144.56",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "469.78",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "3149.85",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "1751.38",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "2501.29",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "3909.95",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "1588.02",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "1461.51",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "120.42",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "21",
+                    "valor": "833.13",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "943.74",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "918.81",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "2080.98",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "731.16",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "903.24",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "1039.59",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "538.38",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "2153.34",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "942.93",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "929.79",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "1165.41",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "2942.28",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "1816.47",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "2108.7",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "5773.68",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "6701.31",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "3715.83",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "5601.15",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "1890.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "1551.42",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "1076181.62",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "1074741.52",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "1073658.41",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "1073286.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "1073237.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "1073207.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "1073176.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "1073166.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "1073131.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "1073049.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "1073049.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "1073049.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "1073049.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "1073049.45",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "21.26",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "120.65",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "110.31",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "67.18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "104.55",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "409.41",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "142.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "155.21",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "106.73",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "610.2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "144.56",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "469.78",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "3149.85",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "1751.38",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "2501.29",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "3909.95",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "1588.02",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "1461.51",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "120.42",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "16.05",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "16.09",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "16.91",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "16.29",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "15.98",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "16.57",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "16.2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "16.29",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "15",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "22",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "38",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "39",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "16",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "23",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "16",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "10",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "8",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "615.8",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "703.1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "524.5",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "868.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "684.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "588.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "640.8",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "509.8",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "19",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "16.05",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "16.09",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "16.91",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "16.29",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "15.98",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "16.57",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "16.2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "16.29",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "315",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "432",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "256",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "246",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "328",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "241",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "195",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "221",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "278",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "221",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "191",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "83",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "277",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "489",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "205",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "262",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "43",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "209",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "223",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "345",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "141",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "78676",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "182518",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "43372",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "39186",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "103825",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "64064",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "51219",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "32458",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "213824",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "173404",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "252049",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "13868",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "251181",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "582711",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "20277",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "178912",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "175",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "19202",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "11018",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "14084",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "16711",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "26243",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "9607",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "2923",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "1902",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "5335",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "3545",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "1217",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "4291",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "7102",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "26011",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "11760",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "813",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "749",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "4060",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "112",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "554",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "31",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "1386",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "1230",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "1665",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "79",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "78702",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "182531",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "43378",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "39186",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "103828",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "64064",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "51229",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "32474",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "213833",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "173422",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "252051",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "13869",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "251191",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "582723",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "20283",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "178915",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "175",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "19207",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "11023",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "14086",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "16712",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "2058",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "2050",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "509",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "284",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "803",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "800",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "305",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "938",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "1321",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "2420",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "343",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "81",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "49",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "835",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "35",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "62",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "22",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "524",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "513",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "949",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "7",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "5014",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "8478",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "878",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "4479",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "1000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "14033",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "1606",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "4385",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "1103",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "20517",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "207",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "12",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "5",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "4782.55",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "4555.83",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "18467.65",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "21881.66",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "111",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "111",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "113",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "120",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "121",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "21",
+                    "valor": "122",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "56.39",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "67.02",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "67.68",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "68.66",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "4900232",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "2314529",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "1619969",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "3270301",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "3848008",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "9329202",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "15001205",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "7.41",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "8",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "13.05",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "14.01",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "17.82",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "22.08",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "29.14",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "28.27",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "33.55",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "146949.33",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "126886.42",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "114858.71",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "122742.31",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "121973.41",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "136323.21",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "136350.7",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "154355.63",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "151725.04",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "0.8",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "0.73",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "0.61",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "0.64",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "0.66",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "0.74",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "0.75",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "0.85",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "0.85",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "9049927",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "10983432",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "11626630",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "17756023",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "16780007",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "10386686",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "11318979",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "18644291",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "20213987",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "22044231",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "27359701",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "36077520",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "34870687",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "41144066",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "109812.18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "130547",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "149250.72",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "148815.83",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "0.56",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "0.47",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "0.42",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "0.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "0.46",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "0.52",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "0.52",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "0.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "0.59",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "21",
+                    "valor": "3",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "71.7",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "71.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "72.99",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "83.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "76.15",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "86.00",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "21",
+                    "valor": "86.13",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "0.24",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "0.26",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "0.18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "0.19",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "0.2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "0.22",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "0.22",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "0.26",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "0.26",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "516.84",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "940",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "558.7",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "564.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "850.2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "1851.2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "1758.54",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "5635.95",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "5196.23",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "62978.28",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "69776.67",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "49225.16",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "52603.85",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "52274.32",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "58424.23",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "58436.01",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "66152.41",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "65025.02",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "209927.61",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "196663.09",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "164083.88",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "175346.15",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "174247.74",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "194747.44",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "194786.71",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "220508.04",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "216750.05",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "5000796",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "2564535",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "30028758",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "24638514",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "28152811",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "36657566",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "44264086",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "2",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "180",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "33",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "30",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "93",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "57",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "0",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "0",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "0",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "14",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "19",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "11",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "14",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "20",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "7",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "3.0",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "1.0",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "1.0",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "7.0",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "3.0",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "3.0",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "15",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "30",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "33",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "47",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "41",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "19",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "1",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "4",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "4",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "7",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "7",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "8",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "10",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "4",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "52.21",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "29.22",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "61.72",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "53.14",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "51.08",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "48.96",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "66.28",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "50.68",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "58.46",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "57.78",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "55.85",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "56.52",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "74.94",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "92.15",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "48.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "51.4",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "59.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "65.4",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "69.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "69.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "68.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "70.8",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "70.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "71",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "73.13",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "76.37",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "130029",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "129318",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "145926",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "112161",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "92038",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "89446",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "71243",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "103638",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "80900",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "64583",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "88432",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "76968",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "23877",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "28191",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "63577",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "51911",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "12895",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "14000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "12162",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "10810",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "6245",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "14330",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "13582",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "10834",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "11750",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "10727",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "9958",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "9653",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "5284",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "6729",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "7749",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "6080",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "3546204",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "5465243",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "8396417",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "4951083",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "5824031",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "7404738",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "6817084",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "4994780",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "7179415",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "6297863",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "6540805",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "6971550",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "6787373",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "3884237",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "1260035",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "61.93",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "65.22",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "64.57",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "67.71",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "66.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "69.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "71.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "76.91",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "76.75",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "81.45",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "21",
+                    "valor": "5970",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "21",
+                    "valor": "6488",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "21",
+                    "valor": "2869",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "3805",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "3615",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "4713",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "4976",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "7248",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "12588",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "11287",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "11522",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "16735",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "19084",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "29725",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "28795",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "34576",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "43902",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "48396",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "25845",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "38634",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "34074",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "32833",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "41817",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "28.26",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "32.29",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "24.31",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "37.13",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "43.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "43.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "43.04",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "48.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "56.93",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "74.12",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "52.9",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "55.88",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "58.17",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "82.62",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "21",
+                    "valor": "19490.35",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "21",
+                    "valor": "9302.08",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "7286.43",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "7186.99",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "3696.48",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "2018.69",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "2175.41",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "1401.57",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "711.2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "508.98",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "447.33",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "683.46",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "336.88",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "179",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "14.01",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "21",
+                    "valor": "37195.54",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "21",
+                    "valor": "1648.34",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "21",
+                    "valor": "17860",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "15604.58",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "28416.35",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "11105.58",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "4439.15",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "4731.77",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "12432.3",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "5655.49",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "1269.71",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "1501.52",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "2099.43",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "2748.15",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "2291",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "7.96",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "9726.82",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "1.04",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "1.05",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "1.07",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "1.21",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "1.5",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "1.04",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "0.95",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "0.94",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "1.28",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "41.67",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "30.77",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "24.68",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "41.67",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "100.0",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "24.68",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "41.67",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "100.0",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "11",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "159",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "25",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "11",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "14",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "14",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "13",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "14",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "10",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "10",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "11",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "7",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "4",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "5",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "5",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "4",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "5",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "55",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "74.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "61",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "85",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "21",
+                    "valor": "60",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "21",
+                    "valor": "69.2",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "21",
+                    "valor": "59.5",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "21",
+                    "valor": "63.46",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "21",
+                    "valor": "60.37",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "21",
+                    "valor": "60.18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "64.04",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "61.09",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "63.29",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "62.45",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "56.73",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "57.05",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "59.81",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "63.42",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "66.39",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "60.41",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "58.49",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "59.43",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "54.13",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "62.84",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "63.39",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "58.86",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "12895",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "14000",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "12162",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "10810",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "6245",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "14330",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "13582",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "10834",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "11750",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "10727",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "9958",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "9653",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "5284",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "6729",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "7749",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "6080",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "130029",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "129318",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "145926",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "112161",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "92038",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "89446",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "71243",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "103638",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "80900",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "64583",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "88432",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "76968",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "23877",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "28191",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "63577",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "51911",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "63.64",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "70",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "65",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "73.68",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "71.43",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "62.5",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "68.75",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "832",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "748.4",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "782.4",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "922.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "1017.47",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "1058.5",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "979",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "1057.26",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "31.62",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "33.29",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "35.35",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "40.37",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "42.44",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "44.18",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "47.39",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "53.88",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "55.42",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "51.38",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "57.72",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "58.16",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "58.5",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "54.88",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "53.6",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "55.9",
+                    "nombre": "Puno"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "21",
+                    "valor": "70.81",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "21",
+                    "valor": "79.91",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "21",
+                    "valor": "81.65",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "21",
+                    "valor": "86.5",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "21",
+                    "valor": "85.05",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "21",
+                    "valor": "87.55",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "21",
+                    "valor": "88.38",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "21",
+                    "valor": "89.14",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "21",
+                    "valor": "90.46",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "21",
+                    "valor": "89.49",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "21",
+                    "valor": "92.63",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "21",
+                    "valor": "92.22",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "21",
+                    "valor": "93.84",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "21",
+                    "valor": "93.35",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "21",
+                    "valor": "92.59",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "21",
+                    "valor": "91.95",
+                    "nombre": "Puno"
+                }
+            ]
+        }
+    }
+}

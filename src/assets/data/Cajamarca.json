@@ -1,0 +1,5626 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "61.31",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "53.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "57.01",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "50.47",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "45.63",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "47.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "56.92",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "42.47",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "42.85",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "42.17",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "40.51",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "41.44",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "42.77",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "58.86",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50009": {},
+        "50010": {},
+        "50011": {},
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "76.58",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "86.41",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "84.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "82.39",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "86",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "89.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "89.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "91.42",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "85.09",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "84.81",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "7226948",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "7451689.03",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "87387912.36",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "9984355",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "1526505",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "66190656",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "6480",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "10150114",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "5738102",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "06",
+                    "valor": "4.56",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "06",
+                    "valor": "5.12",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "06",
+                    "valor": "5.47",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "5.78",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "6.13",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "6.56",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "7.09",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "7.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "8.61",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "9.46",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "10.57",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "12.15",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "13.85",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "15.16",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "16.04",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "16.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "17.59",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "18.37",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "19.24",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "20.05",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "20.65",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "22.52",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "24.26",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "06",
+                    "valor": "6541",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "06",
+                    "valor": "7368",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "06",
+                    "valor": "7905",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "8365",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "8882",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "9501",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "10256",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "11255",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "12383",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "13563",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "15107",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "17320",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "19673",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "21461",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "22664",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "23740",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "24943",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "26224",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "27674",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "29036",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "30014",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "32765",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "35274",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "33304.32",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "17",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {},
+        "50100": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "1250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "1250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "1250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "1250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "1250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "1250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "1250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "1250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "1250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "1250",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "06",
+                    "valor": "18.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "06",
+                    "valor": "10.97",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "06",
+                    "valor": "10.94",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "06",
+                    "valor": "10.92",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "10.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "10.89",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "10.85",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "10.82",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "10.79",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "10.77",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "10.75",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "10.72",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "10.69",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "10.67",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "10.64",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "10.61",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "10.57",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "10.52",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "10.45",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "10.41",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "10.39",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "10.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "10.33",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "10.28",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "5539.7",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "307669.05",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "356876",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "355902",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "355200",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "354372",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "353224",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "352150",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "350260",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "348038",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "346761.63",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "346161.87",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "344558.57",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "344175.21",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "342257.49",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "312462.99",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "327294.45",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "321166.08",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "324673.83",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "324134.64",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "325266.21",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "319654.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "327841.83",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "06",
+                    "valor": "5506",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "06",
+                    "valor": "6923",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "06",
+                    "valor": "4319",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "06",
+                    "valor": "4916",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "06",
+                    "valor": "5690",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "06",
+                    "valor": "5724",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "06",
+                    "valor": "4338",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "834",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "2553",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "2933",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "3067",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "3842",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "3486",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "5044",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "6850",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "6026",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "3398",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "731",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "1833",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "1022",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "728",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "350",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "515",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "844",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "1537",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "310.74",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "221.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "238.58",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "1549.89",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "2047.22",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "979.42",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "16.19",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "17.5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "138.32",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "4693.23",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "167.31",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "186.43",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "45.08",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "108.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "2038.01",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "1056.41",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "2665.91",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "1065.14",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "434.27",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "2988.21",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "183.22",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "917.01",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "204.66",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "06",
+                    "valor": "834.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "513.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "525.96",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "1388.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "714.24",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "1156.77",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "601.29",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "734.85",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "1130.58",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "973.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "702.45",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "828.09",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "1147.14",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "1074.42",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "1889.82",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "2222.46",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "1276.11",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "599.76",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "1602.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "383.76",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "1917.72",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "679473.57",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "673447.35",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "670049.67",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "669318.65",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "667485.25",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "666463.25",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "665735.25",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "665384.75",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "664869.67",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "664025.67",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "662488.67",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "662177.93",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "661956.13",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "661717.55",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "1549.89",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "2047.22",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "979.42",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "16.19",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "17.5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "138.32",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "4693.23",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "167.31",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "186.43",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "45.08",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "108.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "2038.01",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "1056.41",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "2665.91",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "1065.14",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "434.27",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "2988.21",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "183.22",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "917.01",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "204.66",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "21.93",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "22.05",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "22.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "21.81",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "21.59",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "21.73",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "22.59",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "22.01",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "21.78",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "22.19",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "15",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "11",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "2",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "6",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "4",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "617.6",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "772.2",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "522.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "767.5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "730.4",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "813.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "725.2",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "744.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "457.9",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "15",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "21.93",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "22.05",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "22.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "21.81",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "21.59",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "21.73",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "22.59",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "22.01",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "21.78",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "22.19",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "199",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "259",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "395",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "396",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "268",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "363",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "312",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "195",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "85",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "215",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "111",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "158",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "310",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "125",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "563",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "255",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "271",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "133",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "488",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "486",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "1035",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "2551",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "3459",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "8119",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "5547",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "8691",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "148191",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "16900",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "3017",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "2027",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "3042",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "1222",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "2006",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "29052",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "5750",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "14155",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "13260",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "3818",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "2386",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "5840",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "4565",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "16356",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "2212",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "1285",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "5082",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "1315",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "732",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "5474",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "1282",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "1160",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "413",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "745",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "775",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "424",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "12825",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "767",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "2021",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "213",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "1029",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "591",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "2000",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "4272",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "3561",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "2554",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "3462",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "8128",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "5549",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "8691",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "148226",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "16914",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "3021",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "2036",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "3054",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "1227",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "2008",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "29083",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "5753",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "14165",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "13262",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "3818",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "2392",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "5841",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "4579",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "16359",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "280",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "225",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "944",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "212",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "110",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "1576",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "255",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "162",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "21",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "170",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "231",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "33",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "1523",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "48",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "274",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "19",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "366",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "260",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "712",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "1581",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "647",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "6",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "12763",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "230",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "831",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "4",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "950",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "20492",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "1401",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "2",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "222.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "1531.79",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "4156.72",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "1290.6",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "4664.77",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "123",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "123",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "127",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "139",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "141",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "06",
+                    "valor": "145",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "32.78",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "28.87",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "53.01",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "53.73",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "40.37",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "40.93",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "42.06",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "40.71",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "40.89",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "2622292",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "8288077",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "4704586",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "2887228",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "1173699",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "1518800",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "3602160",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "8.78",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "5.52",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "11.06",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "13.61",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "15.66",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "14.46",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "21.35",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "22.12",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "28.55",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "101931.59",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "103540.57",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "100792.64",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "99967.22",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "106007.23",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "101927.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "101164.54",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "110416.27",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "108791.38",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "0.76",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "0.74",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "0.73",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "0.73",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "0.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "0.69",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "0.76",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "0.75",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "8781144",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "9877705",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "10768786",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "17059699",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "12515277",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "13383736",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "8438982",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "16968985",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "20917793",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "22519658",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "20930736",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "31033093",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "32197049",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "41513508",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "47728.14",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "55710.97",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "76334.59",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "76731.04",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "61141.92",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "59601.29",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "60785.77",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "64222.77",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "63556.84",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "0.53",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "0.54",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "0.52",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "0.51",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "0.51",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "0.49",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "0.48",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "0.53",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "0.53",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "21067": {
+            "data": []
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "35.02",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "32.05",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "37.69",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "37.68",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "32.39",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "61.45",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "06",
+                    "valor": "60.83",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "0.23",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "0.46",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "0.22",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "0.22",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "0.22",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "0.21",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "0.21",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "0.23",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "0.22",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "555.48",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "63",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "271.89",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "799.88",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "2071.62",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "1761.4",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "807.16",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "3463.17",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "3365.3",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "43684.97",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "89421.63",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "43196.84",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "42843.09",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "45431.67",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "43683.13",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "43356.23",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "47321.26",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "46624.88",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "145616.56",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "192962.2",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "143989.48",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "142810.31",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "151438.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "145610.43",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "144520.78",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "157737.53",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "155416.25",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "2731144",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "16409336",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "30369135",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "24198111",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "26538032",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "32479264",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "34833595",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "2",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "2",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "158",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "51",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "41",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "102",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "83",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "0",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "0",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "0",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "2",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "0",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "0",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "0",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "6",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "27",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "21",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "19",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "18",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "23",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "13",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "6",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "1.0",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "1.0",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "1.0",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "43",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "42",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "46",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "55",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "72",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "49",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "18",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "11",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "12",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "14",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "14",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "11",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "61.31",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "53.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "57.01",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "50.47",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "45.63",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "47.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "56.92",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "42.47",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "42.85",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "42.17",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "40.51",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "41.44",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "42.77",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "58.86",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "41.1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "43.5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "77.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "78.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "79.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "78.6",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "78.6",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "78.8",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "78.5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "85.4",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "82.14",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "85.87",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "258562",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "192575",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "192674",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "153471",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "134225",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "141319",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "112937",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "163900",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "140157",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "101454",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "114015",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "100048",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "37705",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "40743",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "73509",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "56435",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "31678",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "25902",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "19056",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "19023",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "37028",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "54371",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "49618",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "18250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "19770",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "17183",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "16703",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "15742",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "7518",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "9587",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "11889",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "10528",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "4572168",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "5888388",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "5779549",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "5291617",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "6189286",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "7516715",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "6888962",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "7259626",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "7621997",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "7504667",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "7714778",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "8261136",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "8103861",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "7775138",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "8678563",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "76.58",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "86.41",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "84.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "82.39",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "86",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "89.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "89.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "91.42",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "85.09",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "84.81",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "06",
+                    "valor": "18",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "06",
+                    "valor": "22",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "06",
+                    "valor": "37",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "36",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "54",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "94",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "126",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "140",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "234",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "274",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "310",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "393",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "362",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "204",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "114",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "176",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "198",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "224",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "206",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "220",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "450",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "475",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "26.85",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "30.54",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "34.35",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "47.76",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "57.18",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "63.22",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "33.44",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "44.92",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "49.27",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "47.71",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "43.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "59.67",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "62.64",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "73.21",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "06",
+                    "valor": "1865.18",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "06",
+                    "valor": "2878.03",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "3076.53",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "4314.03",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "7885.37",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "11109.7",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "12516.02",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "13014.08",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "7664.67",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "10229.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "10929.48",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "10442.29",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "8730.66",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "7008",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "470.96",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "724.21",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "36.12",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "1.97",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "63.64",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "1387.5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "310.23",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "06",
+                    "valor": "8196.97",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "06",
+                    "valor": "13633.86",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "14565.65",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "23444.32",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "18723.66",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "45503.53",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "55787.91",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "71646.01",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "61682.76",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "68201.92",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "83560.18",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "111107.69",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "100992.46",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "77030",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "1536.02",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "20434.47",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "10972.4",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "731.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "188.5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "25",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "127.78",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "285.88",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "1.43",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "0.75",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "1.05",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "1.02",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "0.97",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "0.82",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "0.89",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "0.91",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "1.03",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "18.94",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "19.05",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "18.94",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "19.05",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "18.94",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": []
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "13",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "13",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "11",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "11",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "11",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "10",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "9",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "2",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "2",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "1",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "22120": {
+            "data": []
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "06",
+                    "valor": "79.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "06",
+                    "valor": "64.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "06",
+                    "valor": "72.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "06",
+                    "valor": "74.32",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "06",
+                    "valor": "67.71",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "06",
+                    "valor": "77.4",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "68.18",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "65.67",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "60.68",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "60.5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "65.76",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "61",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "60.13",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "64.31",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "61.06",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "61.92",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "59.26",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "59.68",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "51.26",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "56.16",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "56.61",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "56.39",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "31678",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "25902",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "19056",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "19023",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "37028",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "54371",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "49618",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "18250",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "19770",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "17183",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "16703",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "15742",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "7518",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "9587",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "11889",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "10528",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "258562",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "192575",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "192674",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "153471",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "134225",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "141319",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "112937",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "163900",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "140157",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "101454",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "114015",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "100048",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "37705",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "40743",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "73509",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "56435",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "81.25",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "81.25",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "84.62",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "84.62",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "100",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "100",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "81.82",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "990.1",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "768.4",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "1097.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "1029.9",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "1168.13",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "1036",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "1469.3",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "1337.66",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "17.98",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "19.38",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "22.75",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "27.32",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "27.68",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "29.15",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "27.74",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "27.82",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "31.57",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "32.71",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "35.11",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "36.5",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "39.89",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "34.36",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "34.07",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "33.62",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "06",
+                    "valor": "45.29",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "06",
+                    "valor": "46.48",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "06",
+                    "valor": "50.28",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "06",
+                    "valor": "60.11",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "06",
+                    "valor": "65.21",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "06",
+                    "valor": "72.15",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "06",
+                    "valor": "73.94",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "06",
+                    "valor": "77.34",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "06",
+                    "valor": "85.56",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "06",
+                    "valor": "85.66",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "06",
+                    "valor": "89.17",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "06",
+                    "valor": "90.19",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "06",
+                    "valor": "90.56",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "06",
+                    "valor": "93.93",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "06",
+                    "valor": "92.48",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "06",
+                    "valor": "94.15",
+                    "nombre": "Cajamarca"
+                }
+            ]
+        }
+    }
+}

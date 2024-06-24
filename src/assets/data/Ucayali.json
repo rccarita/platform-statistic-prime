@@ -1,0 +1,5395 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "2.03",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "2.35",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "2.11",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "2.34",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "5.13",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "4.9",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "4.99",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "4.74",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50009": {},
+        "50010": {},
+        "50011": {},
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "74",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "61.23",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "68.82",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "68.58",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "72.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "76.1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "75.7",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "79.72",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "78.16",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "72.29",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "3450",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "1413",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "299358",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "105979",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "41587",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "296771",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "9508",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "25",
+                    "valor": "14.48",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "25",
+                    "valor": "15.14",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "25",
+                    "valor": "14.91",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "17.6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "17.18",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "16.76",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "16.42",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "16.56",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "16.44",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "16.19",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "16.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "16.15",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "16.5",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "16.88",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "17.39",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "17.6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "17.64",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "17.7",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "17.75",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "17.95",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "18.11",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "18.78",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "19.16",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "25",
+                    "valor": "5816",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "25",
+                    "valor": "6184",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "25",
+                    "valor": "6183",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "7402",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "7327",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "7255",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "7212",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "7383",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "7441",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "7441",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "7481",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "7679",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "7987",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "8319",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "8745",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "9052",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "9310",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "9608",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "9918",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "10310",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "10669",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "11315",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "11782",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "102199.28",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "10",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "11",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "12",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50100": {},
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "25",
+                    "valor": "86.97",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "25",
+                    "valor": "94.93",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "25",
+                    "valor": "94.82",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "25",
+                    "valor": "94.72",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "94.6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "94.49",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "94.27",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "94.15",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "94.05",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "93.88",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "93.63",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "93.46",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "93.22",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "92.98",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "92.62",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "92.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "92.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "91.73",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "91.43",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "91.18",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "90.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "90.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "89.99",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "89.64",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50015": {},
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "1646814.42",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "9570102",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "9546182",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "9521427",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "9484633",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "9451995",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "9422280",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "9392669",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "9362764",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "9336772.98",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "9298396.62",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "9251129.58",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "9179360.19",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "1811014.65",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "1837234.08",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "1939952.07",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "2017382.76",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "2142016.02",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "2321331.66",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "2396712.24",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "2477337.57",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "25",
+                    "valor": "5706",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "25",
+                    "valor": "8165",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "25",
+                    "valor": "5125",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "25",
+                    "valor": "4173",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "25",
+                    "valor": "2940",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "196",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "4432",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "1538",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "1522.21",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "468.56",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "93.96",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "6593.56",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "7397.78",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "6049.05",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "4982.88",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "4629.77",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "5172.29",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "4130.11",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "6050.83",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "8207.93",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "6603.18",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "9184.61",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "3827.25",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "4655.29",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "20838.74",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "7234.29",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "14111.99",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "16759.24",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "14985.59",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "20108.93",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "2735.91",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "25",
+                    "valor": "10575.54",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "11937.51",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "11591.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "22272.84",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "12314.61",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "10227.33",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "17032.59",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "25678.89",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "17925.66",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "23920.29",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "24755.76",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "36793.35",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "32638.05",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "29714.76",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "29611.26",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "29905.02",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "25990.65",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "38376.81",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "47267.19",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "36305.64",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "35464.05",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "188010.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "188010.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "188010.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "188010.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "188010.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "188010.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "188010.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "188010.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "188010.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "183578.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "182040.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "180517.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "180049.24",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "179955.28",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "6593.56",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "7397.78",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "6049.05",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "4982.88",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "4629.77",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "5172.29",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "4130.11",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "6050.83",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "8207.93",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "6603.18",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "9184.61",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "3827.25",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "4655.29",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "20838.74",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "7234.29",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "14111.99",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "16759.24",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "14985.59",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "20108.93",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "2735.91",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "31.39",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "31.9",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "31.98",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "31.74",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "31.71",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "31.95",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "31.92",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "32.48",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "32.92",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "65",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "68",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "71",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "51",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "54",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "36",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "44",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "31",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "26",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "29",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "2031.6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "1944.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "2010.1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "2329.5",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "1691.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "2695.7",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "1743.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "2441.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "1736.5",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "5",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "31.39",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "31.9",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "31.98",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "31.74",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "31.71",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "31.95",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "31.92",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "32.48",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "32.92",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "182",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "160",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "281",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "393",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "229",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "107",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "107",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "88",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "132",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "62",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "52",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "86",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "159",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "196",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "135",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "126",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "138",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "180",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "279",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "249",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "181",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "13598",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "4008",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "1689",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "8694",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "2161",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "5856",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "643",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "114",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "59363",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "17982",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "10279",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "1280",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "2160",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "4083",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "8014",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "405",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "2381",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "2219",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "2631",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "7316",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "8427",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "1402",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "2437",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "2105",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "3201",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "1609",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "2300",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "1056",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "1545",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "10469",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "3328",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "2652",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "441",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "1416",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "1576",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "970",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "421",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "605",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "580",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "1345",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "3059",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "1851",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "13600",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "4011",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "1690",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "8698",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "2161",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "5859",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "644",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "114",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "59374",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "17998",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "10290",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "1283",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "2174",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "4086",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "8017",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "412",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "2382",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "2223",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "2633",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "7322",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "8432",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "274",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "357",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "360",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "500",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "237",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "470",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "183",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "315",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "2281",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "39",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "36",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "84",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "137",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "228",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "104",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "77",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "166",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "161",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "485",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "994",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "236",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "1239",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "562",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "5139",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "772",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "14",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "3745",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "897",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "41",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "3338",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "1995",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "281",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "3734.71",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "294.25",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "2602.67",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "1536.6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "4675.75",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "14",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "14",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "15",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "15",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "10",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "25",
+                    "valor": "16",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36916": {
+            "data": []
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "4337627",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "4893866",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "5436830",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "2375184",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "2770874",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "955807",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "5007900",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "27.16",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "24.07",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "30.78",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "24.45",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "26.35",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "23.77",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "30.84",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "25.12",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "33.75",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "85295.87",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "87664.43",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "90551.28",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "91231.5",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "101089.43",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "101925.16",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "104509.03",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "108558.34",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "110732.26",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "0.91",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "0.82",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "0.95",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "0.94",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "0.87",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "0.86",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "0.86",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "0.88",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "0.88",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "8022936",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "9493340",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "11372541",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "8490638",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "7782908",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "13300953",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "11925758",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "15426911",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "12394715",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "14722768",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "13656374",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "18170172",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "15130963",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "20756873",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "11585": {
+            "data": []
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "0.64",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "0.65",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "0.66",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "0.66",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "0.61",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "0.6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "0.6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "0.61",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "0.61",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "21067": {
+            "data": []
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "29.02",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "29.02",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "29.37",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "29.36",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "29.02",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "29.36",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "25",
+                    "valor": "30.87",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "0.27",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "0.17",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "0.28",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "0.28",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "0.26",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "0.26",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "0.26",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "0.26",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "0.27",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "125.16",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "271",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "112.56",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "642.06",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "773.19",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "1226.4",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "434.03",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "1637.71",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "1223.77",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "36555.37",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "23210.81",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "38807.69",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "39099.22",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "43324.04",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "43682.21",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "44789.58",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "46525",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "47456.68",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "121851.25",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "110875.23",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "129358.98",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "130330.72",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "144413.48",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "145607.37",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "149298.62",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "155083.35",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "158188.94",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "7101796",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "7839659",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "20055409",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "18067305",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "21912671",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "17634421",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "23470445",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "10",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "10",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "18",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "10",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "15",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "7",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "4",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "9",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "3",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50022": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "4",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "4",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "70",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "12",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "10",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "28",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "48",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "0",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "0",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "0",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "0",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "0",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "0",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "5",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "10",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "7",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "4",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "2.0",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "1.0",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "42",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "22",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "24",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "19",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "49",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "25",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "4",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "5",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "5",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "2.03",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "2.35",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "2.11",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "2.34",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "5.13",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "4.9",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "4.99",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "4.74",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "28.9",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "31.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "34.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "30.6",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "41.9",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "45.7",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "44.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "49",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "50",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "53",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "49.05",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "45.49",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "110382",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "99396",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "89948",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "71556",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "39594",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "45563",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "35038",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "67402",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "64481",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "50158",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "80554",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "79756",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "42684",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "47885",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "71361",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "57261",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "27570",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "32620",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "28830",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "17324",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "6311",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "21683",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "17410",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "19867",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "22460",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "19880",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "18595",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "19166",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "12280",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "13425",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "15435",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "13063",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "6016506",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "6459371",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "6168466",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "6588342",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "7008231",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "8497517",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "9367793",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "9477736",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "9736663",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "10397064",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "10168358",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "10011411",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "9071698",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "9450343",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "9530021",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "74",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "61.23",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "68.82",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "68.58",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "72.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "76.1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "75.7",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "79.72",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "78.16",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "72.29",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "25",
+                    "valor": "11479",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "25",
+                    "valor": "11144",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "25",
+                    "valor": "9336",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "9238",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "11184",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "13073",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "10849",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "11344",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "8693",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "7795",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "5712",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "7112",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "6085",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "6954",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "7178",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "8635",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "6120",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "9060",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "6215",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "4100",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "3059",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "3467",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "6347",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "25.93",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "18.95",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "30.98",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "38.79",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "36.43",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "35.95",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "36.97",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "38.95",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "32.65",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "34.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "29.57",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "35.5",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "35.74",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "46.53",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "25",
+                    "valor": "144444.75",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "25",
+                    "valor": "168399.46",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "25",
+                    "valor": "165151.92",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "129152.56",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "269030.83",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "298674.36",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "357264.34",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "280075.93",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "177624.06",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "143995.93",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "145249.65",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "184354.28",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "126619.85",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "124877.29",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "181208",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "102098.29",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "73782.49",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "96785.87",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "88233.11",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "182685.39",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "156340.2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "207756.79",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "258262.64",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "239669.09",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "25",
+                    "valor": "267995.63",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "25",
+                    "valor": "276440.59",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "25",
+                    "valor": "182751.55",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "329992.98",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "284732.32",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "373101.24",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "499083.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "460958.06",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "479411.58",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "446457.23",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "435621.32",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "532788.81",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "459136.81",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "285394.87",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "302599",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "245094.18",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "322192.07",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "234724.69",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "202738.99",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "488656.42",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "382313.35",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "334874.4",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "726371.64",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "794869.17",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "2.19",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "2.2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "1.58",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "1.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "1.28",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "1.51",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "1.55",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "1.86",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "42.91",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "27.08",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "19.63",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "27.52",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "83.33",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "19.63",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "27.52",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "83.33",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "281",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "14",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "1",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "2",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "47.1",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "25",
+                    "valor": "89",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "25",
+                    "valor": "86.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "25",
+                    "valor": "86.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "25",
+                    "valor": "83.91",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "25",
+                    "valor": "84.51",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "25",
+                    "valor": "86.97",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "88.21",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "91.11",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "88.19",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "88.03",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "84.94",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "88.83",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "88.21",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "90.17",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "86.32",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "84.98",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "86.34",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "79.48",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "82.41",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "83.98",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "85.07",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "83.34",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "27570",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "32620",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "28830",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "17324",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "6311",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "21683",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "17410",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "19867",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "22460",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "19880",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "18595",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "19166",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "12280",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "13425",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "15435",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "13063",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "110382",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "99396",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "89948",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "71556",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "39594",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "45563",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "35038",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "67402",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "64481",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "50158",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "80554",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "79756",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "42684",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "47885",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "71361",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "57261",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "50",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "33.33",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "33.33",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "50",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "50",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "100",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "465.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "392.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "146",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "393.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "344.12",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "95.2",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "238.9",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "327.99",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "45.99",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "46.14",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "54",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "56.96",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "55.7",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "60.8",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "59.23",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "60.73",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "67.12",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "65.61",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "70.91",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "73.13",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "74.53",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "73.36",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "67.88",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "64.85",
+                    "nombre": "Ucayali"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "25",
+                    "valor": "68.94",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "25",
+                    "valor": "73.01",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "25",
+                    "valor": "76.3",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "25",
+                    "valor": "76.12",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "25",
+                    "valor": "79.31",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "25",
+                    "valor": "80.26",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "25",
+                    "valor": "81.17",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "25",
+                    "valor": "83.93",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "25",
+                    "valor": "84.43",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "25",
+                    "valor": "87.41",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "25",
+                    "valor": "87.41",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "25",
+                    "valor": "88.97",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "25",
+                    "valor": "89.76",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "25",
+                    "valor": "90.59",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "25",
+                    "valor": "90.91",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "25",
+                    "valor": "89.82",
+                    "nombre": "Ucayali"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1326 @@
+{
+    "22872": {
+        "data": [
+            {
+                "descripcion": "Este indicador muestra la proporción de las aguas residuales recolectadas que reciben un tratamiento efectivo previo antes de ser volcadas a un cuerpo receptor.",
+                "finalidad": "La finalidad de este indicador es presentar la parte de las aguas residuales tratadas por las EPS respecto del total de aguas residuales.",
+                "metodologia": "Tratamiento de aguas residuales = (SUM VART/ SUM VRAR) X 100\n\ni) VART - volumen de aguas residuales con tratamiento  Obtener directamente la información de los informes de gestión elaborados por el área encargada de la disposición de aguas residuales. Para obtener el volumen de tratamiento se debe considerar lo siguiente:\na) Esta información debe ser registrada por la EPS de forma diaria, utilizando medidores de caudal instalados en las plantas de tratamiento.\nb) En el caso de no existir medidores de caudal, este será estimado en función al volumen de diseño de la planta de tratamiento.\nc) El volumen tratado debe ser menor al volumen de diseño de la planta, pues de lo contrario afectaría la efectividad de dicho tratamiento.\nii) VRAR - volumen recolectado de aguas residuales en las redes de alcantarillado: Para su cálculo se siguen los siguientes pasos:\na) Determinar el volumen producido de agua potable de dicho período (VP).\nb) Determinar un factor de volcado de aguas residuales (FV), el cual se considera como 0.8.\nc) Determinar las pérdidas técnicas de agua potable (PT), el cual será calculado por la EPS. En caso de no tener dicha información, las pérdidas técnicas se considerará igual al 50% del Agua no Facturada (antes agua no contabilizada).\nd) Determinar el número total de conexiones de alcantarillado (NCTAL).\ne) Determinar el número total de conexiones de agua potable (NCTA).",
+                "fuente": "Superintendencia Nacional de Servicios de Saneamiento  - SUNASS",
+                "id": "22872",
+                "nombre": "Proporción de aguas residuales tratadas por las EPS",
+                "limitaciones": "Este indicador no determina la calidad del agua que es tratada."
+            }
+        ]
+    },
+    "82": {
+        "data": [
+            {
+                "descripcion": "Proporción de la población con acceso sostenible a mejores fuentes de agua potable es el porcentaje de la población que utiliza algunos de los siguientes tipos de abastecimiento de agua potable: agua corriente, fuente pública, pozo perforado o bomba, pozo protegido, fuente protegida o agua de lluvia. En las fuentes mejoradas de abastecimiento de agua no se incluyen el agua suministrada por vendedores, el agua embotellada, los camiones cisterna ni los pozos y fuentes sin protección.",
+                "finalidad": "Este indicador permite supervisar el acceso a fuentes mejoradas de abastecimiento de agua, partiendo del supuesto de que es más probable que estas fuentes permitan disponer de agua apta para el consumo. El agua insalubre es causa directa de muchas enfermedades en los países en desarrollo.",
+                "metodologia": "El acceso a abastecimiento de agua potable hace referencia al porcentaje de la población con acceso sostenible a un suministro adecuado de agua potable en su vivienda o a una distancia aceptable de la misma.\n\nEste indicador se calcula en forma de coeficiente entre el número de personas que utilizan agua corriente, una fuente pública, un pozo perforado o bomba, un pozo protegido, una fuente protegida o agua de lluvia y el total de la población, expresado en forma de porcentaje.\n\nNota: Red pública incluye dentro o fuera de la vivienda y pilón de uso público.",
+                "fuente": "Instituto Nacional de Estadística e Informática  - INEI",
+                "id": "82",
+                "nombre": "Proporción de la población que dispone de agua por red pública",
+                "limitaciones": "Cuando se utilizan datos procedentes de fuentes administrativas, en general éstas hacen referencia a las fuentes existentes, independientemente de que se utilicen o no. A pesar de las definiciones oficiales de la OMS, la decisión sobre si la fuente de agua es potable o no es muchas veces subjetiva. Además, la existencia de un suministro de agua no significa necesariamente que sea potable ni que la utilice la población local. Por estas y otras razones, los datos de las encuestas de hogares suelen ser de mayor calidad que los datos administrativos, ya que los datos de aquellas están basados en la utilización efectiva de las fuentes por la población encuestada, y no en la simple existencia de las mismas. Si bien el acceso es el indicador más razonable del abastecimiento de agua, implica no obstante varios problemas metodológicos y prácticos. Entre ellos están los siguientes: Los datos no son recopilados habitualmente por el sector sino por personas ajenas al mismo, en el marco de encuestas más generales. No se considera sistemáticamente la calidad del agua; La cronología de la recopilación y el análisis de los datos de encuestas de hogares es irregular, con largos intervalos entre las diferentes encuestas."
+            }
+        ]
+    },
+    "24107": {
+        "data": [
+            {
+                "descripcion": "Es la proporción de agua producida por la EPS que se obtiene mediante fuentes subterráneas.",
+                "finalidad": "Este indicador permite diferenciar a las EPS, puesto que en la mayoría de casos, el costo de obtención de agua potable de fuentes subterráneas es mayor que obtenerla de fuentes superficiales.",
+                "metodologia": "El indicador es el cociente del volumen producido de agua potable obtenido de fuentes subterráneas  y el volumen producido total de agua potable.\n\nAgua producida obtenida de fuente subterránea = (Sum VPSAi / Sum VPTAi) x 100\n\ni) VPSAi es el volumen producido de agua potable obtenido de fuentes subterráneas durante el mes “i”.\nii) VPTAi es el volumen producido total de agua potable durante el mes “i”.\niii) t es el mes en el cual se hace la evaluación.",
+                "fuente": "Superintendencia Nacional de Servicios de Saneamiento  - SUNASS",
+                "id": "24107",
+                "nombre": "Agua obtenida mediante fuentes subterráneas"
+            }
+        ]
+    },
+    "40003": {
+        "data": [
+            {
+                "descripcion": "Estadística generada en base a las matriculaciones vehiculares  registradas por la Superintendencia Nacional de los Registros Públicos (SUNARP), para vehículos de motor",
+                "finalidad": "Mostrar la Evolución del Parque Vehicular",
+                "fuente": "Ministerio de Transportes y Comunicaciones  - MTC",
+                "id": "40003",
+                "nombre": "Parque vehicular estimado"
+            }
+        ]
+    },
+    "22005": {
+        "data": [
+            {
+                "descripcion": "Se refiere al consumo de clorofluorocarburos (CFC) que agotan la capa de ozono en toneladas de potencial de agotamiento del ozono (PAO). Es la suma del consumo de las toneladas ponderadas de las diferentes sustancias del grupo - toneladas métricas de cada sustancia (definidas en el Protocolo de Montreal relativo a las sustancias que agotan la capa de ozono) multiplicadas por su potencial de agotamiento del ozono. Sustancia que agota la capa de ozono es toda sustancia que contenga cloro o bromo que destruye la capa de ozono estratosférica. Esta capa de ozono estratosférica absorbe la mayor parte de la radiación ultravioleta, de efectos biológicamente nocivos. Los CFCs son productos químicos inertes, no tóxicos, que se licuan fácilmente. Se emplean en los sistemas de refrigeración, aire acondicionado, envasado y aislamiento o como solventes y propulsores de aerosoles. Dado que los CFC no se destruyen en las capas inferiores de la atmósfera se desplazan hacia las capas superiores, donde sus componentes clorados destruyen el ozono.",
+                "finalidad": "Conocer el consumo de  clorofluorocarburos (CFC) que agotan la capa de ozono. Su medición y monitoreo revelan el compromiso de avanzar en la reducción gradual del consumo de CFC en los países que han ratificado el Protocolo de Montreal (1987) y el Convenio de Viena (1985), lo que son instrumentos eficaces para prevenir la catástrofe ambiental mundial que podría haberse derivado del agotamiento del ozono estratosférico. El Protocolo de Montreal tiene como objetivo reducir y, a la larga, eliminar las emisiones de sustancias antropogénicas que agotan la capa de ozono eliminando su producción y consumo. La reducción gradual de las sustancias que agotan la capa de ozono y su sustitución por sustancias menos nocivas o nuevos procesos tiene como finalidad la recuperación de la capa de ozono. Las iniciativas relacionadas con los CFC pueden considerarse como el esfuerzo más representativo del Protocolo por eliminar gradualmente el consumo de sustancias que agotan la capa de ozono, ya que fueron las primeras cuya eliminación se propuso.",
+                "fuente": "Ministerio de la Producción  - PRODUCE",
+                "id": "22005",
+                "nombre": "Consumo de sustancias agotadoras de la capa de ozono",
+                "limitaciones": "Para el agotamiento del ozono, el indicador no revela demasiado acerca de las tendencias actuales de deterioro de la capa de ozono, debido al retraso con que se produce la respuesta del ecosistema. Las toneladas de CFC son multiplicadas por un factor específico que da cuenta del potencial de agotamiento del ozono, existiendo un factor específico para cada sustancia, generando las toneladas PAO."
+            }
+        ]
+    },
+    "22194": {
+        "data": [
+            {
+                "descripcion": "El dióxido de carbono equivalente es una medida universal utilizada para indicar en términos de CO2, el equivalente de cada uno de los gases de efecto invernadero con respecto a su potencial de calentamiento global. Es usado para evaluar los impactos de la emisión (o evitar la emisión) de diferentes gases que producen el efecto invernadero.\nLa presentación de información a la Convención Marco de las Naciones Unidas sobre el Cambio Climático, que se ajusta a las directrices del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC), está basada en los inventarios de emisiones nacionales y comprende todas las fuentes de emisiones antropológicas de dióxido de carbono, así como los sumideros de carbono (como los bosques).\nLos datos provienen del Inventario Nacional de Gases de Efecto Invernadero de los años 2000, 2005, 2010, 2012 y 2014. Información estadística de los sectores económico y productivo que aborda el inventario nacional de gases de efecto invernadero; así como valores por defecto de las Directrices del Panel Intergubernamental de Expertos de Cambio Climático (IPCC por sus siglas en inglés) para los inventarios nacionales de gases de efecto invernadero.",
+                "finalidad": "Conocer el total de emisiones de dióxido de carbono equivalente total emitido por el país. Con ello se muestra la participación del país en las emisiones de GEI globales y su importancia radica en que a partir de este indicador, el país en el marco del Acuerdo de París, establece el compromiso para reducir las emisiones de dióxido de carbono. Gestión de emisión/absorciones de gases de efecto invernadero.",
+                "metodologia": "Directrices del IPCC para los inventarios nacionales de gases de efecto invernadero.\nDisposiciones para la elaboración del Inventario Nacional de Gases de Efecto Invernadero-INFOCARBONO (D.S. 013-2014-MINAM). Las emisiones totales de gases de efecto invernadero (GEI) son el resultado de la suma de las emisiones sectoriales del sector energía, procesos industriales, agricultura, desechos y uso de suelo, cambio de uso de suelo y silvicultura. La metodología aplicada para la estimación de emisiones/absorción de GEI corresponde a las Directrices del IPCC para la elaboración de inventarios nacionales de GEI. Se utilizó información estadística sectorial y valores por defecto que provee las directrices en mención. Los resultados corresponden a las emisiones de GEI a nivel país.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "22194",
+                "nombre": "Emisiones de dióxido de carbono equivalente",
+                "limitaciones": "Solo se considera gases de dióxido de carbono, metano y oxido de nitroso de las fuentes de emisión de las cuales se dispone para la estimación."
+            }
+        ]
+    },
+    "40312": {
+        "data": [
+            {
+                "descripcion": "Este indicador da cuenta de la contribución del Sector Ambiente al incremento del acceso y control de los recursos naturales, productivos y patrimoniales de las mujeres, y en consecuencia a garantizar su ejercicio de derechos económicos y sociales, por medio de los procesos que se impulsan para la gestión de la conservación, recuperación y uso sostenible de los ecosistemas y los recursos naturales. \n\nEn tal sentido, busca medir la magnitud de la participación de las mujeres respecto al total de las personas que participan en los espacios de gestión, es decir, en los órganos encargados de programar, ejecutar y rendir cuentas de las acciones concertadas por el Programa Nacional de Conservación de Bosques para la Mitigación del Cambio Climático (PNCBMCC) con las poblaciones involucradas. \n\nEn el caso del PNCBMCC, dichos espacios de gestión son las Juntas Directivas que administran las subvenciones de Transferencias Directas Condicionadas, y los Comités de Vigilancia de Bosques Comunales.\n\nEstá ligado al Indicador 4.2.4.2 del Servicio 4.2.4 de la Política Nacional de Igualdad de Género, que da cuenta de los espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales en los cuales participan mujeres. Son responsables de la medición de este indicador el MINAM, el PNCBMCC y el SERNANP.",
+                "finalidad": "Establecer la magnitud de la participación de las mujeres con relación a la totalidad de personas que participan en los espacios de gestión, es decir, en los órganos encargados de programar, ejecutar y rendir cuentas de las acciones concertadas por el Sector Ambiente con las poblaciones involucradas, para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales.",
+                "metodologia": "El valor de este indicador se determina con la sumatoria del número de mujeres que participan en los espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales promovidos por el PNCBMCC, respecto de la sumatoria del número total de personas que participan en dichos espacios. \n\nFórmula:\nN° de mujeres participantes (a+b) / N° total de personas participantes en espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales organización (c) x 100.\n\nDonde:\na. N° de mujeres participantes en Juntas Directivas que administran las subvenciones de Transferencias Directas Condicionadas (PNCBMCC)\nb. N° de mujeres participantes en Comités de Vigilancia de Bosques Comunales (PNCBMCC)\nc. N° total de personas participantes en todos los espacios de gestión (PNCBMCC)",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "40312",
+                "nombre": "Porcentaje de participación de mujeres en los espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales reportado por el PNCBMCC en el marco del servicio 4.2.4. de la PNIG",
+                "limitaciones": "La limitación asociada a este indicador es el incipiente registro de información desagregada por sexo de las personas participantes en los espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales."
+            }
+        ]
+    },
+    "40294": {
+        "data": [
+            {
+                "descripcion": "Este indicador da cuenta de la contribución del Sector Ambiente al incremento del acceso y control de los recursos naturales, productivos y patrimoniales de las mujeres, y en consecuencia a garantizar su ejercicio de derechos económicos y sociales, por medio de los procesos que se impulsan para la gestión de la conservación, recuperación y uso sostenible de los ecosistemas y los recursos naturales. \n\nEn tal sentido, busca medir la magnitud de espacios de gestión, es decir, de los órganos encargados de programar, ejecutar y rendir cuentas de las acciones concertadas por el Servicio Nacional de Áreas Naturales Protegidas (SERNANP) con las poblaciones involucradas, en los cuales participan mujeres. \n\nEn el caso del SERNANP, dichos espacios de gestión son las Comisiones Ejecutivas de los Comités de Gestión de las Áreas Naturales Protegidas, los Comités de Vigilancia de las Áreas Naturales Protegidas, y los Consejos Directivos de los Ejecutores de Contratos de Administración (ECA) de Reservas Comunales. \n\nSe trata de uno de los indicadores del Servicio 4.2.4 de la Política Nacional de Igualdad de Género: Gestión de la conservación, recuperación y uso sostenible de los ecosistemas y los recursos naturales, con participación de las mujeres, en un contexto de cambio climático; cuya entidad responsable es el MINAM. Son responsables de la medición de este indicador el MINAM, el PNCBMCC y el SERNANP.",
+                "finalidad": "Establecer la magnitud de espacios de gestión, es decir, de los órganos encargados de programar, ejecutar y rendir cuentas de las acciones concertadas por el Sector Ambiente con las poblaciones involucradas, para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales, en los cuales participan mujeres.",
+                "metodologia": "El valor de este indicador se determina con la sumatoria del número de espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales que cuentan con la participación de mujeres, respecto de la sumatoria del número total de espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales promovidos por el SERNANP.\n\nFórmula:\nN° de espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales en los cuales participan mujeres (a+b+c+d) /N° total de espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales organización (e) x 100.\n\nDonde:\na. Comisiones Ejecutivas de los Comités de Gestión de las Áreas Naturales Protegidas (SERNANP)\nb. Comités de Vigilancia de las Áreas Naturales Protegidas (SERNANP)\nc. Programa de Guardaparques voluntarios (SERNANP)\nd. Consejos Directivos del Ejecutor de Contrato de Administración - ECA de Reservas Comunales (SERNANP) \ne. N° total de espacios de gestión",
+                "fuente": "Servicio Nacional de Áreas Naturales Protegidas por el Estado  - SERNANP",
+                "id": "40294",
+                "nombre": "Porcentaje de espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales en los cuales participan mujeres reportado por el SERNANP en el marco del servicio 4.2.4. de la PNIG",
+                "limitaciones": "La limitación asociada a este indicador es el incipiente registro de información sobre la membresía de los espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales."
+            }
+        ]
+    },
+    "40470": {
+        "data": [
+            {
+                "descripcion": "Las Enfermedades Diarreicas Agudas (EDA) constituyen un problema de salud pública en el mundo, especialmente en los países en desarrollo, representan una importante causa de morbilidad y la segunda causa de mortalidad en niños menores de 5 años. Es una enfermedad generalmente autolimitada que obedece a múltiples etiologías. Las EDA sigue siendo una causa importante de morbilidad en la niñez en nuestro país, por la persistencia de los factores determinantes en una proporción importante de la población, además son enfermedades prevenibles relacionadas al menor acceso a servicio de agua potable, menor acceso a eliminación adecuada de excretas, así como a la práctica de hábitos inadecuados de higiene.",
+                "finalidad": "Las diarreas se asocian directamente con las temperaturas, es decir, los casos tienden a disminuir conforme lo hacen las temperaturas en el periodo de lluvias. A su vez, para el inicio del verano, las diarreas presentan una alta frecuencia. Esto quiere decir que la aparición de altas temperaturas y la escasez de agua favorecen la aparición del patógeno o parásito causante de las mismas, acelera el crecimiento bacteriano y, junto con los factores conductuales de la persona, hacen que el patógeno entre en contacto con el huésped para causar estragos en el individuo.",
+                "metodologia": "El sistema nacional de vigilancia epidemiológica permite monitorear la tendencia de la EDA. La tendencia de los episodios de EDA en los últimos muestra una tendencia lenta al descenso, con mayores episodios en las primeras semanas del año (época de verano), debido al clima que favorece la diseminación de las bacterias que las provocan; las altas temperaturas aumentan el riesgo de deshidratación. Asimismo, la Encuesta Demográfica y de Salud Familiar (ENDES), muestra la prevalencia de diarrea entre niñas y niños menores de cinco años de edad.",
+                "fuente": "Ministerio de Salud  - MINSA",
+                "id": "40470",
+                "nombre": "Atenciones de niños/as menores de 5 años afectados con enfermedades diarréicas agudas",
+                "limitaciones": "Para una mejor interpretación de este indicador es preciso vincularlo a los indicadores de saneamiento."
+            }
+        ]
+    },
+    "81": {
+        "data": [
+            {
+                "descripcion": "Población urbana que vive en barrios marginales se definen como un grupo de personas que viven bajo el mismo techo y carecen de una o varias de las siguientes condiciones: acceso a mejores fuentes de abastecimiento de agua y saneamiento, suficiente-sala de estar, durabilidad de la vivienda y seguridad de la tenencia.",
+                "finalidad": "Este indicador trata de ofrecer un panorama de la proporción de la población urbana que vive en condiciones de pobreza y de privación física y ambiental.",
+                "metodologia": "El acceso a abastecimiento de agua potable hace referencia al porcentaje de la población con acceso sostenible a un suministro adecuado de agua potable en su vivienda o a una distancia aceptable de la misma. Este indicador se calcula en forma de coeficiente entre el número de personas que utilizan agua corriente, una fuente pública, un pozo perforado o bomba, un pozo protegido, una fuente protegida o agua de lluvia y el total de la población, expresado en forma de porcentaje.\n\nNota: Este indicador representa la población urbana cuyo hogar presenta al menos una de las siguientes cinco características:\n1. No tenencia segura de la vivienda.\n2. Baja calidad estructural y poca durabilidad de la vivienda.\n3. Falta de acceso a mejores fuentes de abastecimiento de agua.\n4. Falta de acceso a mejores servicios de saneamiento.\n5. Hacinamiento (3,4 personas por habitación excluye cocina, pasadizo, baño y cochera).",
+                "fuente": "Instituto Nacional de Estadística e Informática  - INEI",
+                "id": "81",
+                "nombre": "Proporción de la población urbana que vive en barrios marginales, asentamientos improvisados o viviendas inadecuadas",
+                "limitaciones": "Cuando se utilizan datos procedentes de fuentes administrativas, en general éstas hacen referencia a las fuentes existentes, independientemente de que se utilicen o no. A pesar de las definiciones oficiales de la OMS, la decisión sobre si la fuente de agua es potable o no es muchas veces subjetiva. Además, la existencia de un suministro de agua no significa necesariamente que sea potable ni que la utilice la población local. Por estas y otras razones, los datos de las encuestas de hogares suelen ser de mayor calidad que los datos administrativos, ya que los datos de aquellas están basados en la utilización efectiva de las fuentes por la población encuestada, y no en la simple existencia de las mismas. Si bien el acceso es el indicador más razonable del abastecimiento de agua, implica no obstante varios problemas metodológicos y prácticos. Entre ellos están los siguientes: Los datos no son recopilados habitualmente por el sector sino por personas ajenas al mismo, en el marco de encuestas más generales. No se considera sistemáticamente la calidad del agua; La cronología de la recopilación y el análisis de los datos de encuestas de hogares es irregular, con largos intervalos entre las diferentes encuestas."
+            }
+        ]
+    },
+    "40295": {
+        "data": [
+            {
+                "descripcion": "Este indicador da cuenta de la contribución del Sector Ambiente al incremento del acceso y control de los recursos naturales, productivos y patrimoniales de las mujeres, y en consecuencia a garantizar su ejercicio de derechos económicos y sociales, por medio de los procesos que se impulsan para la gestión de la conservación, recuperación y uso sostenible de los ecosistemas y los recursos naturales. \n\nEn tal sentido, busca medir la magnitud de la participación de las mujeres respecto al total de las personas que participan en los espacios de gestión, es decir, en los órganos encargados de programar, ejecutar y rendir cuentas de las acciones concertadas por el Servicio Nacional de Áreas Naturales Protegidas (SERNANP) con las poblaciones involucradas. \n\nEn el caso del SERNANP, dichos espacios de gestión son las Comisiones Ejecutivas de los Comités de Gestión de las Áreas Naturales Protegidas, los Comités de Vigilancia de las Áreas Naturales Protegidas, y los Consejos Directivos de los Ejecutores de Contratos de Administración (ECA) de Reservas Comunales. \n\nEstá ligado al Indicador 4.2.4.2 del Servicio 4.2.4 de la Política Nacional de Igualdad de Género, que da cuenta de los espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales en los cuales participan mujeres. Son responsables de la medición de este indicador el MINAM, el PNCBMCC y el SERNANP.",
+                "finalidad": "Establecer la magnitud de la participación de las mujeres con relación a la totalidad de personas que participan en los espacios de gestión, es decir, en los órganos encargados de programar, ejecutar y rendir cuentas de las acciones concertadas por el Sector Ambiente con las poblaciones involucradas, para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales.",
+                "metodologia": "El valor de este indicador se determina con la sumatoria del número de mujeres que participan en los espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales promovidos por el SERNANP, respecto de la sumatoria del número total de personas que participan en dichos espacios. \n\nFórmula:\nN° de mujeres participantes (a+b+c+d) / N° total de personas participantes en espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales organización (e) x 100.\n\nDonde:\na. N° de mujeres participantes en Comisiones Ejecutivas de los Comités de Gestión de las Áreas Naturales Protegidas (SERNANP)\nb. N° de mujeres participantes en Comités de Vigilancia de las Áreas Naturales Protegidas (SERNANP)\nc. N° de mujeres participantes en Programa de Guardaparques voluntarios (SERNANP)\nd. N° de mujeres participantes en Consejos Directivos del Ejecutor de Contrato de Administración - ECA de Reservas Comunales (SERNANP) \ne. N° total de personas participantes en todos los espacios de gestión",
+                "fuente": "Servicio Nacional de Áreas Naturales Protegidas por el Estado  - SERNANP",
+                "id": "40295",
+                "nombre": "Porcentaje de participación de mujeres en los espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales reportado por el SERNANP en el marco del servicio 4.2.4. de la PNIG",
+                "limitaciones": "La limitación asociada a este indicador es el incipiente registro de información desagregada por sexo de las personas participantes en los espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales."
+            }
+        ]
+    },
+    "40311": {
+        "data": [
+            {
+                "descripcion": "Este indicador da cuenta de la contribución del Sector Ambiente al incremento del acceso y control de los recursos naturales, productivos y patrimoniales de las mujeres, y en consecuencia a garantizar su ejercicio de derechos económicos y sociales, por medio de los procesos que se impulsan para la gestión de la conservación, recuperación y uso sostenible de los ecosistemas y los recursos naturales. \n\nEn tal sentido, busca medir la magnitud de espacios de gestión, es decir, de los órganos encargados de programar, ejecutar y rendir cuentas de las acciones concertadas por el Programa Nacional de Conservación de Bosques para la Mitigación del Cambio Climático (PNCBMCC) con las poblaciones involucradas, en los cuales participan mujeres. \n\nEn el caso del PNCBMCC, estos espacios de gestión son las Juntas Directivas que administran las subvenciones de Transferencias Directas Condicionadas, y los Comités de Vigilancia de Bosques Comunales.\n\nSe trata de uno de los indicadores del Servicio 4.2.4 de la Política Nacional de Igualdad de Género: Gestión de la conservación, recuperación y uso sostenible de los ecosistemas y los recursos naturales, con participación de las mujeres, en un contexto de cambio climático; cuya entidad responsable es el MINAM. Son responsables de la medición de este indicador el MINAM, el PNCBMCC y el SERNANP.",
+                "finalidad": "Establecer la magnitud de espacios de gestión, es decir, de los órganos encargados de programar, ejecutar y rendir cuentas de las acciones concertadas por el Sector Ambiente con las poblaciones involucradas, para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales, en los cuales participan mujeres.",
+                "metodologia": "El valor de este indicador se determina con la sumatoria del número de espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales que cuentan con la participación de mujeres, respecto de la sumatoria del número total de espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales promovidos por el PNCBMCC.\n\nFórmula:\nN° de espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales en los cuales participan mujeres (a+b) /N° total de espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales organización (c) x 100.\n\nDonde:\na. Juntas Directivas que administran las subvenciones de Transferencias Directas Condicionadas (PNCBMCC)\nb. Comités de Vigilancia de Bosques Comunales (PNCBMCC)\nc. N° total de espacios de gestión (PNCBMCC)",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "40311",
+                "nombre": "Porcentaje de espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales en los cuales participan mujeres reportado por el PNCBMCC en el marco del servicio 4.2.4. de la PNIG",
+                "limitaciones": "La limitación asociada a este indicador es el incipiente registro de información sobre la membresía de los espacios de gestión de la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales."
+            }
+        ]
+    },
+    "40471": {
+        "data": [
+            {
+                "descripcion": "Las Infecciones Respiratorias Agudas (IRA), constituyen un grupo de enfermedades que se producen en el aparato respiratorio, causadas por diferentes  microorganismos como virus y bacterias, que comienzan de forma repentina y duran menos de 2 semanas. Es la infección más frecuente en el mundo y representa un importante tema de salud pública en nuestro país. Tienen una alta morbilidad en personas de cualquier edad; pero son muy frecuentes antes de los cinco años de edad y a partir de los 65 años. La mayoría de estas infecciones como el resfriado común es leve, pero dependiendo del estado general de la persona pueden complicarse y llegar a amenazar la vida, como en el caso de las neumonías.",
+                "finalidad": "Este indicador permite monitorear la tendencia de las IRA, a través del análisis de notificación de episodios de IRA en niños menores de 5 años, que se atienden en los establecimientos de salud.",
+                "metodologia": "Corresponde al número de casos atendidos confirmados clínicamente como enfermedad respiratoria aguda en una determinada unidad espacial de referencia (país, departamento, provincia, distrito, etc.), en el período de tiempo señalado.",
+                "fuente": "Ministerio de Salud  - MINSA",
+                "id": "40471",
+                "nombre": "Atenciones en niños/as menores de 5 años afectados por infecciones respiratorias agudas",
+                "limitaciones": "El indicador señala la incidencia en la salud de los niveles de contaminación del aire aunque teniendo en consideración la multicausalidad de las\nenfermedades no existe una relación directa entre ambos aspectos."
+            }
+        ]
+    },
+    "22113": {
+        "data": [
+            {
+                "descripcion": "La Red de Voluntariado Ambiental Juvenil de la Dirección General de Educación, Ciudadanía y Cultura Ambiental nace como estrategia para el fortalecimiento de la educación y ciudadanía ambiental. Su objetivo es acompañar en las acciones que viene desarrollando los jóvenes para el cumplimiento de sus compromisos de acción ambiental para cuidar el planeta y aportar al desarrollo sostenible del país.",
+                "finalidad": "Mostrar la proporción de la participación voluntaria femenina en la temática ambiental.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "22113",
+                "nombre": "Proporción de mujeres que participan en el programa de voluntariado del MINAM"
+            }
+        ]
+    },
+    "40293": {
+        "data": [
+            {
+                "descripcion": "Este indicador da cuenta de la contribución del Sector Ambiente al incremento del acceso y control de los recursos naturales, productivos y patrimoniales de las mujeres, y en consecuencia a garantizar su ejercicio de derechos económicos y sociales, por medio de los procesos que se impulsan para la gestión de la conservación, recuperación y uso sostenible de los ecosistemas y los recursos naturales. \n\nEn tal sentido, busca medir la proporción de mujeres que participan en la elaboración y seguimiento de los instrumentos de gestión para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales, que son los que determinan las acciones técnicas y financieras\nnecesarias para poner en valor la biodiversidad y los servicios ecosistémicos existentes de los ámbitos de intervención.\n\nEn el caso del SERNANP, se registra en las Asambleas de aprobación de los Acuerdos de Conservación suscritos con las comunidades campesinas o nativas de las zonas de amortiguamiento de las áreas naturales protegidas, y en las Asambleas Generales de Miembros de los Ejecutores de Contratos de Administración -ECA de Reservas Comunales.\n\nConstituye uno de los indicadores del Servicio 4.2.4 de la Política Nacional de Igualdad de Género: Gestión de la conservación, recuperación y uso sostenible de los ecosistemas y los recursos naturales, con participación de las mujeres, en un contexto de cambio climático; cuya entidad responsable es el MINAM. Son responsables de la medición de este indicador el MINAM, el PNCBMCC y el SERNANP..",
+                "finalidad": "Establecer la proporción de mujeres que participan en la elaboración y seguimiento de instrumentos de gestión con los que se determinan las acciones técnicas y financieras necesarias para poner en valor la biodiversidad y los servicios ecosistémicos existentes, que son los beneficios directos que se entregan desde el Sector Ambiente a las poblaciones involucradas",
+                "metodologia": "El valor de este indicador se establece a partir de la sumatoria del número de mujeres que asisten al total de Asambleas promovidas por el SERNANP, respecto de la sumatoria del número total de personas que asisten al total de Asambleas promovidas.\n\nFórmula:\nN° de mujeres participantes (a+b) / N° total de personas participantes en la elaboración y seguimiento de instrumentos de gestión para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales (c) x 100.\n\nDonde:\na. N° de mujeres participantes en Asambleas de aprobación de los Acuerdos de Conservación suscritos con comunidades campesinas o nativas en el ámbito y zonas de amortiguamiento de las ANP - SERNANP  \nb. N° de mujeres participantes en Asambleas Generales de Miembros de los Ejecutores de Contratos de Administración (ECA) de las Reservas Comunales - SERNANP\nc. N° total de personas participantes en todas las Asambleas",
+                "fuente": "Servicio Nacional de Áreas Naturales Protegidas por el Estado  - SERNANP",
+                "id": "40293",
+                "nombre": "Porcentaje de participación de mujeres en la elaboración y seguimiento de instrumentos de gestión para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales reportado por el SERNANP en el marco del servicio 4.2.4. de la PNIG",
+                "limitaciones": "La limitación asociada a este indicador es el incipiente registro de información desagregada por sexo de las personas participantes en la elaboración y seguimiento de instrumentos de gestión para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales."
+            }
+        ]
+    },
+    "23313": {
+        "data": [
+            {
+                "descripcion": "Un Conflicto socioambiental es la situación que surge a consecuencia de los diferentes intereses y motivaciones que poseen los diferentes actores sociales involucrados en una circunstancia ambiental determinada. En un conflicto socioambiental, las partes, toman posición y se enfrentan por hechos vinculados a la escasez, el deterioro o la privación de los recursos naturales. La dinámica del conflicto, dependerá de cómo lo manejen los actores; es decir, de cómo se expresen las diferentes posiciones e intereses y de cómo se recojan en la resolución del conflicto las diversas necesidades de los actores. Las Desigualdades o asimetrías, se refieren a las condiciones de profunda desigualdad en las que pugnan las partes de un conflicto socioambiental. Y ello se debe a que en la gran mayoría de casos, las partes en conflicto no tienen ni las mismas capacidades ni el mismo poder.",
+                "finalidad": "Conocer el estado de conflictividad social existente en diferentes localidades del país y que está relacionada con algún tema ambiental. En la conflictividad se enfrentan a una comunidad, población o grupo social con el empresas privadas o con el gobierno local, regional o local.",
+                "fuente": "Defensoría del Pueblo - DEFENSORIA",
+                "id": "23313",
+                "nombre": "Conflictos socioambientales activos"
+            }
+        ]
+    },
+    "40310": {
+        "data": [
+            {
+                "descripcion": "Este indicador da cuenta de la contribución del Sector Ambiente al incremento del acceso y control de los recursos naturales, productivos y patrimoniales de las mujeres, y en consecuencia a garantizar su ejercicio de derechos económicos y sociales, por medio de los procesos que se impulsan para la gestión de la conservación, recuperación y uso sostenible de los ecosistemas y los recursos naturales. \n\nEn tal sentido, busca medir la proporción de mujeres que participan en la elaboración y seguimiento de los instrumentos de gestión para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales, que son los que determinan las acciones técnicas y financieras\nnecesarias para poner en valor la biodiversidad y los servicios ecosistémicos existentes de los ámbitos de intervención.\n\nEn el caso del PNCBMCC, esta elaboración y seguimiento se efectúa en las Asambleas Comunales de aprobación, de actualización y de rendición de cuentas sobre la ejecución de los Planes de Gestión del Incentivo – PGI.\n\nConstituye uno de los indicadores del Servicio 4.2.4 de la Política Nacional de Igualdad de Género: Gestión de la conservación, recuperación y uso sostenible de los ecosistemas y los recursos naturales, con participación de las mujeres, en un contexto de cambio climático; cuya entidad responsable es el MINAM. Son responsables de la medición de este indicador el MINAM, el PNCBMCC y el SERNANP.",
+                "finalidad": "Establecer la proporción de mujeres que participan en la elaboración y seguimiento de instrumentos de gestión con los que se determinan las acciones técnicas y financieras necesarias para poner en valor la biodiversidad y los servicios ecosistémicos existentes, que son los beneficios directos que se entregan desde el Sector Ambiente a las poblaciones involucradas.",
+                "metodologia": "El valor de este indicador se establece a partir de la sumatoria del número de mujeres que asisten al total de Asambleas promovidas por el PNCBMCC, respecto de la sumatoria del número total de personas que asisten al total de Asambleas promovidas por el PNCNMCC.\n\nFórmula:\nN° de mujeres participantes (a+b+c) / N° total de personas participantes en la elaboración y seguimiento de instrumentos de gestión para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales (d) x 100.\n\nDonde:\na. N° de mujeres participantes en Asambleas Comunales de aprobación de los Planes de Gestión del Incentivo (PGI) - PNCBMCC\nb. N° de mujeres participantes en Asambleas Comunales de actualización de los Planes de Gestión del Incentivo (PGI) - PNBCMCC\nc. N° de mujeres participantes en Asambleas Comunales de rendición de cuentas sobre la ejecución de los Planes de Gestión del Incentivo (PGI) - PNCBMCC\nd. N° total de personas participantes en todas las Asambleas - PNCBMCC",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "40310",
+                "nombre": "Porcentaje de participación de mujeres en la elaboración y seguimiento de instrumentos de gestión para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales reportado por el PNCBMCC en el marco del servicio 4.2.4. de la PNIG",
+                "limitaciones": "La limitación asociada a este indicador es el incipiente registro de información desagregada por sexo de las personas participantes en la elaboración y seguimiento de instrumentos de gestión para la conservación, recuperación y uso sostenible de ecosistemas y recursos naturales."
+            }
+        ]
+    },
+    "22020": {
+        "data": [
+            {
+                "descripcion": "La Red de Voluntariado Ambiental Juvenil de la Dirección General de Educación, Ciudadanía y Cultura Ambiental nace como estrategia para el fortalecimiento de la educación y ciudadanía ambiental. Su objetivo es acompañar en las acciones que viene desarrollando los jóvenes para el cumplimiento de sus compromisos de acción ambiental para cuidar el planeta y aportar al desarrollo sostenible del país.",
+                "finalidad": "Mostrar la participación de la población voluntaria femenina en la temática ambiental.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "22020",
+                "nombre": "Mujeres que participan en el programa de voluntariado ambiental del MINAM"
+            }
+        ]
+    },
+    "30048": {
+        "data": [
+            {
+                "descripcion": "DEFINICIÓN CONCEPTUAL\n\nConflicto socioambiental: Es la disputa de intereses contrapuestos o aparentemente excluyentes entre dos o más actores acerca del uso, acceso, control, aprovechamiento o conservación de los recursos naturales.\n\nUn conflicto socioambiental en tratamiento: Comprende todas aquellas acciones que se realizan de manera coordinada y articulada en los espacios de diálogo o similares, que surgen como consecuencia o para abordar un conflicto socioambiental que se encuentran en proceso de negociación o elaboración de acuerdos entre las partes.\n\nLa participación del MINAM en conflictos socioambientales, puede ser en las siguientes modalidades: a) Como presidente / coordinador: se asume el rol de conducción, desde la instalación del espacio de diálogo o afines; b) Como integrante: se asume este rol por invitación de la PCM o del sector que preside o coordina el espacio de diálogo o similar; c) Como invitado: se asume este rol por invitación formal de la PCM o del sector que preside o coordina el espacio de diálogo o similar, para atender algún pedido de información específica; d) Como mediador o facilitador: se asume este rol a pedido formal de las partes en conflicto. \n\nDEFINICIÓN OPERATIVA\n\nSe dará por cumplido el indicador cuando la OGASA reporte los resultados de la participación del MINAM en los casos de conflictos socioambientales que se encuentran en tratamiento.\n\nEste indicador muestra el número de casos de conflictos socioambientales a nivel nacional que han sido gestionados por el MINAM, a través de la OGASA, en el marco de sus funciones.\n\nSe entiende gestionados como los casos que se encuentran en procesos de diálogo y en seguimiento de compromisos.",
+                "finalidad": "Registrar el número de casos de conflictos socioambientales en tratamiento y seguimiento que son gestionados con participación del MINAM.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "30048",
+                "nombre": "Número de casos de conflictos socioambientales gestionados con participación del MINAM",
+                "limitaciones": "Para el caso de la serie departamental, cuando un conflicto se registra en más de un ámbito departamental, se contabiliza para cada uno de los departamentos."
+            }
+        ]
+    },
+    "11089": {
+        "data": [
+            {
+                "descripcion": "El indicador muestra la superficie reforestada de un espacio y tiempo determinados, siendo la reforestación una actividad dentro de la silvicultura que busca repoblar zonas que han perdido su cobertura forestal.",
+                "finalidad": "Los bosques son considerados ecosistemas de alta diversidad biológica, los cuales a la vez proveen importantes servicios ambientales. Justamente, este indicador nos permite conocer el esfuerzo de una determinada gestión en recuperar estos espacios de bosques perdidos.",
+                "fuente": "Servicio Nacional Forestal y de Fauna Silvestre  - SERFOR",
+                "id": "11089",
+                "nombre": "Superficie reforestada anualmente",
+                "limitaciones": "El indicador nos indica la superficie recuperada, pero no nos indica cuán apropiada ha sido la actividad de reforestación en un espacio determinado. Por ejemplo, podría haber reforestación con especies que no son propias de la zona.\n2019a/ Se consideró la información del Registro Nacional de Plantaciones Forestales."
+            }
+        ]
+    },
+    "8290": {
+        "data": [
+            {
+                "descripcion": "La superficie por reforestar se refiere a toda extensión con aptitud para fines forestales expresado en hectáreas",
+                "finalidad": "Este indicador tiene por finalidad brindar una señal del nivel de avance o retroceso en la implementación de acciones y políticas de recuperación de la superficie forestal en el país.",
+                "fuente": "Servicio Nacional Forestal y de Fauna Silvestre  - SERFOR",
+                "id": "8290",
+                "nombre": "Superficie del territorio por reforestar",
+                "limitaciones": "Este indicador no considera factores externos como los sociales, que podrían imposibilitar la reforestación de los territorios en cuestión, incluso si poseen las características necesarias para dicho fin."
+            }
+        ]
+    },
+    "3099": {
+        "data": [
+            {
+                "descripcion": "La pérdida de bosques integra las perdidas naturales y antrópicas, esta última es la que se la denomina \"deforestación\", actualmente la pérdida de bosques, no considera las pérdidas ocurridas por la migración del cauce de ríos, las cuales han podido separarse durante el proceso metodológico, faltando aún separar las otras pérdidas naturales.\n\nLa fuente de la información es el Mapa de Bosque y No bosque y Pérdida de Bosques, el cual se actualiza anualmente, este mapa tiene como \"línea base\" al año 2000, año en que se identificaron las coberturas de \"Bosque\" y \"No Bosque\", a partir de ese año se monitorea la \"Pérdida de bosques\" anualmente.\n\nEsta información se puede encontrar en la plataforma GEOBOSQUES http://geobosques.minam.gob.pe/geobosque/view/index.php",
+                "finalidad": "Este indicador busca cuantificar la pérdida de la superficie de bosques en un momento determinado del tiempo.",
+                "metodologia": "La clasificación de la \"pérdida de bosques\" se calcula anualmente, mediante la identificación de los cambios ocurridos identificados mediante imagenes de satélite LANDSAT, \nPara \"Bosque\" se ha considerado las siguientes coberturas vegetales: aguajales, bosque de varíllales, bosque de colinas y lomadas, bosque de terrazas, bosque ribereño y bosque de pacales. \n\"No Bosque\" contiene las coberturas vegetales: bosque secundario, centros poblados, redes viales, áreas mineras, zonas agrícolas, herbazales y sabana hidrofítica.\n\nLa metodología utiliza árboles de decisión supervisadas con imágenes Landsat libre de nubes, con el fin de delimitar las zonas de pérdida de la cubierta forestal entre 2000 y el presente.\n\nLos detalles de la metodología pueden verse en el documento: http://www.bosques.gob.pe/archivo/files/pdf/memoria_descriptiva_2000.pdf",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "3099",
+                "nombre": "Pérdida de la superficie de bosques",
+                "limitaciones": "Actualmente, el ámbito de estudio corresponde al bosque húmedo amazónico, los datos no contienen áreas de bosque seco, ni bosque andino."
+            }
+        ]
+    },
+    "21874": {
+        "data": [
+            {
+                "descripcion": "El incremento de los números de especies considera dos aspectos: a) incremento del conocimiento asociado a las especies (biogeográfico, genético, taxonómico, entre otros); y b) reportes oficiales de instituciones del Estado. Estas consideraciones deben ser tomadas en cuenta en el momento de analizar el incremento o disminución de la diversidad de especies reportada para el Perú. Considera Anfibios; Reptiles; Aves; Mamíferos; Peces continentales; Angiospermas y gimnospermas.",
+                "finalidad": "Mostrar las variaciones en el número de especies de fauna y flora existentes en el Perú.",
+                "metodologia": "N° Especies de Anfibios existentes = A\nN° Especies de Réptiles existentes = B\nN° Especies de Aves existentes = C\nN° Especies de Mamíferos existentes = D\nN° Especies de Peces Continentales existentes = E\nN° Especies de angiosperma y gimnospermas existentes = F\nSumatoria de variables.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "21874",
+                "nombre": "Especies de fauna y flora existentes",
+                "limitaciones": "Este indicador se presenta sobre la base de la información más actual disponible. Está supeditada a factores externos como el descubrimiento de nuevas especies."
+            }
+        ]
+    },
+    "21259": {
+        "data": [
+            {
+                "descripcion": "Se entiende por degradación de ecosistemas a la pérdida total o parcial de algunos de sus componentes esenciales (agua, suelo y especies), que altera su estructura natural y funcionamiento; disminuyendo, por tanto, su capacidad de proveer bienes y servicios ecosistémicos (R.M 178-2019-MINAM). La identificación de las áreas degradadas en los ecosistemas terrestres se basa en el uso de indicadores medibles en el espacio y en el tiempo como el cambio de la cobertura de la tierra y la fragmentación (modificación de la estructura) y la pérdida de productividad primaria (funcionamiento), dichos indicadores son medidos con el uso de imágenes satelitales y comprobaciones de campo. Parte de los indicadores utilizados recoge la recomendación del Marco Científico Conceptual para la Neutralidad de la Degradación de las Tierras (UNCCD, 2017).\n\nLa construcción del Mapa Nacional de Áreas Degradadas, ha tomado en consideración las recomendaciones del Comité Científico de la Convención de Lucha Contra la Desertificación y la Sequía respecto a la Neutralidad de la Degradación de las Tierras (NDT), así como el marco regulatorio establecido por los Lineamientos para la Formulación de Proyectos de Inversión Pública en Diversidad Biológica y Servicios Ecosistémicos, aprobados por Resolución Directoral N° 006‐2015‐EF/63.01 y los Lineamientos de Política de Inversión Pública en materia de Diversidad Biológica y Servicios Ecosistémicos 2015 – 2021 (aprobados por Resolución Ministerial N° 199‐2015‐MINAM) y los Lineamientos de Inversión en Ecosistemas, Especies y Apoyo al Uso Sostenible (aprobado por Resolución Ministerial 178-2019-MINAM). Así mismo, se contribuye a la dinamización de la inversión pública/privada en la recuperación de ecosistemas degradados",
+                "finalidad": "Gestión de ecosistemas. Movilizar inversiones en recuperación de ecosistemas.",
+                "metodologia": "Fuente de datos: Imágenes de satélite MODIS y Landsat. Mapa de cambios de cobertura vegetal y Tendencias Negativas de la Productividad Primaria Neta de la Dirección General de Ordenamiento Territorial (DGOTA), Mapa de pérdida de Bosque en el período 2000 al 2017 y Fragmentación del Programa Nacional de Conservación de Bosques (PNCBMCC).\n\nIndicadores: (1) Dinámica de la productividad de la tierra-PPN, (2) Cambio de cobertura vegetal - CCV, (3) Pérdida de bosque - PB (Selva), (4) Fragmentación de bosques-FB (Selva)\n\nÁrea Degradada = PPN + CCV + D + FB (integración espacial)",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "21259",
+                "nombre": "Superficie de los ecosistemas degradados",
+                "limitaciones": "Solo se considera ecosistemas terrestres. El indicador no cuantifica la magnitud de la pérdida de los servicios ecosistémicos como servicios de provisión, servicios de regulación y de apoyo y, servicios culturales."
+            }
+        ]
+    },
+    "40331": {
+        "data": [
+            {
+                "descripcion": "Este indicador muestra la pérdida de cobertura vegetal registrada con Terra-I Perú. La cobertura vegetal puede ser definida como la capa de vegetación natural que cubre la superficie terrestre, comprendiendo una amplia gama de biomasas con diferentes características fisonómicas y ambientales que van desde pastizales hasta las áreas cubiertas por bosques naturales. También se incluyen las coberturas vegetales inducidas que son el resultado de la acción humana como serían las áreas de cultivos. Terra-i Perú, es una herramienta diseñada para la detección de los cambios de la cobertura y uso del territorio, capaz de brindar alertas tempranas sobre el aumento y disminución de la cobertura de la tierra en el Perú.\nhttp://www.terra-i.org/terra-i/data/data-terra-i_peru.html",
+                "finalidad": "Mostrar la pérdida de la cobertura vegetal por unidad de ecosistemas costeros, andinos, de yunga y selva tropical",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "40331",
+                "nombre": "Pérdida de la cobertura vegetal por unidad de ecosistemas costeros, andinos, de yunga y selva tropical",
+                "limitaciones": "La limitación de este indicador está asociada a la limitación tecnológica que podría presentar la herramienta Terra-I Perú, la cual en principio es bastante buena."
+            }
+        ]
+    },
+    "11235": {
+        "data": [
+            {
+                "descripcion": "Este indicador señala el porcentaje de la superficie cubierta por bosques en relación a la superficie total del territorio del país.\n\nSe utiliza la definicion del Marco Metodológico del Inventario Nacional Forestal (INF), donde define al bosque como un “ecosistema predominantemente arbóreo que debe tener una superficie mayor que 0,5 ha, con un ancho mínimo de 20 metros y presentar una cobertura de copas mínima del 10 %. La vegetación predominante está representada por árboles de consistencia leñosa que tienen una altura mínima de 2 metros en su estado adulto para costa y sierra, y 5 metros para la selva amazónica.\n\nLa superficie total del territorio del país corresponde a la superficie total de las tierras del país.",
+                "finalidad": "Asegurar el manejo sostenible de los recursos forestales de la región, reduciendo significativamente las tasas actuales de deforestación.",
+                "metodologia": "La metodología utiliza árboles de decisión supervisadas con imágenes Landsat libre de nubes, con el fin de delimitar las zonas de pérdida de la cubierta forestal anualmente.\n\nLos detalles de la metodología pueden verse en el documento: http://www.bosques.gob.pe/archivo/files/pdf/memoria_descriptiva_2000.pdf\n\n(Superficie cobertura de bosques/Superficie territorio nacional) *100",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "11235",
+                "nombre": "Proporción de la superficie cubierta por bosques",
+                "limitaciones": "Actualmente, el ámbito de estudio corresponde al bosque húmedo amazónico, los datos no contienen áreas de bosque seco, ni bosque andino."
+            }
+        ]
+    },
+    "21781": {
+        "data": [
+            {
+                "descripcion": "Este indicador muestra la pérdida de cobertura vegetal registrada con Terra-I Perú. La cobertura vegetal puede ser definida como la capa de vegetación natural que cubre la superficie terrestre, comprendiendo una amplia gama de biomasas con diferentes características fisonómicas y ambientales que van desde pastizales hasta las áreas cubiertas por bosques naturales. También se incluyen las coberturas vegetales inducidas que son el resultado de la acción humana como serían las áreas de cultivos. Terra-i Perú, es una herramienta diseñada para la detección de los cambios de la cobertura y uso del territorio, capaz de brindar alertas tempranas sobre el aumento y disminución de la cobertura de la tierra en el Perú. \nhttp://www.terra-i.org/terra-i/data/data-terra-i_peru.html",
+                "finalidad": "Mostrar la pérdida de la cobertura vegetal de los ecosistemas a nivel nacional.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "21781",
+                "nombre": "Pérdida de la superficie de la cobertura vegetal",
+                "limitaciones": "La limitación de este indicador está asociada a la limitación tecnológica que podría presentar la herramienta Terra-I Perú, la cual en principio es bastante buena."
+            }
+        ]
+    },
+    "21399": {
+        "data": [
+            {
+                "descripcion": "Los Humedales Ramsar son los humedales designados y reconocidos por la Convención de Ramsar como humedales de importancia internacional. Este reconocimiento se otorga luego de cumplir los criterios indicados por la Convención de Ramsar. Los sitios Ramsar se evalúan a solicitud de terceros. Cada humedal Ramsar tienen una extensión indicada en su Ficha Informativa Ramsar y su reconocimiento se establece a través del Certificado remitido por la Convención de Ramsar.\nConvención de Ramsar (https://www.ramsar.org/)",
+                "finalidad": "Este indicador muestra la superficie de humedales Ramsar.",
+                "metodologia": "R1+R2+R3+...Rn R: extensión de sitio Ramsar\n\nSumatoria simple.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "21399",
+                "nombre": "Superficie de humedales Ramsar",
+                "limitaciones": "El indicador solo brinda extensión, no otras particularidades de los humedales Ramsar."
+            }
+        ]
+    },
+    "8148": {
+        "data": [
+            {
+                "descripcion": "Se utiliza la definicion del Marco Metodológico del Inventario Nacional Forestal (INF), donde define al bosque como un “ecosistema predominantemente arbóreo que debe tener una superficie mayor que 0,5 ha, con un ancho mínimo de 20 metros y presentar una cobertura de copas mínima del 10 %. La vegetación predominante está representada por árboles de consistencia leñosa que tienen una altura mínima de 2 metros en su estado adulto para costa y sierra, y 5 metros para la selva amazónica.\n\nFuente de esta definicion: http://www.bosques.gob.pe/archivo/files/pdf/memoria_descriptiva_2000.pdf",
+                "finalidad": "Este indicador busca presentar la evolución de la extensión de la superficie de bosques.",
+                "metodologia": "La metodología utiliza árboles de decisión supervisadas con imágenes Landsat libre de nubes, con el fin de delimitar las zonas de pérdida de la cubierta forestal anualmente.\n\nLos detalles de la metodología pueden verse en el documento: http://www.bosques.gob.pe/archivo/files/pdf/memoria_descriptiva_2000.pdf",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "8148",
+                "nombre": "Superficie de bosque húmedo amazónico",
+                "limitaciones": "Actualmente, el ámbito de estudio corresponde al bosque húmedo amazónico, los datos no contienen áreas de bosque seco, ni bosque andino."
+            }
+        ]
+    },
+    "21857": {
+        "data": [
+            {
+                "descripcion": "Especie endémica es toda especie cuyo rango de distribución natural está limitado a una zona geográfica en particular. A diferencia de las especies nativas, al referirnos a las especies endémicas, estas solo están distribuidas dentro de un único país o territorio.\n \nAngiospermas: Son plantas con tejidos y órganos perfectamente diferenciados. Tienen flores que producen semillas encerradas y protegidas por la pared del ovario (carpelos) que, posteriormente, se convierte en fruto. Las angiospermas pueden ser plantas herbáceas, arbustivas o arbóreas; presentan amplia variación morfológica en la estructura floral, apéndices y mecanismos de polinización. Tradicionalmente por el tipo de semillas se clasifican en monocotiledóneas y dicotiledóneas (Liliopsida y Magnoliopsida).\n \nGimnospermas: Son plantas vasculares y productoras de semillas. Sus semillas no se forman en un ovario cerrado, sino que se encuentran desnudas.\n \nNota: El número de especies endémicas ha sufrido variaciones debido a distintos factores tales como el descubrimiento de nuevas especies, el incremento de la información sobre especies crípticas o poco conocidas, estudios genéticos que permiten una mejor diagnosis y revisión de categorías intraespecíficas.\n\nNúmero de especies endémicas de los principales grupos taxonómicos del Perú. De manera general, las especies endémicas son especies animales o vegetales exclusivas del territorio peruano.\n\nEl concepto de endemismo utilizado en la tabla se refiere a especies exclusivas al país. Indicar, que existe un concepto más estricto de endemismo que es biogeográfico (es decir, corresponde a especies de distribución muy restringida), y que no responde necesariamente a límites político-administrativos; o sea, una especie puede distribuirse en dos o más países, pero su área de distribución es muy limitada (menos de 5 millones de hectáreas), por lo que se le considera endémica según este concepto más estricto o restrictivo.",
+                "finalidad": "Mostrar las variaciones en el número de especies de fauna y flora endémicas en el Perú y dar cuenta de la riqueza de especies restringidas a nuestro ámbito territorial.",
+                "metodologia": "N° Especies de Anfibios endémicos = A\nN° Especies de Réptiles endémicos = B\nN° Especies de Aves endémicas = C \nN° Especies de Mamíferos endémicos = D \nN° Especies de Peces Continentales endémicos = E \nN° Especies de angiospermas y gimnospermas endémicas = F\n\nSumatoria de variables.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "21857",
+                "nombre": "Especies de fauna y flora endémicas",
+                "limitaciones": "Este indicador se presenta sobre la base de la información más actual disponible. Está supeditada a factores externos como el descubrimiento de nuevas especies, incremento de la información sobre especies crípticas o poco conocidas, estudios genéticos que permiten proponer la fusión o división de especies, entre otros.\n\nDebido al escaso conocimiento que se tiene de la distribución real de las especies, podríamos estar considerando a una especie como endémica, hasta que nueva información sobre su distribución nos indique que en realidad no lo era."
+            }
+        ]
+    },
+    "21329": {
+        "data": [
+            {
+                "descripcion": "Este indicador muestra la superficie priorizada para la recuperación/conservación de la superficie degradada. La degradación de los ecosistemas es la “Pérdida total o parcial de algunos de sus componentes esenciales (agua, suelo y especies), lo que altera su infraestructura natural y funcionamiento; disminuyendo, por tanto, su capacidad de mantener a los diferentes organismos vivos entre ellos al ser humano, es decir, su capacidad de proveer servicios ecosistémicos.                                                                                                                                                                                                                                                                    Es la disminución persistente de la capacidad de los ecosistemas de proveer servicios.                                                                                                                                                                                                                                              https://www.greenfacts.org/es/glosario/def/degradacion-ecosistemas.htm",
+                "finalidad": "Este indicador muestra información sobre la evolución de la exensión de la supeficie de los ecosistemas degradados priorizados en el territorio nacional, por departamento.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "21329",
+                "nombre": "Superficie priorizadas para la recuperación de los ecosistemas degradados",
+                "limitaciones": "No da alcances respecto del estado de avance de conservación/recuperación de la superficie de los ecosistemas degradados priorizados."
+            }
+        ]
+    },
+    "24067": {
+        "data": [
+            {
+                "descripcion": "\"El cambio en el uso eficiente de los recursos hídricos con el paso del tiempo (CWUE) es el cambio en el ratio del valor agregado al volumen del uso del agua, con el paso del tiempo. \nEl uso eficiente del agua (WUE) es definido como el volumen del uso del agua dividido para el valor agregado de un sector mayor dado. Siguiendo el código ISIC 4, los sectores son definidos como:\n1. agricultura; forestal; pesca (ISIC A), en adelante “agricultura”\n2.  minas y canteras; manufactura, electricidad, gas, suministros de vapor y aire acondicionado; construcciones (ISIC B, C, D u F), en adelante “MIMEC”;\n3. Todos los sectores de servicios (ISIC E y ISIC G-T), en adelante “servicios”.\"",
+                "finalidad": "Conocer cómo va variando el uso eficiente de los recursos hídricos a lo largo del tiempo para determinar si aumenta o disminuye la eficiencia en el uso de esos recursos naturales.",
+                "fuente": "Autoridad Nacional del Agua - ANA",
+                "id": "24067",
+                "nombre": "Cambio en el uso eficiente de los recursos hídricos",
+                "limitaciones": "\"La informacion de las variables que intervienen en el calculo del indicador deben responder a un proceso de revision de la calidad, por lo que los resultados del indicador estan listos a mediados de año. \nAsí mismo debe convalidarse tanto las variables económicas como las variables hídricas,debido a que las variables hídricas, son medidas por sectores de uso, mientras que las variables económicas son medidas por los sectores económicos clasificados segun Revisión. 4 Clasificación Industrial Internacional Uniforme.\""
+            }
+        ]
+    },
+    "20554": {
+        "data": [
+            {
+                "descripcion": "El indicador mide el porcentaje de la población cuya fuente primaria de energía para cocinar consiste en combustibles y tecnología limpios. “Limpio”  se define por el objetivo de tasa  de emisión y combustibles específicos recomendados (es decir,  contra el carbón sin procesar y kerosene) que se incluye en la guía normativa WHO de instrucciones  para la calidad del aire interior: combustión del combustible doméstico.",
+                "finalidad": "Se estima que el uso de combustibles ineficaces tan solo para cocinar causa más de 4 millones de muertes anuales, principalmente entre mujeres y niños. Esto es mayor que TB, HIV y combinado con malaria. Estos impactos adversos para la salud se pueden evitar adoptando tecnologías y combustibles limpios para toda la energía esencial del hogar o en algunas circunstancias adquiriendo estufas de cocina de combustión avanzada (es decir aquellos que alcanzan los objetivos de tasas de emisión establecidos en las directrices de la OMS (WHO) y adoptando protocolos estrictos para el uso seguro. Dada la importancia del uso de una limpia y segura energía doméstica como un tema del desarrollo humano, el acceso universal de la energía entre la comunidad de practicantes técnicos está actualmente dirigida para dar el acceso a ambas, electricidad, combustibles limpios y tecnologías para cocinar, calefacción y alumbrado. Por esta razón, para todas las iniciativas las maneras limpias de cocinar parten del objetivo universal del acceso bajo los lineamientos de la UN Secretary General’s Sustainable Energy.",
+                "metodologia": "Nota 1: Incluye en combustible que usan con mayor frecuencia para cocinar a Electricidad, Gas (GLP) y Gas Natural.\n\nNota 2: En el año 2021, el precio del balón de gas se ha incrementado, según el Organismo Peruano de Consumidores y Usuarios (OPECU), debido al comportamiento del precio internacional del combustible, por lo tanto, los hogares han dejado de utilizar Gas Licuado de Petróleo (GLP) para cocinar los alimentos.' en el cuadro y gráfico. Los graficos de Metropolitano los años 2020 y 2021 estan incorrectos.",
+                "fuente": "Instituto Nacional de Estadística e Informática  - INEI",
+                "id": "20554",
+                "nombre": "Proporción de la población cuya fuente primaria de energía para cocinar consiste en combustibles y tecnología limpios",
+                "limitaciones": "El indicador utiliza el tipo de combustibles primarios y las tecnologías utilizadas para cocinar, calentar e iluminar como un sustituto práctico para estimar la exposición humana a la contaminación del aire doméstico (interior) y su relación con la enfermedad, ya que actualmente no es posible obtener muestras nacionales representativas de concentraciones de contaminantes de criterio, como partículas finas y monóxido de carbono. sin embargo los estudios epidemiológicos proporcionan una evidencia científica para establecer esas estimaciones usando estos sustitutos. El indicador se basa en el tipo principal de combustible y la tecnología utilizada para cocinar, ya que la cocina ocupa el la mayor parte de las necesidades energéticas generales del hogar. Sin embargo, muchos hogares usan más de un tipo de combustible y estufa para cocinar y, dependiendo de las condiciones climáticas y geográficas, calefacción. Los combustibles también pueden contribuir a los niveles de contaminación del aire en el hogar (interior). Además, la iluminación con querosene, un combustible muy contaminante y peligroso, también se usa con frecuencia, y en algunos países es el combustible principal usado para cocinar."
+            }
+        ]
+    },
+    "23488": {
+        "data": [
+            {
+                "descripcion": "Este indicador muestra la proporción de energía renovable respecto al consumo final de energía en el país sin considerar el consumo no energético. Como energía renovable se considera a aquella que se obtiene de fuentes naturales que no se agotan, ya sea porque gozan de una gran cantidad o porque pueden regenerarse por medios naturales. En este caso, este indicador se obtiene considerando el consumo de leña, bosta/yareta, bagazo, solar, carbón vegetal, gasohol (% de alcohol carburante), biodiesel e hidroenergia.",
+                "finalidad": "Mostrar la importancia y el grado de avance del consumo de energía renovable respecto del consumo total de energía.",
+                "fuente": "Ministerio de Energía y Minas  - MINEM",
+                "id": "23488",
+                "nombre": "Proporción de la energía renovable en el consumo final total de energía",
+                "limitaciones": "El indicador no da cuenta del grado de descentralización de la energía renovable, es decir, su distribución y alcance respecto de la población nacional."
+            }
+        ]
+    },
+    "23841": {
+        "data": [
+            {
+                "descripcion": "La energía eléctrica es la proveniente de la conversión de fuentes de energía primaria a través de diversas tecnologías de generación eléctrica ya sea a nivel de centrales de generación o de generación distribuida.",
+                "finalidad": "Este indicador muestra la capacidad de producción de energía eléctrica en el Perú y sus potencialidades.",
+                "metodologia": "Producción de energía eléctrica = Producción de Electricidad para mercado eléctrico + Producción de Electricidad para uso propio\nProducción de energía eléctrica = PEE",
+                "fuente": "Ministerio de Energía y Minas  - MINEM",
+                "id": "23841",
+                "nombre": "Producción de energía eléctrica",
+                "limitaciones": "Este indicador no proporcina información acerca de la eficiencia de la distribución y la utilización de la energía eléctrica producida. La producción de energía  eléctrica debe aumentar debido al mayor acceso servicios que consumen electricidad por parte de la población"
+            }
+        ]
+    },
+    "23764": {
+        "data": [
+            {
+                "descripcion": "Proporción de población con acceso a electricidad es el porcentaje de población que cuenta con acceso a electricidad.",
+                "finalidad": "El acceso a la electricidad aborda importantes problemas críticos en todas las dimensiones del desarrollo sostenible. Por un lado, la generación de electricidad requiere en muchos casos del consumo de combustibles y genera contaminación, y por otro lado el acceso de la población a  la electricidad tienen una amplia gama de impactos sociales y económicos, que incluyen facilitar el desarrollo de actividades generadoras de ingresos y aligerar la carga de las tareas domésticas",
+                "metodologia": "Nota: En el año 2020, en la zona rural aumentó el porcentaje porque un total de 58 mil peruanos residentes en zonas rurales accedieron al servicio eléctrico, debido a la implementación de ocho proyectos de electrificación impulsados por el Minem; y por la pandemia del COVID 19 se asignó el subsidio monetario 'El Bono Electricidad' con el fin de cubrir los gastos.",
+                "fuente": "Instituto Nacional de Estadística e Informática  - INEI",
+                "id": "23764",
+                "nombre": "Proporción de la población que tiene acceso a electricidad",
+                "limitaciones": "La presencia de una conexión de electricidad en el hogar no necesariamente garantiza que la energía suministrada sea adecuada en calidad y confiabilidad o que sea económica."
+            }
+        ]
+    },
+    "21190": {
+        "data": [
+            {
+                "descripcion": "Los recursos hidrobiológicos hacen referencia a las especies continentales. En los datos se incluyen todas las cantidades capturadas para la alimentación tanto humana como animal, pero se excluyen los descartes. El periodo anual utilizado corresponde al año calendario (del 1 de enero al 31 de diciembre).",
+                "finalidad": "Este indicador busca promover planes de acción para el manejo integrado de los recursos hidrobiológicos continentales, así como los ecosistemas que ellos representan.",
+                "fuente": "Ministerio de la Producción  - PRODUCE",
+                "id": "21190",
+                "nombre": "Extracción de recursos hidrobiológicos de origen continental",
+                "limitaciones": "El indicador no brinda información sobre la diversidad y la importancia relativa de cada uno de los recursos agregados."
+            }
+        ]
+    },
+    "20058": {
+        "data": [
+            {
+                "descripcion": "Se denomina madera rolliza a la madera en bruto, es decir, madera en su estado natural, después de haber sido talada u obtenida de otro modo, con o sin corteza, en rollos, hendida, simplemente escuadrada, o en alguna otra forma (por ejemplo, raíces, tocones, nudos, etc.).",
+                "finalidad": "Este indicador intenta suplir la demanda de información respecto a estadísticas del Patrimonio forestal.",
+                "fuente": "Servicio Nacional Forestal y de Fauna Silvestre  - SERFOR",
+                "id": "20058",
+                "nombre": "Producción de madera rolliza",
+                "limitaciones": "La actualización de la variable solo proviene de una fuente. La recopilación de información provenientes de las Administraciones Técnicas de Forestal y Fauna Silvestre no se efectúa en tiempo real."
+            }
+        ]
+    },
+    "23858": {
+        "data": [
+            {
+                "descripcion": "Este indicador mide el gasto ambiental, el que corresponde al gasto devengado de la función ambiente a todos los niveles de gobierno. El MEF y el MINAM deberían acordar sobre qué se entiende por gasto ambiental.",
+                "finalidad": "Este indicador muestra el compromiso del Estado (en términos económicos) con respecto a la protección del ambiente, aspecto fundamental para alcanzar el desarrollo sostenible en el país.",
+                "fuente": "Ministerio de Economía y Finanzas  - MEF",
+                "id": "23858",
+                "nombre": "Gasto público ambiental",
+                "limitaciones": "Puede existir variabilidad en los datos de los periodos más recientes debido al corte realizado en el registro de información, por parte del Ministerio de Economía y Finanzas."
+            }
+        ]
+    },
+    "20107": {
+        "data": [
+            {
+                "descripcion": "La madera aserrada es el producto del aserrío a partir de madera rolliza.",
+                "finalidad": "Este indicador intenta suplir la demanda de información respecto a estadísticas del Patrimonio forestal.",
+                "fuente": "Servicio Nacional Forestal y de Fauna Silvestre  - SERFOR",
+                "id": "20107",
+                "nombre": "Producción de madera aserrada",
+                "limitaciones": "La actualización de la variable solo proviene de una fuente. La recopilación de información provenientes de las Administraciones Técnicas de Forestal y Fauna Silvestre no se efectúa a tiempo real."
+            }
+        ]
+    },
+    "1969": {
+        "data": [
+            {
+                "descripcion": "Un desastre se define como un evento imprevisto y a menudo repentino que causa grandes daños, destrucción y sufrimiento humano que supera la capacidad local y que requiere una petición de asistencia externa a escala nacional o internacional. Para este indicador se consideran solo los siguientes desastres naturales: geofísicos (terremotos, erupciones volcánicas y remoción de masa seca), meteorológicos (tormentas), hidrológicos (inundaciones y remoción de masa húmeda) y climatológicos (temperaturas extremas, sequías e incendios).",
+                "finalidad": "El indicador muestra la superficie de tierra de cultivo destruida por ocurrencia de desastres, en consecuencia su impacto en el sector agrícola y las poblaciones que deenden directamente de él. Se calcula a partir de registros administrativos del sistema de atención y prevención de desastres del país responsable de documentar el número de desastres en el año de referencia.",
+                "fuente": "Instituto Nacional de Defensa Civil  - INDECI",
+                "id": "1969",
+                "nombre": "Superficie de tierra de cultivo destruida por ocurrencia de emergencias",
+                "limitaciones": "Las fuentes nacionales responsables de registrar los desastres naturales no registran todos los tipos de desastres."
+            }
+        ]
+    },
+    "20143": {
+        "data": [
+            {
+                "descripcion": "El indicador mide el número de personas que sufren un efecto negativo a causa de la ocurrencia de un desastre o emergencia producida por los fenomenos naturales y antrópicos. El fenómeno natural es todo lo que ocurre en la naturaleza, puede ser percibido por los sentidos y ser objeto del conocimiento. El fenómeno tecnológico o antrópico, es aquel producido por la actividad del hombre como: incendios, accidentes, derrame de sustancia nociva, contaminación y otros.",
+                "finalidad": "Este indicador contribuye al ODS 13, el cual busca medir el número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 personas",
+                "metodologia": "NFDA: (NF+ND+NA)\n\nNFDA: Número de personas fallecidas, desaparecidas y afectadas\n\nNF: Número de personas fallecidas\n\nND: Número de peronas desaparecidas\n\nNA: Número de personas afectadas\n\nPersonas afectadas: Son aquellas que sufren perturbaciones en su ambiente por efectos de un fenómeno\n\nPueden requerir de apoyo inmediato para eliminar o reducir las causas de la perturbación para la continuación de la actividad normal\n\nPersonas desaparecidas: Son aquellas cuya localización se desconoce por alguna razón como: catástrofes, lluvias, desastres etc\n\nPersonas fallecidas: Son aquellas que han perdido la vida debido a desastres , etc",
+                "fuente": "Instituto Nacional de Defensa Civil  - INDECI",
+                "id": "20143",
+                "nombre": "Número de personas fallecidas, desaparecidas y afectadas por ocurrencia de emergencias",
+                "limitaciones": "El número de personas afectadas puede reportar la afectación de una misma persona por diversos eventos en el transcurso del respectivo año en estudio."
+            }
+        ]
+    },
+    "20465": {
+        "data": [
+            {
+                "descripcion": "Un desastre se define como un evento imprevisto y a menudo repentino que causa grandes daños, destrucción y sufrimiento humano que supera la capacidad local y que requiere una petición de asistencia externa a escala nacional o internacional. Para este indicador se consideran solo los siguientes desastres naturales: geofísicos (terremotos, erupciones volcánicas y remoción de masa seca), meteorológicos (tormentas), hidrológicos (inundaciones y remoción de masa húmeda) y climatológicos (temperaturas extremas, sequías e incendios).",
+                "finalidad": "El indicador muestra el número de viviendas destruidas por ocurrencia de desastres naturales durante el año de referencia, proporcionando informacion valiosa sobre la vulnerabilidad de las viviendas en el Perú, principalmente a los tomadores de decisión. se calcula a partir de registros administrativos del sistema de atención y prevención de desastres del país responsable de documentar el número de desastres en el año de referencia así como el número de personas afectadas y fallecidas.",
+                "fuente": "Instituto Nacional de Defensa Civil  - INDECI",
+                "id": "20465",
+                "nombre": "Número de viviendas destruidas por ocurrencia de emergencias",
+                "limitaciones": "Las fuentes nacionales responsables de registrar los desastres naturales no registran todos los tipos de desastres."
+            }
+        ]
+    },
+    "20419": {
+        "data": [
+            {
+                "descripcion": "Un desastre se define como un evento imprevisto y a menudo repentino que causa grandes daños, destrucción y sufrimiento humano que supera la capacidad local y que requiere una petición de asistencia externa a escala nacional o internacional. Para este indicador se consideran solo los siguientes desastres naturales: geofísicos (terremotos, erupciones volcánicas y remoción de masa seca), meteorológicos (tormentas), hidrológicos (inundaciones y remoción de masa húmeda) y climatológicos (temperaturas extremas, sequías e incendios).",
+                "finalidad": "Este indicador muestra el número de personas damnificadas por ocurrencia de desastres naturales. Se calcula a partir de registros administrativos del sistema de atención y prevención de desastres del país responsable de documentar el número de desastres en el año de referencia así como el número de personas afectadas y fallecidas.",
+                "fuente": "Instituto Nacional de Defensa Civil  - INDECI",
+                "id": "20419",
+                "nombre": "Número de personas damnificadas por ocurrencia de emergencias",
+                "limitaciones": "Las fuentes nacionales responsables de registrar los desastres naturales no registran todos los tipos de desastres."
+            }
+        ]
+    },
+    "20197": {
+        "data": [
+            {
+                "descripcion": "Una emergencia se define como un evento imprevisto y a menudo repentino que causa grandes daños, destrucción y sufrimiento humano que supera la capacidad local y que requiere una petición de asistencia externa a escala nacional o internacional. Dentro de las emergencias de origen natural se encuentran definidas las siguientes: alud,  aluvión,  colapso de viviendas,  derrumbe,  deslizamiento,  lloclla (huayco),  maremotos (tsunami), sismos,  eventos fríos,  helada,  inundación,  marejada (maretazo),  precipitaciones – granizo,  precipitaciones – lluvia,  precipitaciones – nevada,  precipitaciones pluviales,  riada (crecida de rio) (avenida),  sequia,  tormenta eléctrica y vendavales (vientos fuertes).",
+                "finalidad": "Este indicador tiene por finalidad mostrar el número de emergencias ocasionadas por fenómenos de origen natural y/o de modo que se tenga en cuenta la tendencia histórica y constituya información útil para los tomadores de decisiones correspondientes. Se calcula a partir de registros administrativos del sistema de atención y prevención de emergencias del país responsable de documentar el número de emergencias en el año de referencia así como el número de personas afectadas y fallecidas.",
+                "fuente": "Instituto Nacional de Defensa Civil  - INDECI",
+                "id": "20197",
+                "nombre": "Número de emergencias ocurridas de origen natural y antrópico",
+                "limitaciones": "Las fuentes nacionales responsables de registrar los desastres naturales no registran todos los tipos de desastres."
+            }
+        ]
+    },
+    "20328": {
+        "data": [
+            {
+                "descripcion": "Un desastre se define como un evento imprevisto y a menudo repentino que causa grandes daños, destrucción y sufrimiento humano que supera la capacidad local y que requiere una petición de asistencia externa a escala nacional o internacional. Para este indicador se consideran solo los siguientes desastres naturales: geofísicos (terremotos, erupciones volcánicas y remoción de masa seca), meteorológicos (tormentas), hidrológicos (inundaciones y remoción de masa húmeda) y climatológicos (temperaturas extremas, sequías e incendios).",
+                "finalidad": "Mostrar el alcance del perjuicio ocasionado por los desastres naturales. El indicador se calcula a partir de registros administrativos del sistema de atención y prevención de desastres del país responsable de documentar el número de desastres en el año de referencia así como el número de personas afectadas y fallecidas.",
+                "fuente": "Instituto Nacional de Defensa Civil  - INDECI",
+                "id": "20328",
+                "nombre": "Número de personas afectadas por ocurrencia de emergencias",
+                "limitaciones": "Las fuentes nacionales responsables de registrar los desastres naturales no registran todos los tipos de desastres."
+            }
+        ]
+    },
+    "22787": {
+        "data": [
+            {
+                "descripcion": "Conforme con la legislación nacional (D.S. Nº 001-2010-AG), se entiende por aguas residuales a aquellas aguas cuyas características originales han sido modificadas por actividades antropogénicas, tengan que ser vertidas a un cuerpo natural de agua o reusadas y que por sus características de calidad requieren de un tratamiento previo.\n\nAsimismo vertimiento de aguas residuales, es la descarga de aguas residuales previamente tratadas, en un cuerpo natural de agua continental o marítima.\n\nTodo vertimiento de agua residual en una fuente natural de agua requiere de autorización de vertimiento, para cuyo efecto debe presentar el instrumento ambiental pertinente aprobado por la autoridad ambiental respectiva, el cual debe contemplar los siguientes aspectos respecto de las emisiones:\n\n1. Someter los residuos a los necesarios tratamientos previos.\n2. Comprobar que las condiciones del receptor permitan los procesos naturales de purificación.",
+                "finalidad": "Mostrar el volumen anual de vertimientos de aguas residuales industriales autorizadas según ámbito geográfico",
+                "metodologia": "El indicador se obtiene a través de registros administrativos realizados por la autoridad cargo del manejo de los recursos hídricos.",
+                "fuente": "Autoridad Nacional del Agua - ANA",
+                "id": "22787",
+                "nombre": "Volumen anual de vertimientos de aguas residuales industriales autorizadas",
+                "limitaciones": "El indicador muestra solamente los volúmenes de carga anual de vertimientos a los cuerpos receptores,  pero no determina cual es el nivel de impacto de estos cuerpos receptores en términos de calidad ambiental"
+            }
+        ]
+    },
+    "1973": {
+        "data": [
+            {
+                "descripcion": "Este indicador presenta en términos porcentuales la relación que existe entre los departamentos que a través de su órgano de gobierno respectivo han iniciado procesos de implementación de sus sistemas de información ambiental y el total de departamentos existentes en el país, incluyendo a la provincia constitucional del Callao.",
+                "finalidad": "Establecer la Red Nacional del SINIA",
+                "metodologia": "Registros Administrativos",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "1973",
+                "nombre": "Regiones con servicios de información ambiental implementados",
+                "limitaciones": "El indicador no establece el nivel de implementación del servicio en cada una de las regiones"
+            }
+        ]
+    },
+    "24385": {
+        "data": [
+            {
+                "descripcion": "Un Proyecto de Inversión Pública es declarado viable cuando, luego de haber sido evaluado por las instancias correspondientes, cumple todos los requisitos necesarios para continuar su ciclo y pasar a la fase de ejecución.",
+                "finalidad": "Mostrar el esfuerzo del sector público en pro de la mejora de la gestión de residuos sólidos a través de Proyectos de Inversión declarados viables.",
+                "fuente": "Ministerio de Economía y Finanzas  - MEF",
+                "id": "24385",
+                "nombre": "Proyectos de inversión pública viables en residuos sólidos",
+                "limitaciones": "El indicador no proporciona información sobre el alcance del impacto de cada Proyecto en la población."
+            }
+        ]
+    },
+    "21119": {
+        "data": [
+            {
+                "descripcion": "Las denuncias ambientales se refieren a hechos que pueden constituir una posible infracción ambiental.",
+                "finalidad": "Este indicador muestra el número de denuncias ambientales comunicadas al Organismo de Evaluación y Fiscalización Ambiental, constituyendo ello una medida de la toma de consciencia de los ciudadanos respecto de la protección del medio ambiente.",
+                "metodologia": "Conteo de denuncias ambientales por departamento.",
+                "fuente": "Organismo de Evaluación y Fiscalización Ambiental  - OEFA",
+                "id": "21119",
+                "nombre": "Denuncias ambientales registradas por el OEFA",
+                "limitaciones": "Este indicador no muestra la situación en tiempo real de los hechos denunciados que podrían constituir posibles infracciones ambientales."
+            }
+        ]
+    },
+    "20342": {
+        "data": [
+            {
+                "descripcion": "Un sistema de información ambiental local se constituye en una red de integración tecnológica, institucional y humana, que facilita el acceso a información en apoyo a la toma de decisiones y la gestión ambiental.",
+                "finalidad": "Mostrar el nivel de disponibilidad de la información ambiental en las provincias, por años. Las municipalidades provinciales en el marco de sus sistemas de gestión ambiental local, implementan mecanismos de gestión de información en concordancia con el Sistema Nacional de Información Ambiental - SINIA.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "20342",
+                "nombre": "Provincias con servicios de información ambiental implementados",
+                "limitaciones": "El indicador no refleja el nivel o estado de implementación de los SIAL."
+            }
+        ]
+    },
+    "29494": {
+        "data": [
+            {
+                "descripcion": "El presente indicador muestra la cantidad de residuos sólidos municipales generados por habitante.",
+                "finalidad": "Este indicador permite conocer la cantidad de residuos sólidos municipales generados por habitante, el cual es un insumo para el diseño, elaboración e implementación de políticas y estrategias para la minimización de los residuos.",
+                "metodologia": "Este indicador es hallado como parte de los estudios de caracterización de residuos sólidos elaborados por las municipalidades.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "29494",
+                "nombre": "Generación per cápita de residuos sólidos municipales",
+                "limitaciones": "No todas las municipalidades cuentan con estudios de caracterización de residuos sólidos."
+            }
+        ]
+    },
+    "11488": {
+        "data": [
+            {
+                "descripcion": "Las áreas degradadas por residuos sólidos municipales son aquellos lugares donde se realiza o se ha realizado la acumulación permanente de residuos sólidos municipales sin las consideraciones técnicas establecidas en el Reglamento del Decreto Legislativo N° 1278 que aprueba la Ley de Gestión Integral de Residuos Sólidos o sin su autorización.",
+                "finalidad": "Este indicador muestra la superficie de áreas degradadas por residuos sólidos municipales según el Inventario Nacional de Áreas Degradadas por Residuos Sólidos Municipales, aprobado mediante Resolución de Consejo Directivo N° 026-2018-OEFA/CD.",
+                "fuente": "Organismo de Evaluación y Fiscalización Ambiental  - OEFA",
+                "id": "11488",
+                "nombre": "Superficie degradada por residuos sólidos municipales"
+            }
+        ]
+    },
+    "24157": {
+        "data": [
+            {
+                "descripcion": "El gasto se refiere al devengado, es decir, la fase del ciclo del gasto donde se registra la obligación de pago, como consecuencia del respectivo compromiso contraído.                                                                                                                                                                                                                                                                         Son residuos sólidos aquellas sustancias, productos o subproductos en estado sólido o semisólido de los que su generador dispone, o está obligado a disponer, en virtud de lo establecido en la normatividad nacional o de los riesgos que causan a la salud y el ambiente. Esta definición incluye a los residuos generados por eventos naturales. En otras palabras, residuos sólidos son todas aquellas sustancias o productos que ya no necesitamos pero que algunas veces pueden ser aprovechados.",
+                "finalidad": "Conocer el volumen de gasto que se realiza a nivel municipal, provincial y departamental para valorar el compromiso que tiene cada gobierno subnacional con respecto al cuido del medio ambiente y gestión de RRSS, así como a  las tendencias de este, año a año",
+                "fuente": "Ministerio de Economía y Finanzas  - MEF",
+                "id": "24157",
+                "nombre": "Gasto para manejo de residuos sólidos municipales",
+                "limitaciones": "Existe un margen de variación en las cifras correspondientes al año disponible más reciente, debido al corte efectuado a fin de año."
+            }
+        ]
+    },
+    "40350": {
+        "data": [
+            {
+                "descripcion": "Valorización es cualquier operación cuyo objetivo sea que el residuo, uno o varios de los materiales que lo componen, sea reaprovechado y sirva a una finalidad útil al sustituir a otros materiales o recursos en los procesos productivos. Se valorizan residuos orgánicos e inorgánicos con potencial de valorización.\nLos residuos municipales o residuos del ámbito de la gestión municipal, están conformados por los residuos domiciliarios y los provenientes del barrido y limpieza de espacios públicos, incluyendo las playas, actividades comerciales y otras actividades urbanas no domiciliarias que generen residuos similares a los municipales, en  todo el ámbito de su jurisdicción.",
+                "finalidad": "El indicador muestra la evolución de la cantidad de residuos sólidos recuperados con fines de valorización a lo largo del tiempo y, de forma indirecta, los beneficios percibidos por esta actividad como: ahorro de materias primas, ahorro de energía, mitigación de la cotaminación ambiental y la deforestación evitada.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "40350",
+                "nombre": "Valorización de residuos sólidos municipales",
+                "limitaciones": "No todas las municipalidades reportan en el sigersol sobre la gestion de residuos sólidos anualmente."
+            }
+        ]
+    },
+    "24311": {
+        "data": [
+            {
+                "descripcion": "Este indicador hacen referencia al Presupuesto Institucional Modificado, es decir, al Presupuesto actualizado de la entidad pública a consecuencia de las modificaciones presupuestarias, tanto a nivel institucional como a nivel funcional programático, efectuadas durante el año fiscal, a partir del Presupuesto Institucional de Apertura.",
+                "finalidad": "Este indicador muestra el esfuerzo desplegado previsto para gestionar el manejo de Residuos sólidos municipales, en términos monetarios.",
+                "fuente": "Ministerio de Economía y Finanzas  - MEF",
+                "id": "24311",
+                "nombre": "Presupuesto para manejo de residuos sólidos municipales"
+            }
+        ]
+    },
+    "21055": {
+        "data": [
+            {
+                "descripcion": "La reconversión permite convertir áreas en las que se realiza la disposición final de residuos sólidos, en rellenos sanitarios.",
+                "finalidad": "Este indicador tiene por finalidad mostrar el número de áreas degradadas por residuos sólidos que se convertirán en rellenos sanitarios, previa realización del Programa de Reconversión y manejo de áreas degradadas por parte de la municipalidad competente en la jurisdicción respectiva.",
+                "metodologia": "21055",
+                "fuente": "Organismo de Evaluación y Fiscalización Ambiental  - OEFA",
+                "id": "21055",
+                "nombre": "Áreas degradadas por residuos sólidos municipales para reconversión",
+                "limitaciones": "El indicador no muestra el estado en el que se encuentran las áreas designadas para su conversión en rellenos sanitarios."
+            }
+        ]
+    },
+    "8006": {
+        "data": [
+            {
+                "descripcion": "El presente indicador muestra la cantidad de residuos sólidos domiciliarios generados por habitante en un día.",
+                "finalidad": "Este indicador permite conocer la cantidad de residuos sólidos generados por habitante al día, a su vez sirve de insumo para el diseño, elaboración e implementación de políticas y estrategias para la minimización de los residuos.",
+                "metodologia": "Este indicador es registrado en campo, como parte de los estudios de caracterización de residuos sólidos elaborados por las municipalidades.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "8006",
+                "nombre": "Generación per cápita de residuos sólidos domiciliarios urbanos",
+                "limitaciones": "No todas las municipalidades cuentan con estudios de caracterización de residuos sólidos."
+            }
+        ]
+    },
+    "24228": {
+        "data": [
+            {
+                "descripcion": "Este indicador mide el monto total de inversiones públicas en proyectos de residuos sólidos.",
+                "finalidad": "Conocer el compromiso a los diversos niveles del gobierno nacional y subnacional para la protección del medio ambiente mediante una adecuada inversión pública en proyectos de residuos sólidos.",
+                "fuente": "Ministerio de Economía y Finanzas  - MEF",
+                "id": "24228",
+                "nombre": "Monto de inversión de los proyectos de inversión en residuos sólidos",
+                "limitaciones": "Existe un margen de variación en las cifras correspondientes al año disponible más reciente, debido al corte efectuado a fin de año."
+            }
+        ]
+    },
+    "25250": {
+        "data": [
+            {
+                "descripcion": "Descarga final adecuada hace referencia la descarga efectuada en rellenos sanitarios. Un relleno sanitario es el espacio donde se depositan los residuos sólidos de una determinada localidad después de haber recibido ciertos tratamientos. Para impedir que se contamine el subsuelo, se impermeabiliza el terreno con polietileno de alta densidad u otra sustancia y se coloca arcilla. Puede decirse que el relleno sanitario es una técnica con el fin de darle a los residuos una disposición final. Además de la impermeabilización y de otros procesos para lograr que estos desechos no se conviertan en un peligro para la salud pública, se desarrolla la compactación de los residuos, gracias a lo cual ocupan la menor cantidad de espacio posible.",
+                "finalidad": "La finalidad de este indicador es mostrar la importancia de la adecuada disposición de los residuos sólidos urbanos respecto del total de residuos, así como su evolución en el tiempo.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "25250",
+                "nombre": "Proporción de desechos sólidos urbanos recogidos periódicamente y con una descarga final adecuada respecto del total de desechos sólidos urbanos generados, desglosada por ciudad",
+                "limitaciones": "No existen datos para todos los departamentos, además no proporciona una idea relativa inmediata de la representatividad de los residuos sólidos dispuestos en rellenos sanitarios respecto de la disposición total de residuos sólidos."
+            }
+        ]
+    },
+    "40330": {
+        "data": [
+            {
+                "descripcion": "Está referido a la cantidad de residuos sólidos no domiciliarios generados a nivel departamental.\nLos residuos sólidos no domiciliarios hacen referencia a los residuos del ámbito municipal que no son generados en las viviendas, es decir, los generados productos de actividades comerciales, entidades educativas, religiosas, organismos públicos, entidades sociales, entidades culturales, oficinas, etc.\nSon residuos sólidos aquellos productos o subproductos en estado sólido o semisólido generados por un ente antrópico. Residuo sólido es cualquier objeto, material, sustancia o elemento resultante del consumo o uso de un bien o servicio, del cual su poseedor se desprenda para ser manejados priorizando la valorización de los residuos en último caso, su disposición final. \nLos residuos sólidos incluye todo residuo o desecho en fase sólida, semisólida. También se considera residuos aquellos que siendo líquidos o gas se encuentran contenidos en recipientes o depósitos que van a ser desechados.",
+                "finalidad": "Este indicador tiene por finalidad medir cual es la cantidad de residuos sólidos no domiciliarios urbanos generados a nivel nacional  como base para contribuir al establecimiento de obligaciones, atribuciones y responsabilidades de la sociedad en su conjunto, para asegurar una gestión y manejo de los residuos sólidos, sanitaria y ambientalmente adecuada, con sujeción a los principios de minimización, prevención de riesgos ambientales y protección de la salud y el bienestar del ser humano.",
+                "metodologia": "Este indicador se calcula a partir de la generación per cápita de residuos sólidos no domiciliarios estimada, el cual es medido en kilográmo por habitante por día, múltiplicado por la población total y dividido entre mil kilogramos para poder obtener el resultado en toneladas. \n\nGRND= (GPCND*POBT/1000)\nDonde: \nGRM= Generación de residuos sólidos no domiciliarios por departamento (t/año)\nGPCM: Generación per cápita de residuos sólidos no domiciliarios(kg/hab/día)\nPOBT: Población total",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "40330",
+                "nombre": "Generación total de residuos sólidos no domiciliarios",
+                "limitaciones": "Limitados medios para la obtención de datos a nivel departamental y en periodos anuales."
+            }
+        ]
+    },
+    "11805": {
+        "data": [
+            {
+                "descripcion": "Este indicador se obtiene dividiendo el gasto total devengado municipal en gestión de residuos sólidos de un departamento entre la población de dicho departamento. Sólo para el año 2017, se usó la población del Censo Nacional 2017, para los otros años se usó la población proyectada.",
+                "finalidad": "Este indicador mide el gasto per cápita municipal devengado en manejo de residuos sólidos, para un departamento y período determinado.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "11805",
+                "nombre": "Gasto municipal per cápita en gestión de residuos sólidos"
+            }
+        ]
+    },
+    "40351": {
+        "data": [
+            {
+                "descripcion": "El presente indicador muestra la cantidad de residuos sólidos no domiciliarios generados por habitante.\nLos residuos sólidos no domiciliarios hacen referencia a los residuos del ámbito municipal que no son generados en las viviendas, es decir, los generados productos de actividades comerciales, entidades educativas, religiosas, organismos públicos, entidades sociales, entidades culturales, oficinas, etc.",
+                "finalidad": "Este indicador permite conocer la cantidad de residuos sólidos no municipales generados por habitante, el cual es un insumo para el diseño, elaboración e implementación de políticas y estrategias para la minimización de los residuos.",
+                "metodologia": "Este indicador es estimado en base a los estudios de caracterización de residuos sólidos elaborados por las municipalidades.\n\nGeneración percápita de residuos sólidos no domiciliarios =GPCND",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "40351",
+                "nombre": "Generación per cápita de residuos sólidos no domiciliarios",
+                "limitaciones": "No todas las municipalidades cuentan con estudios de caracterización de residuos sólidos."
+            }
+        ]
+    },
+    "4252": {
+        "data": [
+            {
+                "descripcion": "Está referido a la cantidad de residuos sólidos municipales totales generados a nivel departamental. Son residuos sólidos aquellos productos o subproductos en estado sólido o semisólido generados por un ente antrópico. Residuo sólido es cualquier objeto, material, sustancia o elemento resultante del consumo o uso de un bien o servicio, del cual su poseedor se desprenda para ser manejados priorizando la valorización de los residuos en último caso, su disposición final. \nLos residuos incluye todo residuo o desecho en fase sólida, semisólida. También se considera residuos aquellos que siendo líquidos o gas se encuentran contenidos en recipientes o depósitos que van a ser desechados.",
+                "finalidad": "Este indicador tiene por finalidad medir cual es la cantidad de residuos sólidos municipales urbanos generados a nivel nacional, como base para contribuir al establecimiento de obligaciones, atribuciones y responsabilidades de la sociedad en su conjunto, para asegurar una gestión y manejo de los residuos sólidos, sanitaria y ambientalmente adecuada, con sujeción a los principios de minimización, prevención de riesgos ambientales y protección de la salud y el bienestar del ser humano.",
+                "metodologia": "Este indicador se calcula a partir de la generación per cápita de residuos sólidos municipales, el cual es medido en kilográmo por habitante por día, múltiplicado por la población total y dividido entre mil kilogramos para poder obtener el resultado en toneladas. \n\nGRM= (GPCM*POBT/1000)\nDonde: \nGRM= Generación de residuos sólidos municipales por departamento (toneladas)\nGPCM: Generación per cápita de residuos sólidos municipales (kg/hab/día)\nPOBT: Población total",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "4252",
+                "nombre": "Generación total de residuos sólidos municipales",
+                "limitaciones": "Limitados medios para la obtención de datos a nivel departamental y en periodos anuales."
+            }
+        ]
+    },
+    "11635": {
+        "data": [
+            {
+                "descripcion": "Está referido a la cantidad de residuos sólidos domiciliarios totales generados a nivel departamental. Residuo sólido es cualquier objeto, material, sustancia o elemento resultante del consumo o uso de un bien o servicio, del cual su poseedor se desprenda para ser manejados priorizando la valorización de los residuos en último caso, su disposición final. Los residuos incluye todo residuo o desecho en fase sólida, semisólida. También se considera residuos aquellos que siendo líquidos o gas se encuentran contenidos en recipientes o depósitos que van a ser desechados.",
+                "finalidad": "Este indicador tiene por finalidad medir el volumen de residuos sólidos domiciliarios urbanos generados a nivel nacional, como base para contribuir al establecimiento de obligaciones, atribuciones y responsabilidades de la sociedad en su conjunto, para asegurar una gestión y manejo de los residuos sólidos, sanitaria y ambientalmente adecuada, con sujeción a los principios de minimización, prevención de riesgos ambientales y protección de la salud y el bienestar del ser humano.",
+                "metodologia": "Este indicador se calcula a partir de la generación per cápita de residuos sólidos domiciliarios, la cual es medida en kilográmo por habitante por día, múltiplicado por la población total y dividido entre mil kilogramos para poder obtener el resultado en toneladas.\n\nGRD= (GPC*POBT/1000)\nDonde: \nGRD= Generación de residuos sólidos domiciliarios por departamento (toneladas)\nGPC: Generación per cápita de residuos sólidos domiciliarios (kg/hab/día)\nPOBT: Población total",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "11635",
+                "nombre": "Generación total de residuos sólidos domiciliarios urbanos",
+                "limitaciones": "Los medios para obtener la información son los reportes anuales de las municipalidades realizados a través del SIGERSOL, los cuales requieren ser validados debido a la escasa calidad que tiene la información reportada."
+            }
+        ]
+    },
+    "11416": {
+        "data": [
+            {
+                "descripcion": "Este indicador muestra el número de áreas degradadas por residuos sólidos municipales según el Inventario Nacional de Áreas Degradadas por Residuos Sólidos Municipales, aprobado mediante Resolución de Consejo Directivo N° 026-2018-OEFA/CD.",
+                "finalidad": "Éste indicador muestra el número de áreas degradadas por residuos sólidos municipales y constituye información valiosa para la determinación de las medidas conducentes a su recuperación o reconversión, según sea el caso.",
+                "metodologia": "Número de áreas degradadas por residuos sólidos por distrito.",
+                "fuente": "Organismo de Evaluación y Fiscalización Ambiental  - OEFA",
+                "id": "11416",
+                "nombre": "Áreas degradadas por residuos sólidos municipales para recuperación",
+                "limitaciones": "El indicador no proporcona información sobre la importancia ambiental relativa de cada área degradada."
+            }
+        ]
+    },
+    "11571": {
+        "data": [
+            {
+                "descripcion": "Un relleno sanitario es una instalación destinada a la disposición sanitaria y ambientalmente segura de los residuos municipales a superficie o bajo tierra, basados en los principios y métodos de la ingeniería sanitaria y ambiental",
+                "finalidad": "Este indicador tiene como finalidad mostrar la cantidad de residuos sólidos municipales que son dispuestos de manera adecuada por departamento, con ello se buscar evitar los impactos negativos por la inadecuada disposición de residuos sólidos, sobre la salud ambiental y humana.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "11571",
+                "nombre": "Residuos sólidos municipales dispuestos en rellenos sanitarios",
+                "limitaciones": "No se cuenta con datos para todos los departamentos debido a que no existen rellenos sanitarios en todos los departamentos."
+            }
+        ]
+    },
+    "1": {
+        "data": [
+            {
+                "descripcion": "Proporción de la población con acceso a saneamiento es el porcentaje de la población con acceso a servicios que separan higiénicamente las excretas humanas del contacto con hombres, animales e insectos. Se supone que servicios como las alcantarillas o tanques sépticos, letrinas de sifón y letrinas de pozo sencillas o ventiladas son adecuados, siempre que no sean públicos.",
+                "finalidad": "Un saneamiento adecuado es importante para las poblaciones urbanas y rurales, pero los riesgos son mayores en las zonas urbanas, donde es más difícil evitar el contacto con los desechos.",
+                "metodologia": "Registros administrativos, censos y encuestas de hogares\nNota: Población que vive en hogares que cuentan con acceso a saneamiento por red pública dentro o fuera de la vivienda o letrina o pozo séptico.",
+                "fuente": "Instituto Nacional de Estadística e Informática  - INEI",
+                "id": "1",
+                "nombre": "Proporción de la población con acceso a servicios de saneamiento por red pública",
+                "limitaciones": "Cuando se utilizan datos procedentes de fuentes administrativas, en general hacen referencia a las fuentes existentes, independientemente de que se utilicen o no. Por ello, los datos de las encuestas de hogares suelen ser de mayor calidad que los datos administrativos, ya que los datos de aquéllas están basados en la utilización efectiva de las fuentes por la población encuestada, y no en la simple existencia de las mismas. Si bien el acceso es el indicador más razonable del abastecimiento de agua, implica no obstante varios problemas metodológicos y prácticos. Entre ellos están los siguientes: * Los datos no son recopilados habitualmente por el sector sino por personas ajenas al mismo, en el marco de encuestas más generales; * No se considera sistemáticamente la calidad de las instalaciones; * La cronología de la recopilación y el análisis de los datos de encuestas de hogares es irregular, con largos intervalos entre las diferentes encuestas. La definición de acceso a servicios de saneamiento mejorados y los métodos para su evaluación son todavía más controvertidos que los relativos al abastecimiento de agua, ya que las definiciones nacionales de saneamiento “aceptable” presentan grandes diferencias."
+            }
+        ]
+    },
+    "24091": {
+        "data": [
+            {
+                "descripcion": "El nivel de estrés hídrico: extracción de agua dulce como proporción a los recursos de agua dulce disponibles es la relación entre el total de agua dulce extraída por todos los sectores ISIC, incluido agricultura; silvicultura y pesca; manufactura; industria eléctrica; y servicios. Este indicador es conocido también como la intensidad de la extracción del agua.",
+                "finalidad": "Este indicador proporciona una estimación de la presión para todos los sectores de los países sobre los recursos disponibles de agua dulce. Un bajo nivel de estrés hídrico indica una situación donde la extracción para todos los sectores es marginal en relación a los recursos, y tiene por lo tanto un pequeño impacto potencial sobre la sostenibilidad de los recursos o sobre la potencial competencia entre los usuarios. Un nivel alto de estrés hídrico señala una situación donde la extracción combinada para todos los sectores representa una parte sustancial del total renovable de recursos de agua dulce, con impactos potencialmente mayores en la sostenibilidad de los recursos y posibles situaciones de conflictos y la competencia entre usuarios. El propósito de este indicador es mostrar el grado por el cual los recursos hídricos son explotados para cubrir la demanda de agua de los países. La medida de la presión de los países sobre sus recursos hídricos y por consiguiente el reto en la sostenibilidad del uso de su agua. Rastrea el progreso a lo que respecta a “retiros y suministro de agua dulce para atender la escasez de agua”, es decir el componente ambiental del objetivo 6.4. de los ODS.",
+                "fuente": "Autoridad Nacional del Agua - ANA",
+                "id": "24091",
+                "nombre": "Nivel de estrés hídrico: extracción de agua dulce como porcentaje de los recursos de agua dulce disponibles",
+                "limitaciones": "Los momentos en que se calcula el indicador deberán considerar el tiempo para validar la información. Es necesario contar con estudios de caudal ecológico nacional, que permitirán datos más precisos. Es necesario que la información utilizada para el cálculo del indicador sea validada, a fin de que sea completa y representativa del país, para su adecuada interpretación."
+            }
+        ]
+    },
+    "23230": {
+        "data": [
+            {
+                "descripcion": "Este indicador muestra la cantidad de agua residual del tipo doméstico que son vertidas al ambiente sin tratamiento de ningun tipo. Las aguas residuales son materiales derivados de residuos domésticos, los cuales por razones de salud publica y por consideraciones de recreación económica y estética, no pueden desecharse vertiéndolas sin tratamiento en lagos o corrientes convencionales.",
+                "finalidad": "La finalidad de este indicador es presentar el volumen de aguas residuaes domésticas sin tratamiento. El tratamiento y reuso de las aguas residuales se inicia en el Perú en la década del 60, con la implementación de las lagunas de estabilización de San Juan en Lima. Este sistema considerado como la opción tecnológica más viable para alcanzar el objetivo no patógenos, se ha venido aplicando al 78% de las plantas existentes en el país. Sin embargo, la cobertura de tratamiento sólo llega a menos del 30% de las aguas residuales generadas, factores tecnológicos y económicos han limitado las inversiones en este rubro.",
+                "metodologia": "El indicador es el resultado de la diferencia entre el volumen recolectado de aguas residuales en las redes de alcantarilado bajo la administración delas Empresas prestadoras con el volumen de aguas residuales con tratamiento.\n\ni) VARTi es el volumen de aguas residuales con tratamiento  durante el mes “i”.\nii) VRARi es el volumen recolectado de aguas residuales en las redes de alcantarillado durante el mes “i”. \n\nDescargas de aguas residuales domésticas sin tratamiento = VRARi - VARTi",
+                "fuente": "Superintendencia Nacional de Servicios de Saneamiento  - SUNASS",
+                "id": "23230",
+                "nombre": "Descargas de aguas residuales domésticas sin tratamiento",
+                "limitaciones": "Existe una alta subestimación de los volumenes y caudales de desacarga de efluentes debido a la muchas viviendas descargan sus efluentes directamente al ambiente sin pasar por un sistema de red publica."
+            }
+        ]
+    },
+    "23417": {
+        "data": [
+            {
+                "descripcion": "Este indicador detalla el número de autorizaciones sanitarias del sistema de tratamiento y disposición sanitaria de aguas residuales industriales para vertimiento registradas en un periodo de tiempo determinado.\n\nConforme a lo establecido en la Ley 29338, La Autoridad Nacional autoriza el vertimiento del agua residual tratada a un cuerpo natural de agua continental o marina, previa opinión técnica favorable de las Autoridades Ambiental y de Salud sobre el cumplimiento de los Estándares de Calidad Ambiental del Agua (ECA-Agua) y Límites Máximos Permisibles (LMP). Queda prohibido el vertimiento directo o indirecto de agua residual sin dicha autorización.\n\nSe entiende por reuso de agua residual a la utilización de aguas residuales tratadas resultantes de las actividades antropogénicas.\n\nAsimismo, la Autoridad Nacional del Agua establece los requisitos y aprueba el procedimiento para el otorgamiento de autorizaciones de reuso de aguas residuales tratadas",
+                "finalidad": "Mostrar el número y distribución de los lugares de vertimiento de agua residual industrial a partir de las declaraciones de los administrados.",
+                "metodologia": "Los datos de esta serie estadística se obtiene a través de registros administrativos que remiten los administrados a la Autoridad Nacional del Agua.",
+                "fuente": "Autoridad Nacional del Agua - ANA",
+                "id": "23417",
+                "nombre": "Autorizaciones sanitarias para vertimiento o reuso de aguas residuales industriales",
+                "limitaciones": "No todas las empresas que realizan vertimientos remiten a la autoridad competente la respectiva solicitud de autorización.  \nNota: Las autorizaciones sanitarias del sistema de tratamiento y disposición sanitaria de aguas residuales industriales para vertimiento o reuso otorgadas cuentan con periodo de vigencia variable, por lo tanto, los datos no son acumulativos."
+            }
+        ]
+    },
+    "21890": {
+        "data": [
+            {
+                "descripcion": "De acuerdo a la IUCN, área protegida se refiere a una superficie de tierra y/o mar especialmente dedicada a la protección y el mantenimiento de la diversidad biológica, así como de los recursos naturales y culturales asociados, administrada a través de medios jurídicos u otros medios eficaces. Todas las áreas protegidas consideradas corresponden a algunas de las seis categorías definidas por la IUCN, según sus objetivos de manejo. Por su parte, las áreas marinas protegidas corresponden a cualquier área intermareal o submareal, junto con las aguas que la bañan, la flora y fauna asociadas y sus características históricas y culturales, que hayan sido designada por ley u otro instrumento eficaz para proteger parcial o totalmente el medio que alberga. Todas las áreas consideradas corresponden a alguna de las seis categorías definidas por la IUCN.",
+                "finalidad": "Mostrar la extensión de la superficie terrestre y marina protegida según categoría. El indicador señala la importancia que se le asigna en el país a la conservación de la diversidad biológica, a la herencia cultural, la investigación científica (incluyendo monitoreo de línea base), recreación, mantenimiento de los recursos naturales y otros valores mediante la protección de las áreas de usos incompatibles. Muestra cuánto cada ecosistema principal está dedicado a mantener su diversidad e integridad.",
+                "fuente": "Servicio Nacional de Áreas Naturales Protegidas por el Estado  - SERNANP",
+                "id": "21890",
+                "nombre": "Superficie terrestre y marina protegida según categoría",
+                "limitaciones": "Se incluyen Zonas Reservadas, que son áreas de carácter provisional hasta la determinación de su categoría."
+            }
+        ]
+    },
+    "23525": {
+        "data": [
+            {
+                "descripcion": "El indicador mide el porcentaje del gasto público ambiental sobre el gasto total a nivel municipal, departamental, provincial y municipal. Los porcentajes se refieren a la fase del ciclo del gasto donde se registra la obligación de pago, como consecuencia del respectivo compromiso contraído (devengado). Incluye ESSALUD, PERUPETRO, Caja de pensiones militar policial y Fondo Mi Vivienda.",
+                "finalidad": "Conocer el compromiso del gobierno nacional y gobiernos subnacionales (en términos económicos) con respecto a la protección del ambiente, mediante el porcentaje que representa el gasto público ambiental con respecto al gasto total.",
+                "fuente": "Ministerio de Economía y Finanzas  - MEF",
+                "id": "23525",
+                "nombre": "Proporción del gasto público ambiental en el gasto total",
+                "limitaciones": "Puede existir variabilidad en los datos de los periodos más recientes debido al corte realizado en el registro de información, por parte del Ministerio de Economía y Finanzas."
+            }
+        ]
+    },
+    "20052": {
+        "data": [
+            {
+                "descripcion": "Se refiere a la extensión de cada uno de los departamentos del Perú, en kilómetros cuadrados.",
+                "finalidad": "Mostrar la extensión territorial del Perú en hectáreas, por departamento.",
+                "fuente": "Instituto Nacional de Estadística e Informática  - INEI",
+                "id": "20052",
+                "nombre": "Superficie continental según departamento"
+            }
+        ]
+    },
+    "22215": {
+        "data": [
+            {
+                "descripcion": "Los vehículos de motor incluyen automóviles, autobuses, y los vehículos de la carga pero no incluyen los de dos ruedas. La población se refiere a la población total de mitad de año, para el periodo de referencia.",
+                "finalidad": "La finalidad de este indicador es brindar una visualización aproximada sobre la reducción o incremento de la concentración de emisiones contaminantes en el aire de un año al otro.",
+                "metodologia": "Vehículos por cada mil habitantes=(V/P)*1000. Donde: V=Parque vehícular estimado y P=Población total.",
+                "fuente": "Ministerio del Ambiente  - MINAM",
+                "id": "22215",
+                "nombre": "Vehículos por cada mil habitantes",
+                "limitaciones": "La información del parque vehicular es estimada. Es calculada en base al registro de nuevos vehiculos proporcionado por la SUNARP/AAP y a una tasa de baja vehicular estimada. Esto puede generar retraso en la obtención de la variable."
+            }
+        ]
+    },
+    "21028": {
+        "data": [
+            {
+                "descripcion": "El indicador muestra el número de áreas naturales protegidas del Perú, considerando las diferentes categorías de conservación.",
+                "finalidad": "La importancia de la existencia de las Áreas Naturales Protegidas radica en que éstas son espacios reconocidos y de alta importancia para la conservación de la diversidad biológica y demás valores asociados de interés cultural, paisajístico y científico, así como por su contribución al desarrollo sostenible del país.",
+                "fuente": "Servicio Nacional de Áreas Naturales Protegidas por el Estado  - SERNANP",
+                "id": "21028",
+                "nombre": "Número de Áreas Naturales Protegidas",
+                "limitaciones": "Únicamente mide existencia de ANPs, mas no la extensión de las mismas."
+            }
+        ]
+    },
+    "40570": {
+        "data": [
+            {
+                "descripcion": "Un conflicto socioambiental es la situación que surge a consecuencia de los diferentes intereses y motivaciones que poseen los diferentes actores sociales involucrados en una circunstancia ambiental determinada. En un conflicto socioambiental, las partes, toman posición y se enfrentan por hechos vinculados a la escasez, el deterioro o la privación de los recursos naturales. La dinámica del conflicto, dependerá de cómo lo manejen los actores; es decir, de cómo se expresen las diferentes posiciones e intereses y de cómo se recojan en la resolución del conflicto las diversas necesidades de los actores. Las Desigualdades o asimetrías, se refieren a las condiciones de profunda desigualdad en las que pugnan las partes de un conflicto socioambiental. Y ello se debe a que en la gran mayoría de casos, las partes en conflicto no tienen ni las mismas capacidades ni el mismo poder.\nLos diferentes tipos de conflictos registrados por la Defensoria del Pueblo incluyen entre otros: Asuntos de Gob. Nacional, Asuntos de Gob. Local, Asuntos de Gob. Regional, Comunal, Cultivo ilegal de hoja de coca, Demarcación territorial, Electoral, Laboral, Otros asuntos.",
+                "finalidad": "Conocer el estado de conflictividad social existente en diferentes localidades del país y que está relacionada con algún tema ambiental. En la conflictividad se enfrentan a una comunidad, población o grupo social con el empresas privadas o con el gobierno local, regional o local.",
+                "fuente": "Defensoría del Pueblo - DEFENSORIA",
+                "id": "40570",
+                "nombre": "Proporción de conflictos socioambientales registrados"
+            }
+        ]
+    },
+    "40571": {
+        "data": [
+            {
+                "descripcion": "La energía como bien intermedio satisface las necesidades en la producción de bienes y servicios. Los consumos de energía desagregados por sectores y fuentes se obtienen a partir de información estadística del sector energía. Se aplican modelos econométricos en aquellas fuentes en donde no se tiene disponible directamente la desagregación. Para ello, se relacionan los consumos energéticos con las variables socioeconómicas",
+                "finalidad": "Este indicador muestra el consumo final total de la energía proveniente de las diferentes fuentes.",
+                "fuente": "Ministerio de Energía y Minas  - MINEM",
+                "id": "40571",
+                "nombre": "Consumo final de energía"
+            }
+        ]
+    },
+    "40732": {
+        "data": [
+            {
+                "descripcion": "La frecuencia se refiere a la cantidad de veces que se activa las quebradas Huaycoloro y/o Rio Seco. Es decir, se contabiliza las veces que el sistema de monitoreo de huaicos registra el descenso de huaicos. https://www.igp.gob.pe/servicios/centro-monitoreo- deslizamientos-huaicos/estaciones",
+                "finalidad": "Determinar la frecuencia con la cual se presentan los flujos de lodo y/o detritos en las quebradas Huaycoloro y Rio Seco, en la subcuenca Jicamarca.",
+                "fuente": "Instituto Geofísico del Perú  - IGP",
+                "id": "40732",
+                "nombre": "Monitoreos en las estaciones en las quebradas Huaycoloro y Rioseco",
+                "limitaciones": "Colapso del sistema de monitoreo de huaicos ante la ocurrencia de un evento extremo, de poca probabilidad de ocurrencia."
+            }
+        ]
+    },
+    "40733": {
+        "data": [
+            {
+                "descripcion": "Estadística relacionada al inventario de sismos ocurridos a nivel nacional.https://www.igp.gob.pe/servicios/centro-sismologico-nacional/inicio",
+                "finalidad": "Monitorear la ocurrencia de sismos en el país a fin de entregar la mas completa y oportuna información a los integrantes del SINAGERD y población en general.",
+                "fuente": "Instituto Geofísico del Perú - Centro Sismológico Nacional - CENSIS",
+                "id": "40733",
+                "nombre": "Monitoreos en las estaciones en las quebradas Huaycoloro y Rioseco",
+                "metodologia": "Se dispone de datos provenientes de la Red Sísmica Nacional cuyos sensores se encuentran distribuidos en todo el territorio nacional."
+            }
+        ]
+    },
+    "40734": {
+        "data": [
+            {
+                "descripcion": "Mediante diversos métodos geofísicos de monitoreo volcánico y otras técnicas se evalua en tiempo real y casi real, parametros físicos, químicos y visuales que permiten estimar la probabilidad de reactivación volcánica u ocurrencia de una erupción volcánica de los volcanes activos.https://www.igp.gob.pe/servicios/centro-vulcanologico-nacional/productos-boletineshttps://www.igp.gob.pe/servicios/centro-vulcanologico-nacional/inicio",
+                "finalidad": "Informar sobre el comportamiento dinámico actual de los volcanes activos a nivel nacional",
+                "fuente": "Instituto Geofísico del Perú - Centro Vulcanológico Nacional",
+                "id": "40734",
+                "nombre": "Boletines vulcanológicos emitidos en concordancia con el semáforo de alerta volcánica",
+                "limitaciones": "Existe un margen de variación en el numero de boletines emitidos dependiente del nivel del semáforo de alerta volcánica",
+                "metodologia": "(# de boletines emitidos en la periodicidad establecida de acuerdo al nivel de alerta x 100%) /(# de boletines programados)Siendo periodicidad de emisión diaria para volcanes en alerta roja, semanal para volcanes en alerta naranja, quincenal para volcanes en alerta amarilla (a excepcion del Misti en alerta verde) y mensual para volcanes en alerta verde."
+            }
+        ]
+    },
+    "40735": {
+        "data": [
+            {
+                "descripcion": "Mediante los sistemas de monitoreo con transmisión de datos en tiempo real y casi real, permiten detectar el desarrollo o inminente desarrollo de peligros volcánicos asociados.https://www.igp.gob.pe/servicios/centro-vulcanologico-nacional/productos-alertas",
+                "finalidad": "Avisar sobre el desarrollo o inminente desarrollo de peligros volcánicos asociados a una erupción, como: flujos piroclásticos, flujos de lava, lahares, dispersión de ceniza de los volcanes activos del territorio nacional.",
+                "fuente": "Instituto Geofísico del Perú - Centro Vulcanológico Nacional",
+                "id": "40735",
+                "nombre": "Alertas de peligros volcánicos asociados a una erupción",
+                "limitaciones": "No es posible determinar anualmente el numero de alertas que pueden reportarse o presentarse.",
+                "metodologia": "(# de alertas emitidas x 100%) /(# de peligros volcánicos desarrollados)Los peligros volcánicos se desarrollan producto de actividad eruptiva o en ausencia de ella. La ocurrencia es inmediata."
+            }
+        ]
+    },
+    "40752": {
+        "data": [
+            {
+                "descripcion": "La precipitación se define como el producto líquido o sólido de la condensación del vapor de agua que cae de las nubes o del aire y se deposita en el suelo; comprende la lluvia, el granizo, la nieve, el rocío, la escarcha y la precipitación de la neblina.El agua es importante para la existencia de los organismos vivos y para el ecosistema; el conocimiento de la distribución de la precipitación permite mejorar la planificación, contar con un calendario agrícola, conocer la disponibilidad de agua o escasez de agua en una localidad, etc. En Perú los principales factores que condicionan la precipitación son la presencia de la cordillera de los Andes, el Anticiclón del Pacifico Sur, la Corriente de Humboldt y las perturbaciones de la Circulación General de la Atmósfera.",
+                "finalidad": "Con fines de pronósticos y alertas hidrometeorológicas. Trabajos específicos en Climatología. En agricultura es de suma importancia, la lluvia ejerce sobre el terreno influencia mecánica, fertilizante, física y química, factores que en ocasiones favorecen y en otras desfavorecen las labores agrícolas.",
+                "fuente": "Servicio Nacional de Meteorología e Hidrología - Dirección de Redes de Observación y Datos",
+                "id": "40752",
+                "nombre": "Precipitación total anual en estación de medición",
+                "limitaciones": "Ninguna.",
+                "metodologia": "Ppta = Suma de la precipitación total mensual (Pptm) de los (n) meses del año."
+            }
+        ]
+    },
+    "40748": {
+        "data": [
+            {
+                "descripcion": "Es un fenómeno meteorológico caracterizado por el ingreso de una masa de aire frío a la Amazonía peruana. Esto suele estar asociado a lluvia con descargas eléctricas, viento intenso y se caracteriza por el descenso de las temperaturas. https://www.senamhi.gob.pe y https://www.senamhi.gob.pe/?&p=aviso-meteorologico-prueba",
+                "finalidad": "Con fines de pronósticos y avisos hidrometeorológicos, trabajos de investigación y estudios en climatología.",
+                "fuente": "Servicio Nacional de Meteorología e Hidrología - Dirección de Meteorología y Evaluación Ambiental Armosférica",
+                "id": "40748",
+                "nombre": "Ocurrencia de eventos de friajes",
+                "metodologia": "Contabilizar los eventos de friaje anualmente. Recopilar los datos de temperaturas mínimas del sur de la Amazonía peruana, imágenes de satélite y reanálisis del modelo meteorológico."
+            }
+        ]
+    },
+    "40749": {
+        "data": [
+            {
+                "descripcion": "Es una representación temática espacial que nos permite identificar los 38 tipos de clima del Perú, como resultado de la interacción entre los diferentes factores climáticos que lo afectan y su posición geográfica en el trópico, a la cordillera de los andes, la cual configura una fisiografía compleja. Entre los climas de mayor extensión tenemos al árido y templado en la costa, lluvioso y frío en la sierra, y muy lluvioso y cálido en la selva. https://www.senamhi.gob.pe/?&p=mapa-climatico-del-peru",
+                "finalidad": "Es una herramienta que permite conocer los tipos de clima del Perú, como parte de nuestra realidad física territorial. Asimismo, sirve como insumo para la generación de estudios de Zonificación Ecológica y Económica, elaboración de servicios climáticos y reducción del riesgo de desastre e información climática base para la implementación de las Contribuciones Determinadas a Nivel Nacional (NDC) en las áreas temáticas.",
+                "fuente": "Servicio Nacional de Meteorología e Hidrología - Dirección de Meteorología y Evaluación Ambiental Armosférica",
+                "id": "40749",
+                "nombre": "Número de climas a nivel nacional",
+                "limitaciones": "Ninguna.",
+                "metodologia": "Están basados en tres índices climáticos: precipitación efectiva (PE), concentración estacional de humedad (CEH) y eficiencia térmica (ET). Índices correspondientes a la metodología Thornthwaite (1931), con una adaptación a las condiciones climáticas y geográficas del Perú. La metodología se encuentra descrita en el documento técnico del Mapa de Clasificación Climática del Perú (2020), el cual se encuentra publicado en el siguiente link: https://www.senamhi.gob.pe/load/file/01404SENA-4.pdf"
+            }
+        ]
+    },
+    "40751": {
+        "data": [
+            {
+                "descripcion": "La temperatura es la magnitud física que expresa el grado o nivel de calor de los cuerpos o del ambiente. Temperatura Máxima: Es el valor más alto de la temperatura registrada durante un periodo de observación.",
+                "finalidad": "Con fines de pronósticos y alertas hidrometeorológicas (alertar a la población sobre posibles olas de calor) y estudios en Climatología.",
+                "fuente": "Servicio Nacional de Meteorología e Hidrología - Dirección de Redes de Observación y Datos",
+                "id": "40751",
+                "nombre": "Temperatura máxima promedio mensual en estación de medición",
+                "limitaciones": "Ninguna.",
+                "metodologia": "Tmpm = Suma de la temperatura máxima diaria (Tmd) / Número de días con temperatura máxima (n) del mes.\n\nDonde:\nTmpm = temperatura máxima promedio mensual\nTmd = temperatura máxima diaria\nn = número de días del mes.\n\nLa temperatura máxima promedio mensual es información procesada de los datos provenientes de la lectura de la temperatura máxima diaria observada en un periodo de 24 horas de las estaciones de medición ubicadas principalmente en la capital de departamento."
+            }
+        ]
+    },
+    "40741": {
+        "data": [
+            {
+                "descripcion": "Es la estimación de la superficie de un glaciar respecto al ámbito de las cordilleras glaciares en la que se ubica",
+                "finalidad": "El indicador tiene por finalidad visibilizar el estado actual de los glaciares en términos de superficie con el fin de cuantificar las reservas de agua sólida con las que se cuenta y cuales son los niveles de pérdida a lo largo del tiempo",
+                "fuente": "Instituto Nacional de Investigación en Glaciares y Ecosistemas de Montaña - Direccion de Investigacion en Glaciares",
+                "id": "40741",
+                "nombre": "Superficie glaciar nacional",
+                "limitaciones": "El dato de superficie contempla superficie plana, obtenida mediante imagen satelital",
+                "metodologia": "Para la estimación de la superficie se utilizó herramientas de Sistemas de Información Geográfica (Geometry).\nLa superficie glaciar por cordillera se calcula mediante la aplicación del índice normalizado de nieve (NDSI), obtenida por aplicación de las bandas espectrales de las imágenes satelitales Sentinel 2, los cuales identifican las áreas con cobertura glaciar, debido a su s niveles de reflectividad. Dicho dato es obtenido para todo el ámbito de una determinada cordillera."
+            }
+        ]
+    },
+    "40651": {
+        "data": [
+            {
+                "descripcion": "Es la estimacion de la superficie de un glaciar respecto al ambito de las cordilleras glaciares en la que se ubica",
+                "finalidad": "El indicador tiene por finalidad visibilizar el estado actual de las lagunas en cuanto a la extensión del espejo de agua con el fin de dar una idea sobre la oferta de agua con la que se cuenta",
+                "fuente": "Instituto Nacional de Investigación en Glaciares y Ecosistemas de Montaña - Direccion de Investigacion en Glaciares",
+                "id": "40651",
+                "nombre": "Superficie de lagunas de origen glaciar",
+                "limitaciones": "El dato de superficie solo es un dato referencial para el cálculo de la oferta, ya que se necesita del componente de profundidad para estimar cuánta agua puede almacenar una laguna",
+                "metodologia": "Para la estimación de la superficie se utilizó herramientas de Sistemas de Información Geográfica (Geometry).\nLa superficie de lagunas por cordillera se calcula mediante la aplicación del índice (nombre del índice no especificado), obtenida por aplicación de las bandas espectrales de las imágenes satelitales (nombre de las imágenes satelitales no especificado), los cuales identifican las áreas con cobertura lagunar, debido a sus niveles de reflectividad. Dicho dato es obtenido para todo el ámbito de una determinada cordillera."
+            }
+        ]
+    },
+    "40742": {
+        "data": [
+            {
+                "descripcion": "El indicador tiene por finalidad, visibilizar el estado actual de los glaciares en términos de cantidad con el fin de cuantificar las reservas de agua sólida",
+                "finalidad": "El indicador tiene por finalidad, visibilizar el estado actual de los glaciares en términos de cantidad con el fin de cuantificar las reservas de agua sólida",
+                "fuente": "Instituto Nacional de Investigación en Glaciares y Ecosistemas de Montaña - Direccion de Investigacion en Glaciares",
+                "id": "40742",
+                "nombre": "Glaciares libres de detritos",
+                "limitaciones": "El dato de superficie contempla superficie plana, obtenida mediante imagen satelital.",
+                "metodologia": "Conteo de glaciares individualizados mediante herramientas de Sistemas de Información Geográfica.\nLa superficie glaciar por cordillera se calcula mediante la aplicación del índice normalizado de nieve (NDSI), obtenida por aplicación de las bandas espectrales de las imágenes satelitales Sentinel 2, los cuales identifican las áreas con cobertura glaciar, debido a sus niveles de reflectividad. Dicho dato es obtenido para todo el ámbito de una determinada cordillera."
+            }
+        ]
+    },
+    "40650": {
+        "data": [
+            {
+                "descripcion": "Está referido a la cantidad de lagunas de origen glaciar a nivel departamental. Los glaciares y las lagunas de origen glaciar son grandes reservas naturales de agua, permiten el uso doméstico, el desarrollo de la agricultura y otras actividades económicas como la minería, la generación eléctrica y la industria.",
+                "finalidad": "El indicador tiene por finalidad, visibilizar el estado actual de los glaciares en términos de cantidad con el fin de cuantificar las reservas provenientes de agua sólida",
+                "fuente": "Instituto Nacional de Investigación en Glaciares y Ecosistemas de Montaña - Direccion de Investigacion en Glaciares",
+                "id": "40650",
+                "nombre": "Cantidad de lagunas de origen glaciar",
+                "limitaciones": "El dato de superficie contempla superficie plana, obtenida mediante imagen satelital.",
+                "metodologia": "La superficie glaciar por cordillera se calcula mediante la aplicación del índice normalizado de nieve (NDSI), obtenida por aplicación de las bandas espectrales de las imágenes satelitales Sentinel 2, los cuales identifican las áreas con cobertura glaciar, debido a sus niveles de reflectividad. Dicho dato es obtenido para todo el ámbito de una determinada cordillera."
+            }
+        ]
+    },
+    "40730": {
+        "data": [
+            {
+                "descripcion": "Este indicador mide la superficie del país cubierta por áreas naturales protegidas de administración nacional con categoría definitiva y transitorias por año, la información será remitida anualmente por la Unidad Operativa Funcional de Gestión de la Información (UOFGI) del SERNANP.",
+                "finalidad": "La finalidad de este indicador es medir la superficie por hectáreas de Áreas Naturales Protegidas de administración nacional con categoría definitiva y transitorias.",
+                "fuente": "Servicio Nacional de Áreas Naturales Protegidas por el Estado - Unidad Operativa Funcional Gestion de la Información (UOFGI)",
+                "id": "40730",
+                "nombre": "Superficie de áreas naturales protegidas de administración nacional con categoría definitiva y transitorias",
+                "limitaciones": "Se consideran las áreas naturales protegidas de administración nacional con categoría definitiva y transitoria.",
+                "metodologia": "Las ANP de administración nacional con categoría definitiva se establecen mediante Decreto Supremo, Ley, Resolución Suprema. Para determinar la superficie de ANP de administración nacional con categoría definitiva establecida por año, se utilizará la información de las áreas naturales protegidas establecidas y categorizadas a partir del registro del listado oficial de ANP que se publica y actualiza continuamente.\nEl indicador se obtendrá a partir de la siguiente fórmula:\n\nSup. Total ANPj = ∑ Sup ANPi\n\nDonde:\nSup Total ANP = Es la superficie total de áreas naturales protegidas de administración nacional con categoría definitiva y transitorias.\nnij = Es la superficie del ANP i de administración nacional establecida con categoría definitiva y transitorias en el año j\n∑nij = Es la sumatoria que permitirá obtener la superficie total de ANP de administración nacional establecida con categoría definitiva y transitorias, en el año j."
+            }
+        ]
+    },
+    "40753": {
+        "data": [
+            {
+                "descripcion": "Deforestación consiste en pérdida forestal ocasionada por actividades humanas.",
+                "finalidad": "Conocer el área deforestada dentro de las Áreas Naturales Protegidas definitivas y Zonas Reservadas del bioma amazónico.",
+                "fuente": "Servicio Nacional de Áreas Naturales Protegidas por el Estado - Unidad Operativa Funcional Gestion de la Información (UOFGI)",
+                "id": "40753",
+                "nombre": "Deforestación dentro de las áreas naturales protegidas definitivas y zonas reservadas del bioma amazónico",
+                "limitaciones": "El indicador solo evalúa el bioma amazónico.",
+                "metodologia": "El cálculo del área se realiza dentro de un software de sistemas de información geográficas (SIG).\nIdentificación visual mediante fotointerpretación de imágenes satelitales, y su posterior digitalización como shapefile de tipo polígono."
+            }
+        ]
+    },
+    "40731": {
+        "data": [
+            {
+                "descripcion": "Este indicador mide el número de áreas naturales protegidas de administración nacional con categoría definitiva y transitoria establecidas por año, la información será remitida anualmente por la Unidad Operativa Funcional de Gestión de la Información (UOFGI) del SERNANP.",
+                "finalidad": "La finalidad de este indicador es medir el número de Áreas Naturales Protegidas establecidas de administración nacional con categoría definitiva y transitoria, las mismas son las herramientas más efectivas para conservar los ecosistemas y permiten la adaptación de la biodiversidad y enfrentar los efectos del cambio climático.",
+                "fuente": "Servicio Nacional de Áreas Naturales Protegidas por el Estado - Unidad Operativa Funcional Gestion de la Información (UOFGI)",
+                "id": "40731",
+                "nombre": "Número de áreas naturales protegidas de administración nacional con categoría definitiva y transitoria",
+                "limitaciones": "Se consideran las áreas naturales protegidas de administración nacional con categoría definitiva y transitoria.",
+                "metodologia": "Las ANP de administración nacional se establecen mediante Decreto Supremo, Ley, Resolución Suprema y Resolución Ministerial. Para determinar el número de ANP establecidas por año, se utilizará la información de las áreas naturales protegidas establecidas con categoría definitiva y transitoria a partir del registro del listado oficial de ANP que se publica y actualiza continuamente.\nCon la sumatoria se obtendrá el valor total de ANP de administración nacional con categoría definitiva y transitoria establecidas anualmente.\nEl indicador se obtendrá a partir de la siguiente fórmula:\n\nN° ANPj = ∑ nij\n\nDonde:\nN° ANP = Es el número total de áreas naturales protegidas establecidas de administración nacional con categoría definitiva y transitoria en el año j.\nni = Es el número de ANP de administración nacional con categoría definitiva y transitoria i establecida en el año j."
+            }
+        ]
+    },
+    "40743": {
+        "data": [
+            {
+                "descripcion": "El Inventario Nacional de Bofedales del Perú es un documento técnico y base de datos que proporciona información detallada sobre la extensión y ubicación de los bofedales en el país. Los bofedales son humedales altoandinos que desempeñan un papel fundamental en la captura de carbono, la regulación del agua y el suministro de forraje para el ganado.",
+                "finalidad": "Se busca cerrar brechas de información sobre los bofedales y su importancia para nuestro país, así como proporcionar información detallada a nivel departamental, distrital y provincial, que sea útil para las autoridades locales y regionales en la gestión de estos ecosistemas.",
+                "fuente": "Instituto Nacional de Investigación en Glaciares y Ecosistemas de Montaña - Direccion de Investigacion en Glaciares",
+                "id": "40743",
+                "nombre": "Inventario Nacional de Bofedales",
+                "limitaciones": "Se tienen coeficientes de concordancia para la macroregión páramo norte de 0.28, Centro 0.67 y Sur 0.83",
+                "metodologia": "El inventario utiliza técnicas geoespaciales con imágenes satelitales y firmas espectrales donde la discriminación de los bofedales se basa en una metodología innovadora basada en árboles de decisiones que permite delimitar y clasificar estos ecosistemas."
+            }
+        ]
+    },
+    "40736": {
+        "data": [
+            {
+                "descripcion": "El indicador nos permite conocer y verificar la cantidad de investigadores nacionales y extranjeros contratados por el IIAP para el desarrollo de investigaciones científicas y tecnológicas relacionadas a la Amazonia peruana, sus ecosistemas y recursos naturales.",
+                "finalidad": "Determinar la cantidad de investigadores, nacionales y extranjeros, contratados por el IIAP para que desarrollen las acciones de investigación científica y tecnológica relacionadas a la Amazonia peruana, sus ecosistemas y recursos.",
+                "fuente": "Instituto de Investigaciones de la Amazonía Peruana - Dirección de Investigación en Información y Gestión del Conocimiento",
+                "id": "40736",
+                "nombre": "Investigadores nacionales y extranjeros que cuenta el IIAP",
+                "limitaciones": "No se contabiliza a los investigadores colaboradores asociados que no dependen contractualmente del IIAP, pero mantienen una estrecha colaboración con la Institución y que ésta se ve reflejada en las coautorías de las publicaciones de revistas indexadas.",
+                "metodologia": "NINyE = NIN + NIE\n\nDonde:\nNIN = Número de Investigadores Nacionales contratados por el IIAP\nNIE = Número de Investigadores Extranjeros contratados por el IIAP\n\nRevisión de la información contenida en la Memoria Institucional, de cada año, apenas haya sido publicado oficialmente, para extraerse la información del periodo que se está evaluando. Solo debe considerar a aquellos profesionales con vínculo laboral con la Institución y en el caso de los extranjeros, estos deberán tener un contrato de locación de servicios vigente en el año en evaluación. Para el caso de los datos procesados con base en Memorias Institucionales anteriores al año 2023, la cantidad de investigadores extranjeros será consultada y/o validada con cada uno de los Directores de Investigación del IIAP."
+            }
+        ]
+    },
+    "40738": {
+        "data": [
+            {
+                "descripcion": "Revisar y acopiar toda la información relacionada con la cantidad de investigaciones en cambio climático ejecutadas por el IIAP durante el año de evaluación. Detallarlas por cada sede operativa de su jurisdicción, para conocer y determinar los proyectos y su trascendencia y prioridad, así como estimar el público objetivo materia de investigación.",
+                "finalidad": "Conocer la cantidad de investigaciones en cambio climático ejecutadas por el IIAP en un periodo de doce meses.",
+                "fuente": "Instituto de Investigaciones de la Amazonía Peruana - Dirección de Investigación en Información y Gestión del Conocimiento",
+                "id": "40738",
+                "nombre": "Investigaciones en cambio climático realizadas por el IIAP",
+                "limitaciones": "La actualización de la información depende de la actualización oportuna de la Memoria Institucional y su correspondiente aprobación por parte del Directorio del IIAP.",
+                "metodologia": "NICC = NACCCRI + NLCC + NCLCC\n\nDonde:\nNICC = Número de Investigaciones en Cambio Climático\nNACCCIRI = Número de Artículos Científicos sobre Cambio Climático Indexados en Revistas Internacionales\nNLCC = Número de Libros sobre Cambio Climático\nNCLCC = Número de Capítulos de Libros sobre Cambio Climático\n\nRevisión de la información contenida en la Memoria Institucional apenas haya sido publicada oficialmente y de ella se extrae la información del año que se está evaluando, específicamente de la sección Proyectos y experimentos ejecutados en el periodo."
+            }
+        ]
+    },
+    "40740": {
+        "data": [
+            {
+                "descripcion": "Acopiar, revisar e inventariar toda la información relacionada con la cantidad de publicaciones generadas por el IIAP y ofertadas a su público objetivo, en su jurisdicción de competencia, para dar a conocer los resultados de la investigación desarrollada durante el año de evaluación, detallándolos por cada sede operativa de su jurisdicción.",
+                "finalidad": "Conocer la cantidad de publicaciones generadas por el IIAP durante el periodo de evaluación.",
+                "fuente": "Instituto de Investigaciones de la Amazonía Peruana - Dirección de Investigación en Información y Gestión del Conocimiento",
+                "id": "40740",
+                "nombre": "Publicaciones generadas por el IIAP",
+                "limitaciones": "La actualización de la información depende de la actualización oportuna de la Memoria Institucional y su correspondiente aprobación por parte del Directorio del IIAP.",
+                "metodologia": "NPRA = NACRI + NL + NCL + NMT\n\nDonde:\nNPRA = Número de Publicaciones en Regiones Amazónicas\nNACIRI = Número de Artículos Científicos Indexados en Revistas Internacionales\nNL = Número de Libros\nNCL = Número de Capítulos de Libros\nNMT = Número de Manuales Técnicos\n\nRevisión de la información contenida en la Memoria Institucional apenas haya sido publicada oficialmente y de ella se extrae la información del año que se está evaluando, específicamente de la sección Proyectos y experimentos ejecutados en el periodo."
+            }
+        ]
+    },
+    "40697": {
+        "data": [
+            {
+                "descripcion": "Este indicador tiene por finalidad medir la cantidad de visitantes totales a las Áreas Naturales Protegidas (ANP). Las áreas naturales protegidas son espacios terrestres o marinos reconocidos, establecidos y protegidos legalmente por el Estado peruano por su importancia para la conservación de la biodiversidad y su contribución al desarrollo sostenible del país. Las ANP de administración nacional tienen dos estatus: las establecidas con estatus definitivo y con estatus transitorio que son las Zonas Reservadas.",
+                "finalidad": "Este indicador tiene por finalidad medir la cantidad de visitantes totales a las Áreas Naturales Protegidas (ANP).",
+                "fuente": "Servicio Nacional de Áreas Naturales Protegidas por el Estado - Dirección de Gestión de las ANP",
+                "id": "40697",
+                "nombre": "Visitantes a las áreas naturales protegidas",
+                "limitaciones": "No especificadas"
+            }
+        ]
+    },
+    "40755": {
+        "data": [
+            {
+                "descripcion": "El Acuerdo de Conservación (AdC) es un mecanismo voluntario orientado a fortalecer la gestión efectiva de las Áreas Naturales Protegidas (ANP). Se basa en una alianza entre el SERNANP y los actores con intereses comunes (Comunidades Nativas, ONG, Personas Naturales, Personas Jurídicas, ECAs). Los acuerdos son una alianza voluntaria que define (o establece) compromisos legítimos durante un período de tiempo y en un ámbito definido, con el fin de generar bienestar a las personas asegurando el mantenimiento de la biodiversidad y los servicios ecosistémicos que brindan las ANP, ZA y sus paisajes asociados.",
+                "finalidad": "Fortalecer los mecanismos de participación de las Áreas Naturales Protegidas (ANP) para la conservación en los ecosistemas, con la finalidad de reducir o evitar los impactos y los riesgos del cambio climático.",
+                "fuente": "Servicio Nacional de Áreas Naturales Protegidas por el Estado - Dirección de Desarrollo Estratégico, Unidad de Gestión de Información",
+                "id": "40755",
+                "nombre": "Acuerdos de conservación en el Sistema Nacional de Áreas Naturales Protegidas",
+                "limitaciones": "El indicador no contempla todos los criterios de la pertinencia cultural en los servicios públicos establecidos en los 'Lineamientos para incorporar el enfoque intercultural en la prestación de los servicios públicos'.",
+                "metodologia": "Número de Acuerdos de Conservación suscritos, por ANP (NAdC = ∑ nij)\n\nDonde:\nnij: Número de acuerdos registrados en el mes i en la ANP j.\nEspecificaciones técnicas: Se toma como referencia el documento 'Documento de trabajo Nº 33 Base conceptual de acuerdos de conservación, propuesta de directiva para su implementación en el marco del Sistema Nacional de Áreas Naturales Protegidas por el Estado (SINANPE)' y formatos estándar, y se seleccionan los siguientes criterios para la medición de la pertinencia cultural:\n- El servicio es entregado a nivel nacional\n- Adaptar la prestación del servicio y las acciones a realizar, de acuerdo a las características geográficas, ambientales, sociales, lingüísticas y culturales (prácticas, valores y creencias) de la población objetivo."
+            }
+        ]
+    },
+    "40737": {
+        "data": [
+            {
+                "descripcion": "Conocer el número de investigaciones ejecutadas (no necesariamente concluidas), por cada una de las sedes y direcciones de línea del IIAP.",
+                "finalidad": "Determinar la cantidad de investigaciones que ha desarrollado y ejecutará en el futuro en cada una de las sedes del Instituto de Investigaciones de la Amazonia Peruana.",
+                "fuente": "Instituto de Investigaciones de la Amazonía Peruana - Dirección de Investigación en Información y Gestión del Conocimiento",
+                "id": "40737",
+                "nombre": "Investigaciones en las regiones amazónicas",
+                "limitaciones": "La información depende de la elaboración oportuna de la Memoria Institucional y su correspondiente aprobación por parte del Directorio del IIAP.",
+                "metodologia": "NIRA = Número de Investigaciones en Regiones Amazónicas\n\nRevisión de la información contenida en los planes operativos institucionales, contrastadas en la Memoria Institucional apenas haya sido publicada oficialmente y de ella se extrae la información del año que se está evaluando, específicamente de la sección Proyectos y experimentos ejecutados en el periodo."
+            }
+        ]
+    },
+    "40739": {
+        "data": [
+            {
+                "descripcion": "Revisar y acopiar toda la información relacionada con la cantidad de investigaciones en deforestación programadas en la jurisdicción del IIAP, para conocer el universo de investigaciones en deforestación ejecutadas durante el año de evaluación, detallándolos por cada sede operativa de su jurisdicción.",
+                "finalidad": "Conocer la cantidad de investigaciones en deforestación ejecutadas en el territorio de intervención del IIAP durante el periodo de doce meses.",
+                "fuente": "Instituto de Investigaciones de la Amazonía Peruana - Dirección de Investigación en Información y Gestión del Conocimiento",
+                "id": "40739",
+                "nombre": "Investigaciones en deforestación realizadas por el IIAP",
+                "limitaciones": "La información depende de la actualización oportuna de la Memoria Institucional y su correspondiente aprobación por parte del Directorio del IIAP.",
+                "metodologia": "NID = NACDRI + NLD + NCLD\n\nDonde:\nNID = Número de Investigaciones en Deforestación\nNACDIRI = Número de Artículos Científicos sobre Deforestación Indexados en Revistas Internacionales\nNLD = Número de Libros sobre Deforestación\nNCLD = Número de Capítulos de Libros sobre Deforestación\n\nLa Oficina de Planificación y Presupuesto del IIAP procesa durante la primera quincena de enero la información del año anterior y elabora informe remitido a GESCON."
+            }
+        ]
+    },
+    "40744": {
+        "data": [
+            {
+                "descripcion": "Todo acto del supervisor que, bajo cualquier modalidad, tenga por objeto verificar el cumplimiento de las obligaciones fiscalizables. La acción de supervisión se clasifica:\n- In situ: Acción de supervisión que se realiza fuera de las sedes del OEFA, en presencia del administrado o sin ella.\n- En gabinete: Acción de supervisión que se realiza desde las sedes del OEFA y que implica el acceso y evaluación de información vinculada a las actividades o funciones del administrado supervisado.",
+                "finalidad": "Conocer la cantidad de acciones de supervisión ambiental realizadas de forma presencial o en gabinete, en todos los subsectores bajo competencia del OEFA.",
+                "fuente": "Organismo de Evaluación y Fiscalización Ambiental - Dirección de Políticas y Estratégias en Fiscalización Ambiental",
+                "id": "40744",
+                "nombre": "Acciones de supervisión ambientales ejecutadas",
+                "limitaciones": "Se considera una acción de supervisión ejecutada cuando:\n1. La fecha de fin de las acciones de supervisión se encuentra dentro del periodo evaluado.\n2. La información como fecha de supervisión, ubigeo u otros cuente con el visto bueno por algún miembro del equipo supervisor (actualización en segundo tiempo en el sistema INAF).\n3. Acta de supervisión registrada y cargada en el sistema INAF.",
+                "metodologia": "∑Yi\n\nDonde:\nYi: Supervisiones ambientales In situ o en gabinete ejecutadas en el periodo evaluado, para todas las regiones a nivel nacional."
+            }
+        ]
+    },
+    "40745": {
+        "data": [
+            {
+                "descripcion": "El proyecto de inversión se refiere a las inversiones públicas y/o privadas que impulsan los sectores económicos que requieren la viabilidad ambiental, es decir, que cumplan con los altos estándares técnicos de mitigación de impactos ambientales, y, a su vez, proteger los derechos de los ciudadanos a la salud y a un ambiente sano.",
+                "finalidad": "Los proyectos aprobados impulsan el manejo sostenible de los recursos naturales; promoviendo la prevención y reducción de los impactos negativos e intensificando los impactos positivos de las intervenciones sobre el ambiente y la sociedad.",
+                "fuente": "Servicio Nacional de Certificación Ambiental para las Inversiones Sostenibles - Subdirección de Proyección Estratégica y Normatividad - DGEEA",
+                "id": "40745",
+                "nombre": "Proyectos aprobados por sectores de los EIA-d, MEIA-d, EIA-sd e IGAPRO",
+                "limitaciones": "No especificadas",
+                "metodologia": "PROY= Cantidad de proyectos aprobados por sectores y estudios ambientales en el año (x).\n\nDonde:\nPROY: Proyectos aprobados\nX: Año de resolución de los proyectos aprobados por sectores y estudios ambientales en cada departamento\nEs la sumatoria de proyectos aprobados por sectores y estudios ambientales, en el año de resolución."
+            }
+        ]
+    },
+    "40746": {
+        "data": [
+            {
+                "descripcion": "Expedientes ingresados se refiere a los instrumentos de gestión ambiental en el marco del SEIA que solicitan una evaluación ambiental a la entidad competente.",
+                "finalidad": "Los expedientes ingresados tienen por finalidad obtener la certificación ambiental que sustente el cumplimiento de los requisitos técnicos legales para una inversión sostenible.",
+                "fuente": "Servicio Nacional de Certificación Ambiental para las Inversiones Sostenibles - Subdirección de Proyección Estratégica y Normatividad - DGEEA",
+                "id": "40746",
+                "nombre": "Expedientes ingresados por IGA por sectores",
+                "limitaciones": "No especificadas",
+                "metodologia": "EXP.ING= Cantidad de expedientes ingresados por sectores en el año (x).\n\nDonde:\nEXP.ING= IGA ingresado\nX: Año ingresado del IGA por sectores en cada departamento\nEs la sumatoria de los instrumentos de gestión ambiental por sectores, en base a su año de ingreso."
+            }
+        ]
+    },
+    "40747": {
+        "data": [
+            {
+                "descripcion": "Es el despliegue inicial que realizan los/as servidores/as del Senace en el área de influencia preliminar de un proyecto de inversión, antes del inicio de la elaboración de un EIA-d, EIA-sd (cuando corresponda) y sus modificaciones o durante su elaboración dependiendo de la normativa sectorial correspondiente.",
+                "finalidad": "La avanzada social impulsa de forma temprana la orientación a la población del área de influencia preliminar sobre el procedimiento de evaluación ambiental, participación ciudadana y los canales de comunicación para informarse sobre un proyecto.",
+                "fuente": "Servicio Nacional de Certificación Ambiental para las Inversiones Sostenibles - Subdirección de Proyección Estratégica y Normatividad - DGEEA",
+                "id": "40747",
+                "nombre": "Avanzada social realizada por el Senace",
+                "limitaciones": "No especificadas",
+                "metodologia": "AVANZADA SOC.= Cantidad de reuniones ejecutadas presencial y/o no presencial por año (x)\n\nDonde:\nAVANZADA SOC.= Reuniones ejecutadas\nX: Año de ejecución de las reuniones presencial y/o no presencial en cada departamento\nEs la sumatoria de reuniones ejecutadas presenciales y/o no presenciales que se realizarán en un año determinado."
+            }
+        ]
+    },
+    "50003": {
+        "data": [
+            {
+                "descripcion": "Los ecosistemas frágiles son formaciones vegetales que presentan especies amenazadas y/o endémicas de flora y fauna silvestre, brindan servicios ecosistémicos en beneficio de la población local, y tienen una alta vulnerabilidad y poca capacidad de recuperación ante las perturbaciones naturales o humanas, las cuales afectan sus funciones ecológicas, ocasionando la pérdida de biodiversidad y la reducción de su extensión. La información detallada de los Ecosistemas Frágiles Sectoriales (normativa vigente, fichas técnicas de estado de conservación, infografías y reportes interactivos) se encuentra disponible en el Módulo de Inventarios del SNIFFS,https://sniffs.serfor.gob.pe/inventarios/#/inicio.",
+                "finalidad": "Conocer el número de ecosistemas frágiles que se encuentran en buen estado de conservación para ser incluídos en la Lista Sectorial de Ecosistemas Frágiles",
+                "fuente": "Servicio Nacional Forestal y de Fauna Silvestre - SERFOR",
+                "id": "50003",
+                "nombre": "Ecosistemas frágiles reconocidos",
+                "limitaciones": "No especificadas",
+                "metodologia": "El SERFOR, en coordinación con las ARFFS, y en concordancia con la Ley N° 28611, Ley General del Ambiente, aprueba la Lista Sectorial de Ecosistemas Frágiles, en la cual se incluyen ecosistemas frágiles en buen estado de conservación, con base en estudios técnicos e información científica disponible. Estos ecosistemas forman parte de la categoría de Zonas de protección y conservación ecológica de la Zonificación Forestal."
+            }
+        ]
+    }
+}

@@ -1,0 +1,4533 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "24.81",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "29.47",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "30.78",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "26.09",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "27.28",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "29.39",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "27.96",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "35.62",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "37.52",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "39.5",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "39.98",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "36.22",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "32.84",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "35.24",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50009": {},
+        "50010": {},
+        "50011": {},
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "83.14",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "86.63",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "84.63",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "82.84",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "81.1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "78.7",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "78.8",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "80.72",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "90",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "81.99",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "22814": {
+            "data": []
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "24",
+                    "valor": "14.77",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "24",
+                    "valor": "14.87",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "24",
+                    "valor": "15.15",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "15.08",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "14.93",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "15.02",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "14.93",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "14.86",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "14.7",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "14.61",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "14.59",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "14.57",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "15.04",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "15.14",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "15.16",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "15.1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "14.97",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "14.52",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "13.99",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "13.43",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "12.91",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "12.44",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "12.04",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "24",
+                    "valor": "2782",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "24",
+                    "valor": "2842",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "24",
+                    "valor": "2934",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "2954",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "2958",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "3009",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "3025",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "3042",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "3040",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "3054",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "3086",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "3119",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "3257",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "3320",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "3372",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "3415",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "3451",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "3423",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "3375",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "3313",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "3246",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "3181",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "3125",
+                    "nombre": "Tumbes"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "4657.26",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "5",
+                    "nombre": "Tumbes"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {},
+        "50100": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "2972",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "2972",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "2972",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "2972",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "2972",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "2972",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "2972",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "2972",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "2972",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "2972",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "11276": {
+            "data": []
+        },
+        "50015": {},
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "17175.96",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "8159": {
+            "data": []
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "34356.33",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "24685.29",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "24545.07",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "25963.83",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "24958.62",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "26629.47",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "28629.99",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "31393.71",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "24",
+                    "valor": "269",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "24",
+                    "valor": "102",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "24",
+                    "valor": "2058",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "24",
+                    "valor": "29",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "24",
+                    "valor": "452",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "1000",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "2757.27",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "11932.91",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "30.35",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "123.79",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "16.15",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "21.52",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "150.02",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "178.02",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "5.38",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "5.38",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "570.27",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "406.72",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "668.91",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "3988.82",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "2579.18",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "8364.96",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "845.46",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "9738": {
+            "data": []
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "95120.49",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "2757.27",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "11932.91",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "30.35",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "123.79",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "16.15",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "21.52",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "150.02",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "178.02",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "5.38",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "5.38",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "570.27",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "406.72",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "668.91",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "3988.82",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "2579.18",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "8364.96",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "845.46",
+                    "nombre": "Tumbes"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "30.31",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "32.01",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "31.58",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "30.54",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "30.59",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "30.03",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "27.61",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "26.84",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "31.34",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "55",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "29",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "25",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "20",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "6",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "14",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "12",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "9",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "8",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "8",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "85.3",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "459.7",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "588.1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "817.0",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "171.2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "247.3",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "229.1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "790.6",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "7",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "30.31",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "32.01",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "31.58",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "30.54",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "30.59",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "30.03",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "27.61",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "26.84",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "31.34",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "21",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "29",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "46",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "39",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "33",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "106",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "96",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "133",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "29",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "116",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "60",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "26",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "87",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "97",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "165",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "66",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "69",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "61",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "106",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "149",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "171",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "4991",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "93864",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "93654",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "93418",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "889",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "38575",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "15785",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "8313",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "703",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "7625",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "279",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "56",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "54863",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "17589",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "153118",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "2077",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "2375",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "298",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "1292",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "1136",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "19779",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "70",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "14012",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "68",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "542",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "243",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "98",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "45",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "58",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "189",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "32",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "31",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "536",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "287",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "1472",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "119",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "59",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "72",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "282",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "302",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "896",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "4998",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "93864",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "93654",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "93419",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "889",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "38581",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "15789",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "8313",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "703",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "7630",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "279",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "56",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "54865",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "17589",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "153122",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "2078",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "2375",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "298",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "1293",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "1136",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "19779",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "16",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "4",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "15",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "135",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "11",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "11",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "252",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "19",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "16",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "25",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "3",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "10",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "44",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "53",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "73",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "24",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "17",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "25",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "97",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "112",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "114",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "74",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "6",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "60",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "159",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "30",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "506",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "1100",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "160",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "3668",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "5",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "23.72",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "81.5",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "2283.56",
+                    "nombre": "Tumbes"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "13",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "13",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "13",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "13",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "13",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "24",
+                    "valor": "13",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "68.77",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "63.96",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "3025402",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "4661696",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "5751299",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "3199007",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "7249410",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "5510756",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "4093292",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "44.86",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "32.92",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "32.66",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "29.7",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "33.27",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "40.36",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "58",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "53.43",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "67.68",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "34157.99",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "36914.2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "36444.13",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "37438.13",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "37460.21",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "43564.88",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "44550.47",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "48007.95",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "45740.59",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "0.63",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "0.63",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "0.65",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "0.66",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "0.66",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "0.74",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "0.74",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "0.79",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "0.74",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "3229263",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "4485733",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "4339562",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "5350743",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "7412477",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "10526809",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "7825572",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "7858065",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "7227180",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "8029629",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "9955734",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "14588645",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "13663279",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "17567535",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "47167.07",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "41791.79",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "0.44",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "0.47",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "0.46",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "0.46",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "0.46",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "0.52",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "0.52",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "0.55",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "0.52",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "21067": {
+            "data": []
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "62.76",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "62.76",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "62.75",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "62.76",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "60.37",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "62.76",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "24",
+                    "valor": "44.35",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "0.19",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "0.16",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "0.2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "0.2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "0.2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "0.22",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "0.22",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "0.24",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "0.22",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "31.44",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "139",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "206.06",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "150.89",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "243.2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "363.1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "221.55",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "698.53",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "758.63",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "14639.14",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "12898.81",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "15618.91",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "16044.91",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "16054.38",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "18670.66",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "19093.06",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "20574.83",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "19603.11",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "48797.13",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "49813.01",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "52063.05",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "53483.05",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "53514.59",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "62235.54",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "63643.53",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "68582.78",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "65343.7",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "3025402",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "4674596",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "18506214",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "14252907",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "19389819",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "15001502",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "15395236",
+                    "nombre": "Tumbes"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "70",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "28",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "7",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "42",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "63",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "0",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "0",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "0",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "0",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "2",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "0",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "4",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "6",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "5",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "0",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "3",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "6",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "2",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "1.0",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "28",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "32",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "19",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "20",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "18",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "16",
+                    "nombre": "Tumbes"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "24.81",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "29.47",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "30.78",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "26.09",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "27.28",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "29.39",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "27.96",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "35.62",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "37.52",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "39.5",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "39.98",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "36.22",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "32.84",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "35.24",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "61.8",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "67",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "69.1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "70.8",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "74.8",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "70.9",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "74.2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "74.3",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "71.9",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "69.8",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "73.29",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "75.07",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "29855",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "26809",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "25761",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "22697",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "17040",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "15679",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "10380",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "20431",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "22710",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "18644",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "18943",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "16378",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "4453",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "6942",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "19086",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "13959",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "1620",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "1349",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "1421",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "1215",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "3760",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "4444",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "3626",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "3200",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "3720",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "3219",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "3175",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "2869",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "1210",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "1376",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "2762",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "3630",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "4912390",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "4742947",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "3599234",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "4776796",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "4359840",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "4809406",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "4149745",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "4667660",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "4241358",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "3923571",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "3686002",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "3646967",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "4563313",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "4858718",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "4622789",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "83.14",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "86.63",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "84.63",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "82.84",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "81.1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "78.7",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "78.8",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "80.72",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "90",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "81.99",
+                    "nombre": "Tumbes"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "24",
+                    "valor": "6",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "24",
+                    "valor": "122",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "299",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "3",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "52",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "6",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "32",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "6",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "10",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "37",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "46",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "19",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "12.92",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "15.14",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "15.48",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "16.27",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "19.22",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "25.5",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "20.05",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "22.15",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "20.98",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "21.5",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "25.11",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "27.93",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "22.31",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "33.18",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "24",
+                    "valor": "910.05",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "204.64",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "0.8",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "1333.33",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "1302.08",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "24",
+                    "valor": "1747.3",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "3019.02",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "1649.5",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "1768.5",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "1900",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "2660",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "2753.75",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "1620",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "1808",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "1820",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "58580",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "3104.88",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "1073",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "7658.37",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "202738.99",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "2.65",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "2.01",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "2.46",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "2.1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "1.63",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "2.21",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "2.12",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "1.63",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "2.13",
+                    "nombre": "Tumbes"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "2.29",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "50043": {},
+        "50044": {},
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": []
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "1",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "2",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "22120": {
+            "data": []
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "24",
+                    "valor": "76.9",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "24",
+                    "valor": "77.9",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "24",
+                    "valor": "79.6",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "24",
+                    "valor": "76.8",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "24",
+                    "valor": "69.93",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "24",
+                    "valor": "73.73",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "73.33",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "68.96",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "68.6",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "68.86",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "66.83",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "70.67",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "69.45",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "68.86",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "70.41",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "72.79",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "71.19",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "69.36",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "70.61",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "66.37",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "71.23",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "70.44",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "1620",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "1349",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "1421",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "1215",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "3760",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "4444",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "3626",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "3200",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "3720",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "3219",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "3175",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "2869",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "1210",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "1376",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "2762",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "3630",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "29855",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "26809",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "25761",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "22697",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "17040",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "15679",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "10380",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "20431",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "22710",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "18644",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "18943",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "16378",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "4453",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "6942",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "19086",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "13959",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "100",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "100",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "50",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "50",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "100",
+                    "nombre": "Tumbes"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "15.1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "16.4",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "15",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "15.9",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "13.49",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "13.2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "13.2",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "13.21",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "71.5",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "70.14",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "73.03",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "82.85",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "82.78",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "85.61",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "86.95",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "90.18",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "93.52",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "93.01",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "94.17",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "91.6",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "95.51",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "85.64",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "87.21",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "89.16",
+                    "nombre": "Tumbes"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "24",
+                    "valor": "94.68",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "24",
+                    "valor": "95.08",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "24",
+                    "valor": "95.32",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "24",
+                    "valor": "97.14",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "24",
+                    "valor": "97.1",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "24",
+                    "valor": "98.35",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "24",
+                    "valor": "98.84",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "24",
+                    "valor": "98.95",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "24",
+                    "valor": "98.9",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "24",
+                    "valor": "98.18",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "24",
+                    "valor": "98.28",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "24",
+                    "valor": "99.61",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "24",
+                    "valor": "99.36",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "24",
+                    "valor": "99.68",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "24",
+                    "valor": "99.17",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "24",
+                    "valor": "99.25",
+                    "nombre": "Tumbes"
+                }
+            ]
+        }
+    }
+}

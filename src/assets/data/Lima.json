@@ -1,0 +1,5101 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "20.32",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "20.02",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "20.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "20.57",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "46.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "72.02",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "73.55",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "77.54",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "89.67",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "89.66",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "88.47",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "87.99",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "89.67",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "94.47",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "81.23",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "969",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "953",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "93.68",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "94.33",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "94.74",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "96.18",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "95",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "96.3",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "96.2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "95.31",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "93.98",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "93.04",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "11235524.69",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "55561338.88",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "36710614.01",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "26469078",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "383062314",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "40598248",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "383148331",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "40502529",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "33628148",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "15",
+                    "valor": "90.54",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "15",
+                    "valor": "92.03",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "15",
+                    "valor": "93.66",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "15",
+                    "valor": "94.85",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "95.32",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "96.12",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "97.82",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "101.39",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "108.54",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "114.45",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "122.08",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "129.79",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "138.91",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "147.11",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "153.89",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "159.18",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "163.25",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "167.16",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "169.52",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "172.08",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "172.24",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "174.66",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "196.23",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "15",
+                    "valor": "776820",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "15",
+                    "valor": "802748",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "15",
+                    "valor": "829214",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "15",
+                    "valor": "851360",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "866881",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "885636",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "912763",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "957368",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "1036850",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "1106444",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "1195353",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "1287454",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "1395576",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "1498037",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "1590755",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "1674145",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "1752919",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "1837347",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "1908672",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "1982650",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "2025227",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "2090001",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "2155777",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "34823.39",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "18",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "34",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "34",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50100": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "263",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "263",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "263",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "263",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "263",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "263",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "263",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "263",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "263",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "263",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "11276": {
+            "data": []
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "19717.4",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "38398.95",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "8159": {
+            "data": []
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "91223.19",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "123771.6",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "105123.33",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "91605.24",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "91725.12",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "66155.76",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "66636.36",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "66682.08",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "15",
+                    "valor": "643",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "15",
+                    "valor": "1724",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "15",
+                    "valor": "717",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "15",
+                    "valor": "1157",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "15",
+                    "valor": "1147",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "15",
+                    "valor": "1147",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "15",
+                    "valor": "611",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "15",
+                    "valor": "189",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "499",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "314",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "174",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "302",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "346",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "311",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "881",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "1359",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "810",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "375",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "360",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "241",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "235",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "244",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "281",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "195",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "123",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "150.18",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "5.56",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "4.6",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "53.82",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "6.9",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "5.39",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "43.72",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "0.76",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "16.2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "14",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "1.99",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "266.78",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "20.63",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "56.45",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "1130.62",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "58.65",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "28.16",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "67.32",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "46.53",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "47.25",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "76.5",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "9738": {
+            "data": []
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "435255.31",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "433896.27",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "433086.72",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "432712.01",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "432351.8",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "432110.8",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "431875.8",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "431631.7",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "431350.25",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "431155.25",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "431032.25",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "430882.07",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "430876.51",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "430871.91",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "53.82",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "6.9",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "5.39",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "43.72",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "0.76",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "16.2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "14",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "1.99",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "266.78",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "20.63",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "56.45",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "1130.62",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "58.65",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "28.16",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "67.32",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "46.53",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "47.25",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "76.50",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "22.08",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "23.36",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "23.26",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "23.14",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "22.35",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "22.47",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "21.63",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "21.39",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "25.04",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50000": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "12",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "21",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "48",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "29",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "52",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "52",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "29",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "24",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "89",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "92",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "26",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "13",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "13.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "7.5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "11.3",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "21.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "26.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "6.9",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "7.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "13.6",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "14",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "22.08",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "23.36",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "23.26",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "23.14",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "22.35",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "22.47",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "21.63",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "21.39",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "25.04",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "15",
+                    "valor": "231",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "281",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "269",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "318",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "267",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "316",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "187",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "229",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "245",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "309",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "295",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "295",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "422",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "319",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "1315",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "541",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "229",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "281",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "486",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "483",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "548",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "15",
+                    "valor": "862",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "610",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "2281",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "338",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "39421",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "7274",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "2508",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "4659",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "675",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "18567",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "2517",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "2240",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "10774",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "26020",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "73506",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "18644",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "1211",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "15791",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "8610",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "5543",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "30417",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "15",
+                    "valor": "2295",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "932",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "1069",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "1681",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "56100",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "2899",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "1199",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "1147",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "1354",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "8605",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "1477",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "1366",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "1755",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "2463",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "17201",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "1450",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "1142",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "1292",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "2178",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "1909",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "7859",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "15",
+                    "valor": "894",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "636",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "2300",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "358",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "39441",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "7297",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "2512",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "4678",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "689",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "18579",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "2534",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "2252",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "10811",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "26032",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "73537",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "18715",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "1220",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "15837",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "8626",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "5554",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "30439",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "15",
+                    "valor": "473",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "198",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "220",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "322",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "11781",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "298",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "282",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "252",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "241",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "860",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "151",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "123",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "108",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "380",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "2379",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "189",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "286",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "338",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "591",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "653",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "951",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "13",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "89",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "40",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "6690",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "11",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "0.5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "626.5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "176.22",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "434.66",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "3982.01",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "69",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "71",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "82",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "89",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "90",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "15",
+                    "valor": "91",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "90.53",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "92.33",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "108.15",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "100.73",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "92.28",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "93",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "93.43",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "94.54",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "94.58",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "6229360",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "6305551",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "6652216",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "7484445",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "5938399",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "12098657",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "19556172",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "44.01",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "46.69",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "56.06",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "58.29",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "63.78",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "59.05",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "66.14",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "70.93",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "75.31",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "2113239.84",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "2126151.44",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "2160253.22",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "2172446.9",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "2213422.47",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "2370938.63",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "2420481.58",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "2508669.51",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "2607657.58",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "0.87",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "0.87",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "0.89",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "0.86",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "0.85",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "0.9",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "0.9",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "0.92",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "0.94",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "340187713",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "366731461",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "394995846",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "400490718",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "445650249",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "426369389",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "459326960",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "560036671",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "591280887",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "649356046",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "615075179",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "703000956",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "767037479",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "827342687",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "2732960.6",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "2838795.5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "3337581.36",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "3126011.05",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "2917919.39",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "3150080.28",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "3230566.53",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "3388060.66",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "3523405.24",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "0.61",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "0.6",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "0.6",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "0.6",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "0.59",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "0.63",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "0.63",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "0.64",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "0.66",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "191.73",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "178.53",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "297.59",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "303.01",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "338.54",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "381.42",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "15",
+                    "valor": "402.14",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "0.26",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "0.27",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "0.26",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "0.26",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "0.26",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "0.27",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "0.27",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "0.28",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "0.28",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "9298.48",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "8332",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "14047.69",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "24027.28",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "34355.28",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "28647.2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "15605.88",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "51970.51",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "54624.42",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "905674.22",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "948357.25",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "925823.25",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "931048.67",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "948609.63",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "1016116.56",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "1037349.25",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "1075144.08",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "1117567.53",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "3018914.05",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "3074508.69",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "3086076.47",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "3103495.56",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "3162032.1",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "3387055.19",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "3457830.83",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "3583813.59",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "3725225.11",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "33265807",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "7256079",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "565157068",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "562275601",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "682386469",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "743798211",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "834560941",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "3",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "3",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "575",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "156",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "151",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "416",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "318",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "0",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "3",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "8",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "3",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "37",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "64",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "57",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "46",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "40",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "34",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "42",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "50",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "1.0",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "4.0",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "6.0",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "4.0",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "1.0",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "2.0",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "1.0",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "2.0",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "416",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "478",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "660",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "839",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "1264",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "776",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "28",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "23",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "30",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "20",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "40",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "34",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "30",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "36",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "21",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "19",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "6",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "22",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "20.32",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "20.02",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "20.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "20.57",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "46.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "72.02",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "73.55",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "77.54",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "89.67",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "89.66",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "88.47",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "87.99",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "89.67",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "94.47",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "86.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "89.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "90.9",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "91.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "93.5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "94.3",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "93",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "94.7",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "95.2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "93.92",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "92.14",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "90.93",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "861311",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "785541",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "835358",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "841618",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "674155",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "676311",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "517191",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "544539",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "566209",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "497677",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "662801",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "636191",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "147767",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "153049",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "429941",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "337509",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "110759",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "119265",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "116946",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "115986",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "124925",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "49522",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "64393",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "81586",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "76504",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "342823317",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "341551224",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "348615411",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "357517606",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "362104398",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "239373547",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "159221443",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "156129386",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "146851652",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "69834095",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "75927981",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "88484252",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "90207673",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "77152680",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "43027068",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "93.68",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "94.33",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "94.74",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "96.18",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "95",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "96.3",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "96.2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "95.31",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "93.98",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "93.04",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "15",
+                    "valor": "60",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "15",
+                    "valor": "80",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "157",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "294",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "192",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "199",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "188",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "222",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "821",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "142",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "241",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "398",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "462",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "437",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "524",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "553",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "786",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "752",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "372",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "351",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "447",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "690.27",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "780.75",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "804.55",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "923.44",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "1237.42",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "1225.8",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "1300.98",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "1370.68",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "1446.06",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "1568.17",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "1636.6",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "1679.98",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "1805.88",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "1853.58",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "368.5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "235.18",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "13.36",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "9.16",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "222.82",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "67.24",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "53.34",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "29.33",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "13.12",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "15",
+                    "valor": "473.35",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "1342.3",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "1354.26",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "759.34",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "185.93",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "778.43",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "469.11",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "24880.73",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "60.65",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "56.3",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "134.56",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "118",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "919478.82",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "2.09",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "2.06",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "2.09",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "2.02",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "2.14",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "2.19",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "2.01",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "1.97",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "1.94",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "36807": {
+            "data": []
+        },
+        "50042": {},
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "81.82",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "81.82",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "1111",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "1663",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "214",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "148",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "7",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "8",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "7",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "6",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "7",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "9",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "2",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "1",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "62.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "66.7",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "67",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "15",
+                    "valor": "32.78",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "15",
+                    "valor": "33.74",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "15",
+                    "valor": "34.52",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "35.17",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "33.88",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "34.36",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "33.12",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "34.12",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "32.13",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "32.96",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "32.24",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "30.87",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "30.21",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "31.71",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "29.95",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "29.57",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "29.67",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "31.41",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "31.12",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "110759",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "119265",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "116946",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "115986",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "124925",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "49522",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "64393",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "81586",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "76504",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "861311",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "785541",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "835358",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "841618",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "674155",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "676311",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "517191",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "544539",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "566209",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "497677",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "662801",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "636191",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "147767",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "153049",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "429941",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "337509",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "50",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "61.54",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "63.64",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "54.55",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "55.56",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "70",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "69.23",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "25620.5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "24143.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "21016.4",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "20763.5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "23118.18",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "21166.5",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "23848.6",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "26781.12",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "88.62",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "91.79",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "90.42",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "92.68",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "94.19",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "95.09",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "95.96",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "96.94",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "96.34",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "97.17",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "97.42",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "97.86",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "98.25",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "96.97",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "96.79",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "96.77",
+                    "nombre": "Lima"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "15",
+                    "valor": "98.27",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "15",
+                    "valor": "98.99",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "15",
+                    "valor": "99.01",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "15",
+                    "valor": "99.05",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "15",
+                    "valor": "99.3",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "15",
+                    "valor": "99.66",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "15",
+                    "valor": "99.38",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "15",
+                    "valor": "99.47",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "15",
+                    "valor": "99.57",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "15",
+                    "valor": "99.52",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "15",
+                    "valor": "99.57",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "15",
+                    "valor": "99.57",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "15",
+                    "valor": "99.58",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "15",
+                    "valor": "99.6",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "15",
+                    "valor": "99.14",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "15",
+                    "valor": "99.58",
+                    "nombre": "Lima"
+                }
+            ]
+        }
+    }
+}

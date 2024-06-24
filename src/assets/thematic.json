@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "value": "01",
+            "name": "Agua",
+            "nid": "136689"
+        },
+        {
+            "value": "02",
+            "name": "Aire y Atmósfera",
+            "nid": "136680"
+        },
+        {
+            "value": "12",
+            "name": "Asuntos Socio Ambientales",
+            "nid": "137045"
+        },
+        {
+            "value": "04",
+            "name": "Biodiversidad y Ecosistemas",
+            "nid": "136722"
+        },
+        {
+            "value": "07",
+            "name": "Cambio Climático",
+            "nid": "136758"
+        },
+        {
+            "value": "05",
+            "name": "Clima y Eventos Naturales",
+            "nid": "136772"
+        },
+        {
+            "value": "13",
+            "name": "Consumo Responsable y Producción Sostenible",
+            "nid": "136781"
+        },
+        {
+            "value": "11",
+            "name": "Economía Ambiental y Bionegocios",
+            "nid": "136803"
+        },
+        {
+            "value": "06",
+            "name": "Gestión de Riesgos y Desastres",
+            "nid": "136990"
+        },
+        {
+            "value": "09",
+            "name": "Gestión, Fiscalización y Participación Ciudadana Ambiental",
+            "nid": "136936"
+        },
+        {
+            "value": "08",
+            "name": "Residuos",
+            "nid": "137010"
+        },
+        {
+            "value": "10",
+            "name": "Salud Ambiental",
+            "nid": "137029"
+        },
+        {
+            "value": "03",
+            "name": "Suelo y Tierra",
+            "nid": "137145"
+        }
+    ]
+}

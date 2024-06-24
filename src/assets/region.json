@@ -1,0 +1,133 @@
+{
+    "data": [
+        {
+            "value": "00",
+            "name": "Perú"
+        },
+        {
+            "value": "01",
+            "name": "Amazonas",
+            "nid": "579"
+        },
+        {
+            "value": "02",
+            "name": "Ancash",
+            "nid": "671"
+        },
+        {
+            "value": "03",
+            "name": "Apurímac",
+            "nid": "858"
+        },
+        {
+            "value": "04",
+            "name": "Arequipa",
+            "nid": "950"
+        },
+        {
+            "value": "05",
+            "name": "Ayacucho",
+            "nid": "1068"
+        },
+        {
+            "value": "06",
+            "name": "Cajamarca",
+            "nid": "1199"
+        },
+        {
+            "value": "07",
+            "name": "Callao",
+            "nid": "1340"
+        },
+        {
+            "value": "08",
+            "name": "Cusco",
+            "nid": "1349"
+        },
+        {
+            "value": "09",
+            "name": "Huancavelica",
+            "nid": "1475"
+        },
+        {
+            "value": "10",
+            "name": "Huánuco",
+            "nid": "1583"
+        },
+        {
+            "value": "11",
+            "name": "Ica",
+            "nid": "1679"
+        },
+        {
+            "value": "12",
+            "name": "Junín",
+            "nid": "1728"
+        },
+        {
+            "value": "13",
+            "name": "La Libertad",
+            "nid": "1862"
+        },
+        {
+            "value": "14",
+            "name": "Lambayeque",
+            "nid": "1958"
+        },
+        {
+            "value": "15",
+            "name": "Lima",
+            "nid": "2000"
+        },
+        {
+            "value": "16",
+            "name": "Loreto",
+            "nid": "2182"
+        },
+        {
+            "value": "17",
+            "name": "Madre de Dios",
+            "nid": "2244"
+        },
+        {
+            "value": "18",
+            "name": "Moquegua",
+            "nid": "2259"
+        },
+        {
+            "value": "19",
+            "name": "Pasco",
+            "nid": "2283"
+        },
+        {
+            "value": "20",
+            "name": "Piura",
+            "nid": "2316"
+        },
+        {
+            "value": "21",
+            "name": "Puno",
+            "nid": "2390"
+        },
+        {
+            "value": "22",
+            "name": "San Martín",
+            "nid": "2514"
+        },
+        {
+            "value": "23",
+            "name": "Tacna",
+            "nid": "2602"
+        },
+        {
+            "value": "24",
+            "name": "Tumbes",
+            "nid": "2635"
+        },
+        {
+            "value": "25",
+            "name": "Ucayali",
+            "nid": "2652"
+        }
+    ]
+}

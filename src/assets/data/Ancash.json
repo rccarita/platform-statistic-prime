@@ -1,0 +1,5232 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "46.47",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "42.82",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "41.73",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "41.99",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "40.55",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "45.34",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "43.69",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "40.52",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "41.48",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "39.06",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "38.56",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "43.05",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "42.57",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "42.48",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "92.76",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "93.6",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "93.83",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "96.27",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "96.6",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "97.1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "96.4",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "95.52",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "94.98",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "91.75",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "18298549",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "56711457.48",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "17074558.48",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "38010068",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "5348068",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "3951767",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "64910434",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "8613997",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "3829686",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "60.31",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "924",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "937",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "02",
+                    "valor": "16.37",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "02",
+                    "valor": "17.43",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "02",
+                    "valor": "17.46",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "17.43",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "17.64",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "17.7",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "18.03",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "18.57",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "19.16",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "19.43",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "20.11",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "21.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "23.06",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "24.93",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "26.66",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "27.96",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "29.77",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "30.62",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "31.32",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "32.24",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "32.8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "33.97",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "35.05",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "02",
+                    "valor": "17759",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "02",
+                    "valor": "18980",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "02",
+                    "valor": "19065",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "19055",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "19293",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "19382",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "19757",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "20354",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "21001",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "21309",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "22086",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "23322",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "25418",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "27542",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "29573",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "31213",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "33542",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "34923",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "36190",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "37703",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "38725",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "40373",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "41857",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "35877.68",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "6",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "3",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "3",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50100": {},
+        "11276": {},
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "108341.82",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "8159": {
+            "data": []
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "72035.19",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "94162.86",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "78182.46",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "51452.55",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "51656.76",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "33023.34",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "31490.01",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "33625.44",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "02",
+                    "valor": "3522",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "02",
+                    "valor": "7760",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "02",
+                    "valor": "2240",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "02",
+                    "valor": "5633",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "02",
+                    "valor": "4301",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "02",
+                    "valor": "4338",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "02",
+                    "valor": "2317",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "2031",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "1823",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "1040",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "2793",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "2684",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "2155",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "2984",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "4450",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "2620",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "2448",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "1932",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "1659",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "1450",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "1191",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "1378",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "843",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "924",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "398",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "204.61",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "171.73",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "103.27",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "1.84",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "168.48",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "6.88",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "6.43",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "22.02",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "81.97",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "101.25",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "18.82",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "9.86",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "13.27",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "8.91",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "14.5",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "103.66",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "956.04",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "16.29",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "138.29",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "239.67",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "61.56",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "74.43",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "48.87",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "9738": {
+            "data": []
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "466148.79",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "463529.01",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "461080.53",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "459148.85",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "457489.87",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "456039.87",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "454848.87",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "453471.37",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "452628.67",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "451704.67",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "451306.67",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "451102.06",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "450930.33",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "450827.06",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "1.84",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "168.48",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "6.88",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "6.43",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "22.02",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "81.97",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "101.25",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "18.82",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "9.86",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "13.27",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "8.91",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "14.5",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "103.66",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "956.04",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "16.29",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "138.29",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "239.67",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "61.56",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "74.43",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "48.87",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "30883.9",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "20.87",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "21.67",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "21.81",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "20.81",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "20.58",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "21.07",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "20.28",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "20.81",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "22.93",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "32",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "26",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "41",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "30",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "26",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "22",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "29",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "25",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "19",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "18",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "995.9",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "659.4",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "1181.3",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "1069.7",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "962.4",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "654.1",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "16",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "20.87",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "21.67",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "21.81",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "20.81",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "20.58",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "21.07",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "20.28",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "20.81",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "22.93",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "23",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "58",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "60",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "71",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "105",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "87",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "172",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "66",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "76",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "109",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "119",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "40",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "15",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "20",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "844",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "194",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "455",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "271",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "305",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "259",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "749",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "624",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "551",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "19854",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "301517",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "2208",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "1940",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "17232",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "2804",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "1541",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "13031",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "7735",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "1309",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "292",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "96",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "128503",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "862",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "4238",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "2710",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "2912",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "2642",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "38386",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "305",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "493",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "4834",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "380",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "491",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "207",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "878",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "280",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "144",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "2553",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "1595",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "736",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "1187",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "127",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "25603",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "968",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "1589",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "552",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "1391",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "935",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "7129",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "645",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "564",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "19863",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "301518",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "2208",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "1945",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "17239",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "2806",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "1545",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "13047",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "7735",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "1309",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "292",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "96",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "128532",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "866",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "4242",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "2712",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "2915",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "2650",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "38398",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "71",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "98",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "71",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "83",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "97",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "28",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "192",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "68",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "11",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "529",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "218",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "33",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "39",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "11",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "3551",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "228",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "511",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "174",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "416",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "316",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "892",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "319",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "60",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "26",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "4",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "11",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "12",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "50",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "2136",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "30",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "1698.1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "687.55",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "60.35",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "43.03",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "2733.5",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "149",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "148",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "151",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "152",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "153",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "02",
+                    "valor": "155",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "8.47",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "9.43",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "7.87",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "8.09",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "10.54",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "12.32",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "35.59",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "35.46",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "38.03",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "7021748",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "7265329",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "10035481",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "5391602",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "5547800",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "12285660",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "12979940",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "14.01",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "9.66",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "12.47",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "13.33",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "17.36",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "21.96",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "35.41",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "37.88",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "41.44",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "134993.38",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "154490.05",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "148850.24",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "146091.58",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "155210.28",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "168449.72",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "170365.45",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "169349.99",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "173790.18",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "0.71",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "0.77",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "0.77",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "0.75",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "0.75",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "0.8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "0.8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "0.79",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "0.81",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "12830274",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "9788520",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "14442267",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "13527842",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "14733258",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "16009959",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "11092535",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "14399537",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "15465321",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "20056814",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "25677634",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "41800535",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "45020429",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "49485888",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "16338.1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "19851.14",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "16739.96",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "16873.96",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "23364.56",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "29639.75",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "86617.29",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "85795.29",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "94430.03",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "0.49",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "0.56",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "0.54",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "0.52",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "0.52",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "0.56",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "0.56",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "0.56",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "0.57",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "02",
+                    "valor": "2",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "71.68",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "70.88",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "71.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "112.98",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "107.73",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "120.47",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "02",
+                    "valor": "121.48",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "0.21",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "0.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "0.23",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "0.23",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "0.22",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "0.24",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "0.24",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "0.24",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "0.24",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "509.65",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "531",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "654.61",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "788.01",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "2448.28",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "2672.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "1092.79",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "5129.19",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "4937.14",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "57854.31",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "55935.8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "63792.96",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "62610.68",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "66518.69",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "72192.74",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "73013.77",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "72578.57",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "74481.5",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "192847.69",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "210425.84",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "212643.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "208702.25",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "221728.97",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "240642.46",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "243379.22",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "241928.55",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "248271.68",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "9775603",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "10522809",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "35562155",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "26925558",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "29538588",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "39528340",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "44728638",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "3",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "4",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "84",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "86",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "72",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "103",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "113",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "58",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "359",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "46",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "52",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "118",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "101",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "0",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "0",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "0",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "5",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "23",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "14",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "16",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "9",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "16",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "25",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "7",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "1.0",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "2.0",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "1.0",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "1.0",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "1.0",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "14",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "6",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "20",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "5",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "16",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "19",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "12",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "12",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "14",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "10",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "10",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "16",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "46.47",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "42.82",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "41.73",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "41.99",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "40.55",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "45.34",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "43.69",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "40.52",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "41.48",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "39.06",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "38.56",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "43.05",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "42.57",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "42.48",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "65",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "64.9",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "77.8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "77.5",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "80.7",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "83.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "86.8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "86.7",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "84.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "83.9",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "84.78",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "85.79",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "132400",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "120682",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "121634",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "96152",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "94499",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "97454",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "85764",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "114520",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "91530",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "79101",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "95555",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "94673",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "25462",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "36210",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "86388",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "65347",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "16691",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "17228",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "14079",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "10003",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "18496",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "28404",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "25483",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "23952",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "24182",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "22722",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "19992",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "19916",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "8671",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "12434",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "12970",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "13692",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "13935001",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "12988219",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "14334130",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "14303545",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "13404554",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "13728096",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "13875179",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "15320583",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "16264590",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "15173521",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "16390841",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "16654123",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "16176868",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "15934662",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "15695887",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "92.76",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "93.6",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "93.83",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "96.27",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "96.6",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "97.1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "96.4",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "95.52",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "94.98",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "91.75",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "02",
+                    "valor": "66",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "02",
+                    "valor": "52",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "02",
+                    "valor": "39",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "33",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "42",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "46",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "50",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "216",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "146",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "148",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "129",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "128",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "136",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "659",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "82",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "79",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "86",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "79",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "82",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "89",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "52",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "40",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "60",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "60.87",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "72.85",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "61.65",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "70.24",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "109.49",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "82.85",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "42.29",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "56.9",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "62.78",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "87.54",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "82.34",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "90.88",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "104.89",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "157.25",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "02",
+                    "valor": "25.66",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "02",
+                    "valor": "596.38",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "759.59",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "1306.49",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "5145.8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "2819.23",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "1831.82",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "861.74",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "1356.25",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "1998.87",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "3312.31",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "3860.78",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "3216.88",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "3593",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "1995.64",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "1896.57",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "30.5",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "02",
+                    "valor": "29828.06",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "02",
+                    "valor": "19824.97",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "28524.85",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "30833.17",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "30484.26",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "29142.05",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "31469.83",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "45830.41",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "39647.66",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "59903.05",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "99138.32",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "56632.03",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "63023.48",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "47335",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "61.25",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "40.84",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "6857.79",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "5108.45",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "2.17",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "1.32",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "1.75",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "1.57",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "1.85",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "1.61",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "1.64",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "1.48",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "1.97",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": []
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "20",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "23",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "27",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "19",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "19",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "17",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "13",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "5",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "6",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "5",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "5",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "3",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "3",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "1",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "22120": {
+            "data": []
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "02",
+                    "valor": "59.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "02",
+                    "valor": "61.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "02",
+                    "valor": "60.6",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "02",
+                    "valor": "59.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "02",
+                    "valor": "61.93",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "02",
+                    "valor": "55.65",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "58.11",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "53.71",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "55.03",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "52.7",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "53.79",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "51.81",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "53",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "52.02",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "55.54",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "50.68",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "54.75",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "48.91",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "46.5",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "49.54",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "56.69",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "53.69",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "16691",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "17228",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "14079",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "10003",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "18496",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "28404",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "25483",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "23952",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "24182",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "22722",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "19992",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "19916",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "8671",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "12434",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "12970",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "13692",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "132400",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "120682",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "121634",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "96152",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "94499",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "97454",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "85764",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "114520",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "91530",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "79101",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "95555",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "94673",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "25462",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "36210",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "86388",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "65347",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "83.33",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "76.67",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "75",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "73.08",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "86.36",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "89.47",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "86.67",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "33.92",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "42.28",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "10.0",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "42.28",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "10.0",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "42.28",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "1921.7",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "2255.2",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "2264.1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "2239.4",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "2262.33",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "2189.3",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "2357",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "2134.78",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "42.96",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "43.47",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "45.56",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "48.06",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "50.31",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "50.18",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "50.39",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "53.73",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "54.05",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "55.83",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "54.92",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "57.09",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "58.7",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "54.38",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "52.41",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "54.78",
+                    "nombre": "Ancash"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "02",
+                    "valor": "85.13",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "02",
+                    "valor": "87.62",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "02",
+                    "valor": "89.85",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "02",
+                    "valor": "89.87",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "02",
+                    "valor": "93.1",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "02",
+                    "valor": "94.45",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "02",
+                    "valor": "93.51",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "02",
+                    "valor": "94.25",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "02",
+                    "valor": "95.24",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "02",
+                    "valor": "96.64",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "02",
+                    "valor": "95.8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "02",
+                    "valor": "96.8",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "02",
+                    "valor": "97.41",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "02",
+                    "valor": "97.76",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "02",
+                    "valor": "98.62",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "02",
+                    "valor": "97.6",
+                    "nombre": "Ancash"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,9 @@
+<div class="mb-10" *ngFor="let item of listFiles()">
+    <div class="ml-2 mr-2">
+        <div *ngFor="let property of properties">
+            <span class="flex text-[#045299] font-bold">{{ property | titlecase }}</span>
+            <span class="text-justify">{{ item[property] }}</span>
+            <div class="mb-2"></div>
+        </div>
+    </div>
+</div>

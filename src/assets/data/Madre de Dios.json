@@ -1,0 +1,5081 @@
+{
+    "01": {
+        "36711": {
+            "data": []
+        },
+        "50009": {},
+        "50010": {},
+        "50011": {},
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "82.55",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "81.41",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "84.83",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "86.95",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "88",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "87.7",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "87.9",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "86.61",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "86.14",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "86.73",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "112055",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "18291",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "17",
+                    "valor": "6.48",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "17",
+                    "valor": "6.55",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "17",
+                    "valor": "7.02",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "7.91",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "7.86",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "7.61",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "7.47",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "7.65",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "7.82",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "7.83",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "7.98",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "8.08",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "8.12",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "8.34",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "8.18",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "8.08",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "8.21",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "8.44",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "8.57",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "8.38",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "8.09",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "8.13",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "7.78",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "17",
+                    "valor": "604",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "17",
+                    "valor": "630",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "17",
+                    "valor": "695",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "806",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "823",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "819",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "827",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "870",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "913",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "940.5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "986",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "1027",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "1062",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "1123",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "1136",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "1161",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "1223",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "1308",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "1383",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "1405",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "1407",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "1461",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "1443",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "85300.54",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "23",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "24",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "24",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "24",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50100": {},
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "17",
+                    "valor": "89.33",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "17",
+                    "valor": "95.14",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "17",
+                    "valor": "95.07",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "17",
+                    "valor": "95.01",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "94.95",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "94.86",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "94.76",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "94.69",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "94.61",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "94.48",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "94.42",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "94.25",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "94.11",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "93.97",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "93.83",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "93.64",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "93.43",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "93.23",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "92.96",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "92.68",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "92.43",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "92.2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "91.89",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "91.60",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "17",
+                    "valor": "15",
+                    "nombre": "Madre De Dios"
+                }
+            ]
+        },
+        "50015": {},
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "1302712.65",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "8039397",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "8027629",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "8015928",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "8003527",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "7987761",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "7969959",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "7952904",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "7929236",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "7905744.09",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "7884365.76",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "7861327.02",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "7838184.96",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "7813699.56",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "1328417.37",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "1373189.67",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "1465955.82",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "1531452.78",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "1592769.51",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "1645677.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "1672757.91",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "1750682.88",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "17",
+                    "valor": "1549",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "17",
+                    "valor": "2728",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "17",
+                    "valor": "1062",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "17",
+                    "valor": "1400",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "17",
+                    "valor": "873",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "243",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "281.16",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "108.87",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "263.5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "1232.92",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "544.12",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "1003.59",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "1499.59",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "1743.28",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "2986.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "3061.76",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "4342.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "5051.67",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "4359.3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "4347.25",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "8634.25",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "33040.85",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "12962.3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "24404.73",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "14836.24",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "25075.2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "23754.35",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "4326.84",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "17",
+                    "valor": "5223.24",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "5626.44",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "7766.19",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "8287.65",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "5756.4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "7337.52",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "10502.64",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "5691.24",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "14286.33",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "11767.77",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "11700.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "12400.65",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "15766.74",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "17802",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "17054.64",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "23668.65",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "23491.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "21377.88",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "23042.07",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "23142.06",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "24485.4",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "503632.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "503632.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "503632.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "503632.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "503632.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "503632.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "503632.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "503632.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "503632.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "503632.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "503389.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "503108.83",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "502999.96",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "502999.96",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "263.5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "1232.92",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "544.12",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "1003.59",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "1499.59",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "1743.29",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "2986.99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "3061.76",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "4342.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "5051.67",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "4359.3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "4347.25",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "8634.25",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "33040.85",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "12962.3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "24404.73",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "14836.24",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "25075.2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "23754.35",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "4326.84",
+                    "nombre": "Madre De Dios"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "31.42",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "31.64",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "31.75",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "31.6",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "30.98",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "31.17",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "32.46",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "31.3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "31.06",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "30.76",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "7",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "2887.5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "2349.9",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "2325.0",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "2424.5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "2008.4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "1736.6",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "7",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "31.42",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "31.64",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "31.75",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "31.6",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "30.98",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "31.17",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "32.46",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "31.3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "31.06",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "30.76",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "167",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "38",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "85",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "19",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "26",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "21",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "15",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "13",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "19",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "56",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "9",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "20",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "24",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "77",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "46",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "49",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "36",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "96",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "61",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "38",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "27160",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "1048",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "4751",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "1140",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "207",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "1250",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "3576",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "504",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "2305",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "300",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "1676",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "12127",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "26165",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "8871",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "2637",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "6",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "1200",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "7543",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "363",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "462",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "6294",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "208",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "295",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "447",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "134",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "56",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "54",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "230",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "125",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "21",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "1814",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "929",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "1052",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "390",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "160",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "59",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "1056",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "278",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "291",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "27170",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "1049",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "4756",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "1148",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "207",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "1250",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "3577",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "506",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "2305",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "300",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "1676",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "12135",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "26174",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "8875",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "2641",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "6",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "1201",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "7544",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "366",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "463",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "1190",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "45",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "68",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "107",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "30",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "12",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "7",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "9",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "16",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "17",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "159",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "99",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "116",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "21",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "32",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "28",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "22",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "480",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "95",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "86",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "2549",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "2250",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "431",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "147",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "1141",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "49",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "0.01",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "5.9",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "2897.4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "15.75",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "63.5",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "10",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "10",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "10",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "11",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "11",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36916": {
+            "data": []
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "45566",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "116269",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "246060",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "798027",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "1932959",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "2431483",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "4594075",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "29.77",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "26.82",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "30.92",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "31.86",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "26.32",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "32.02",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "42.01",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "46.64",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "62.52",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "15210.51",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "16667.04",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "19473.89",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "19629.61",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "27131.15",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "27548.2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "27690.2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "30675.37",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "35396.25",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "0.6",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "0.5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "0.74",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "0.72",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "0.74",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "0.75",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "0.73",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "0.78",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "0.88",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "1287512",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "2265504",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "2925008",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "3347900",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "8733566",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "3991902",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "3683076",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "4344946",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "4578322",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "4245815",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "5369501",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "7300954",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "8379937",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "11595560",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "11585": {
+            "data": []
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "0.42",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "0.45",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "0.51",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "0.51",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "0.52",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "0.53",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "0.51",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "0.55",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "0.61",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "21067": {
+            "data": []
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "23.17",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "23.17",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "23.18",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "27.64",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "26.88",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "31.64",
+                    "nombre": "Madre De Dios"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "17",
+                    "valor": "36.06",
+                    "nombre": "Madre De Dios"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "0.18",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "0.05",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "0.22",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "0.22",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "0.22",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "0.23",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "0.22",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "0.24",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "0.27",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "138.89",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "577",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "32.03",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "162.26",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "375.43",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "281.4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "286.25",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "705.97",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "853.66",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "6518.79",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "1757.81",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "8345.95",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "8412.69",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "11627.64",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "11806.37",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "11867.23",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "13146.59",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "15169.82",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "21729.31",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "18424.85",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "27819.85",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "28042.3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "38758.78",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "39354.57",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "39557.43",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "43821.96",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "50566.07",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "45566",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "116269",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "5033548",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "5850698",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "6976734",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "7812323",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "10140834",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "7",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "6",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "6",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "7",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "7",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50022": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "30",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "14",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "13",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "0",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "0",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "0",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "0",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "0",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "0",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "0",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "0",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "14",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "16",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "10",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "15",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "18",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "7",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "1.0",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "14",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "14",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "13",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "18",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "30",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "11",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36711": {
+            "data": []
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "38.1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "40.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "52",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "48.9",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "54.1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "56.5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "57.2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "60.1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "58.9",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "55.7",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "48.05",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "41.75",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "24309",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "18956",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "19321",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "17160",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "12787",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "14579",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "11242",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "14463",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "17144",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "13025",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "16556",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "16682",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "5064",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "8239",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "14578",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "11672",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "6910",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "6372",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "6711",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "5123",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "1240",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "7418",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "6472",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "5451",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "4928",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "4495",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "4507",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "4042",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "1782",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "3011",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "3198",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "2831",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "867301",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "980232",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "1037993",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "1261641",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "1399264",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "1608334",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "1470857",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "1524967",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "1617093",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "1757965",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "1974087",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "2099715",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "2052867",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "1955281",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "2234850",
+                    "nombre": "Madre De Dios"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "82.55",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "81.41",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "84.83",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "86.95",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "88",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "87.7",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "87.9",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "86.61",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "86.14",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "86.73",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "17",
+                    "valor": "203",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "17",
+                    "valor": "297",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "17",
+                    "valor": "315",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "254",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "349",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "391",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "433",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "486",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "501",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "392",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "405",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "438",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "444",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "558",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "539",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "672",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "516",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "465",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "459",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "329",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "396",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "736",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "928",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "6.14",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "9.02",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "16.17",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "16.22",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "17.11",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "17.84",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "14.63",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "17.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "29.14",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "22.32",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "21.05",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "23.54",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "29.08",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "35.42",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "17",
+                    "valor": "138105",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "17",
+                    "valor": "68475.36",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "17",
+                    "valor": "85223.6",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "91341.94",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "72316.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "86728.53",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "84405.86",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "99665.49",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "128377.18",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "139315.52",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "134614.16",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "152800.58",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "145787.77",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "103151.27",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "113433",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "168661.07",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "58233.4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "97102.48",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "90458.68",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "105031.67",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "57462.75",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "216477.04",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "278979.33",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "235910.54",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "17",
+                    "valor": "266611.97",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "17",
+                    "valor": "132191.81",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "17",
+                    "valor": "163629.3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "175376.53",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "158530.47",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "191410.7",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "251636.12",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "196652.85",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "253498.91",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "290449.52",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "330659.04",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "293847.26",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "280460.26",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "311064.23",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "274762",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "323829.25",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "164738.72",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "233327.33",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "35.89",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "276012.23",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "212496.71",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "654940.02",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "279620.12",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "108013.58",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "2.36",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "1.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "2.18",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "3.31",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "2.21",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "1.73",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "1.88",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "2.18",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "2.82",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "48.52",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "17.85",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "83.33",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "17.85",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "83.33",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "52",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "1",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "63.4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "75",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "17",
+                    "valor": "81.6",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "17",
+                    "valor": "76.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "17",
+                    "valor": "79",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "17",
+                    "valor": "71.98",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "17",
+                    "valor": "75.82",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "17",
+                    "valor": "73.73",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "77.63",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "76.4",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "79.51",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "77.3",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "76.81",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "69.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "65.14",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "69.67",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "74.73",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "71.38",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "69.91",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "69.01",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "73.35",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "72.63",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "60.97",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "63.71",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "6910",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "6372",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "6711",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "5123",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "1240",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "7418",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "6472",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "5451",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "4928",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "4495",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "4507",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "4042",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "1782",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "3011",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "3198",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "2831",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "24309",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "18956",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "19321",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "17160",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "12787",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "14579",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "11242",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "14463",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "17144",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "13025",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "16556",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "16682",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "5064",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "8239",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "14578",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "11672",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "66.67",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "100",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "100",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "100",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "100",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "100",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "100",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "2.2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "1.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "2.5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "2.11",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "6.5",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "2",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "2.05",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "36.42",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "48.6",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "51.18",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "56.84",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "70.06",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "70.01",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "69.66",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "72.32",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "76.36",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "74.67",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "74.66",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "75.84",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "81.24",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "69.25",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "70.91",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "75.38",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "17",
+                    "valor": "76.97",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "17",
+                    "valor": "83.17",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "17",
+                    "valor": "86.86",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "17",
+                    "valor": "86.39",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "17",
+                    "valor": "88.62",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "17",
+                    "valor": "89.19",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "17",
+                    "valor": "90.46",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "17",
+                    "valor": "88.8",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "17",
+                    "valor": "92.18",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "17",
+                    "valor": "91.82",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "17",
+                    "valor": "92.55",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "17",
+                    "valor": "94.95",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "17",
+                    "valor": "94.54",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "17",
+                    "valor": "95.21",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "17",
+                    "valor": "93.68",
+                    "nombre": "Madre de Dios"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "17",
+                    "valor": "94.72",
+                    "nombre": "Madre de Dios"
+                }
+            ]
+        }
+    }
+}

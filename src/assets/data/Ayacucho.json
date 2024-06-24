@@ -1,0 +1,5708 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "97.41",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "99.72",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "99",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "99.98",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "99.87",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "99.83",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "99.96",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "99.05",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "98.28",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "100",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "99.92",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "99.64",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "98.96",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "97.77",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "59.51",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "132",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "127",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "90.24",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "90.68",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "93.16",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "95.2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "92.8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "95.3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "94.7",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "95.07",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "96.06",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "95.42",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "450705",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "1789127.01",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "382741.92",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "7367545",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "1252189",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "3784320",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "2491089",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "5618080",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "05",
+                    "valor": "5.57",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "05",
+                    "valor": "6.15",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "05",
+                    "valor": "6.12",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "6.09",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "6.11",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "6.12",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "6.17",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "6.44",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "8.36",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "8.62",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "8.84",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "8.95",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "9.21",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "9.27",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "9.36",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "9.35",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "9.33",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "9.21",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "8.98",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "8.73",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "8.51",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "8.49",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "8.51",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "05",
+                    "valor": "3367",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "05",
+                    "valor": "3770",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "05",
+                    "valor": "3804",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "3832",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "3882",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "3919",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "3969",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "4153",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "5404",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "5572",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "5716",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "5784",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "5941",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "5968",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "6021",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "6022",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "6041",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "6015",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "5918",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "5798",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "5686",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "5687",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "5705",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "43821.08",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "4",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {},
+        "50100": {},
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "05",
+                    "valor": "4.18",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "05",
+                    "valor": "5.14",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "05",
+                    "valor": "5.12",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "05",
+                    "valor": "5.12",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "5.11",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "5.09",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "5.08",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "5.06",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "5.05",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "5.04",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "5.02",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "4.99",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "4.97",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "4.95",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "4.94",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "4.92",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "4.89",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "4.83",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "4.79",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "4.74",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "4.7",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "4.66",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "4.65",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "102597.3",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "302480.55",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "219275",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "218711",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "217814",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "217011",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "216239",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "215426",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "214446",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "211665.6",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "209921.58",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "207755.28",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "205044.57",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "204151.23",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "203688.18",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "188635.05",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "196460.64",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "197439.03",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "194746.41",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "197135.82",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "229747.41",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "228802.14",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "230696.91",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "05",
+                    "valor": "3997",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "05",
+                    "valor": "8201",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "05",
+                    "valor": "2177",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "05",
+                    "valor": "6371",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "05",
+                    "valor": "3714",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "05",
+                    "valor": "3532",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "05",
+                    "valor": "2023",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "1416",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "1832",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "230",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "1989",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "1835",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "2630",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "2617",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "2101",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "2174",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "1250",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "873",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "451",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "173",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "197",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "934",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "287",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "189",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "319",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "118.57",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "83.24",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "84.31",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "3.74",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "37.67",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "34.33",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "2.95",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "12.65",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "5.66",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "16.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "13.37",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "1.41",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "19.47",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "25.69",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "166.89",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "52.43",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "87.8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "111.87",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "146.52",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "104.13",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "44.91",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "05",
+                    "valor": "91.8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "467.82",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "585.99",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "497.34",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "798.3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "719.73",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "193.32",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "1088.19",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "603.18",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "563.58",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "896.76",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "803.16",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "772.56",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "812.61",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "979.65",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "2780.64",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "1744.02",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "2166.3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "2710.71",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "893.34",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "463.05",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "470592.05",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "468417.64",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "467168.11",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "466295.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "465844.5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "465671.5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "465474.5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "464540.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "464253.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "464064.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "463745.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "463626.83",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "463543.59",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "463459.28",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "3.74",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "37.67",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "34.33",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "2.95",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "12.65",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "5.66",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "16.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "13.37",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "1.41",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "19.47",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "25.69",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "166.89",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "52.43",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "87.8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "111.87",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "146.52",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "104.13",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "44.91",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "27.37",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "26.5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "28.17",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "26.78",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "25.64",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "26.36",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "27.62",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "27.19",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "28.19",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "28.19",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "45",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "37",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "40",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "92",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "11",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "16",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "21",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "14",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "14",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "16",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50002": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "22",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "24",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "24",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "18",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "480.5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "638.7",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "390.3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "629.2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "535.9",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "480.3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "392.0",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "17",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "27.37",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "26.5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "28.17",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "26.78",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "25.64",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "26.36",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "27.62",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "27.19",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "28.19",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "28.19",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50031": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "00",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "00",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "00",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "00",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "00",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "00",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "00",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "00",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "00",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "00",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "162",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "256",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "448",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "281",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "83",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "367",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "345",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "265",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "351",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "221",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "125",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "201",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "302",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "423",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "312",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "320",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "231",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "425",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "895",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "846",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "1168",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "5226",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "69261",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "55237",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "139356",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "14449",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "36237",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "21589",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "39941",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "45908",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "23876",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "9801",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "15567",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "52775",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "62277",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "28353",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "27464",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "5293",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "12308",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "6900",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "7380",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "16531",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "1101",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "445",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "2711",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "1132",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "262",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "886",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "4952",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "7796",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "14309",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "6837",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "909",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "1694",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "399",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "247",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "1487",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "3502",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "946",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "654",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "2096",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "2074",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "3618",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "5230",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "69266",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "55241",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "139359",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "14449",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "36237",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "21604",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "39941",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "45910",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "23879",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "9805",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "15586",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "52778",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "62281",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "28366",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "27481",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "5299",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "12312",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "6906",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "7387",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "16534",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "265",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "88",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "516",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "118",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "51",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "321",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "1059",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "808",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "2969",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "1273",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "162",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "122",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "61",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "29",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "151",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "177",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "401",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "255",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "711",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "744",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "473",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "143",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "4530",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "56",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "1005",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "113",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "47",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "358",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "2519",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "10823",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "2959",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "12509",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "620.12",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "8964.56",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "19625.77",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "18355.19",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "5127.13",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "104",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "104",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "105",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "117",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "127",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "05",
+                    "valor": "134",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "2.58",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "4.25",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "38.19",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "57.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "56.34",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "57.53",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "56.97",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "55.77",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "5847634",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "10310727",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "13082809",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "8530764",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "7531178",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "13245136",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "32010041",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "11.23",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "10.35",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "16.66",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "19.38",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "23.88",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "28.03",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "34.15",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "35.61",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "43.46",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "69447.34",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "81588.69",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "74312.65",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "81706.32",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "88089.44",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "87442.29",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "87741.37",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "87970.83",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "87674.49",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "0.66",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "0.75",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "0.7",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "0.76",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "0.77",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "0.75",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "0.77",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "0.76",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "0.74",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "4630211",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "5963755",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "5758885",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "7506322",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "7773305",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "7651177",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "7128496",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "11598400",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "13637358",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "15740452",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "18627015",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "22816700",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "23861282",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "29142276",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "2931.45",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "4516.66",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "44571.5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "72231.31",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "70381.77",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "72108.13",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "71592.87",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "69847.57",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "0.46",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "0.54",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "0.49",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "0.53",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "0.54",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "0.53",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "0.54",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "0.53",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "0.52",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "05",
+                    "valor": "2",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "37.17",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "37.18",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "37.57",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "37.64",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "36.85",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "59.17",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "05",
+                    "valor": "59.81",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "0.2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "0.21",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "0.21",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "0.23",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "0.23",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "0.23",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "0.23",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "0.23",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "0.22",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "432.98",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "33",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "53.79",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "520.36",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "1047.32",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "1254.7",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "900.66",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "2508.76",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "2096.53",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "29763.14",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "31941.38",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "31848.28",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "35017",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "37752.62",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "37475.27",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "37603.45",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "37701.78",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "37574.78",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "99210.48",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "113530.07",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "106160.93",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "116723.32",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "125842.05",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "124917.56",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "125344.82",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "125672.61",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "125249.26",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "6442764",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "10840104",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "25144982",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "20843808",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "23965141",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "31472459",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "53047061",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "159",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "20",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "38",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "71",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "57",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "16",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "29",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "15",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "20",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "11",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "11",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "2.0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "1.0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "2.0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "2.0",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "34",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "78",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "44",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "45",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "75",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "34",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "6",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "11",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "2",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "97.41",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "99.72",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "99",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "99.98",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "99.87",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "99.83",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "99.96",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "99.05",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "98.28",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "100",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "99.92",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "99.64",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "98.96",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "97.77",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "46.6",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "52",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "76.9",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "77.2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "84.1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "78.3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "75.8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "78.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "80.6",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "79.9",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "83.93",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "80.28",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "107161",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "75610",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "97846",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "69511",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "67966",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "63237",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "48196",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "72072",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "74329",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "48634",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "59433",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "53432",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "18838",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "24585",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "50056",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "38497",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "18343",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "15122",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "15553",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "12934",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "14048",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "23485",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "19364",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "12320",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "12936",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "12945",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "11942",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "10765",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "5611",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "7178",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "8247",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "7705",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "125402",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "249159",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "27543",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "81478",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "2202",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "13419",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "18682",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "4836",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "110993",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "202053",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "10606",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "43415",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "136116",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "302521",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "90.24",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "90.68",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "93.16",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "95.2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "92.8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "95.3",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "94.7",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "95.07",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "96.06",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "95.42",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "05",
+                    "valor": "60",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "05",
+                    "valor": "65",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "05",
+                    "valor": "103",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "80",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "98",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "115",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "145",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "125",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "102",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "113",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "106",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "232",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "292",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "301",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "323",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "511",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "573",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "813",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "826",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "785",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "852",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "1064",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "1046",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "26.17",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "29.69",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "26.91",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "27.83",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "38.83",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "41.19",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "31.07",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "39.19",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "49.63",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "59.92",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "43.94",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "46.44",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "45.62",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "60.78",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "05",
+                    "valor": "2817.27",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "05",
+                    "valor": "1042.53",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "05",
+                    "valor": "1247.11",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "242.72",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "485.11",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "2891.33",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "1344.75",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "242.11",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "405.05",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "590.13",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "959.28",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "3417.67",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "9003.14",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "2249.25",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "5341",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "4205.88",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "1255.16",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "4006.26",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "4316.2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "855.18",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "1145.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "1302.63",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "443.24",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "05",
+                    "valor": "5438.75",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "05",
+                    "valor": "2012.61",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "05",
+                    "valor": "2079.23",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "569.15",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "3870.8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "7717.29",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "7292.37",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "2722.47",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "5718.13",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "5228.45",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "2781.86",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "5893.52",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "18438.91",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "6737.88",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "2212",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "8423.14",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "2413.78",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "5753.26",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "5583.73",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "378.73",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "8.2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "48.50",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "1.23",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "0.88",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "1.32",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "1.49",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "1.73",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "1.21",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "1.14",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "1.06",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "1.41",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "36807": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "38.0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "50.0",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "29.03",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "38.0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "100.0",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "29.03",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "38.0",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "100.0",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "22027": {
+            "data": []
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "12",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "14",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "10",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "7",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "7",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "8",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "1",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "22120": {
+            "data": []
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "05",
+                    "valor": "81.7",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "05",
+                    "valor": "87",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "05",
+                    "valor": "84.6",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "05",
+                    "valor": "83.65",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "05",
+                    "valor": "82.84",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "05",
+                    "valor": "81.66",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "73.35",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "70.12",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "68.8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "70.66",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "70.38",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "71.9",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "69.48",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "71.13",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "73.65",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "70.62",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "69.98",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "67.63",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "66.25",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "66.89",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "66.89",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "75.03",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "18343",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "15122",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "15553",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "12934",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "14048",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "23485",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "19364",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "12320",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "12936",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "12945",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "11942",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "10765",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "5611",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "7178",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "8247",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "7705",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "107161",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "75610",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "97846",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "69511",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "67966",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "63237",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "48196",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "72072",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "74329",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "48634",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "59433",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "53432",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "18838",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "24585",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "50056",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "38497",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "80",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "87.5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "90.91",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "100",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "87.5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "80",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "66.67",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "19.2",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "18.6",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "21.8",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "14.9",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "9.46",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "11.5",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "10.7",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "11.98",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "19.29",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "17.83",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "24.23",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "25.17",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "25.77",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "27.02",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "26.92",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "32.56",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "35.05",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "37.52",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "38.02",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "42.46",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "40.61",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "34.44",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "36",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "35.9",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "05",
+                    "valor": "69.59",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "05",
+                    "valor": "70.47",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "05",
+                    "valor": "75.4",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "05",
+                    "valor": "79.11",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "05",
+                    "valor": "80.65",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "05",
+                    "valor": "83.42",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "05",
+                    "valor": "87.87",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "05",
+                    "valor": "89.99",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "05",
+                    "valor": "89.24",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "05",
+                    "valor": "91.37",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "05",
+                    "valor": "92.68",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "05",
+                    "valor": "94.03",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "05",
+                    "valor": "93.98",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "05",
+                    "valor": "95.19",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "05",
+                    "valor": "95.86",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "05",
+                    "valor": "95.63",
+                    "nombre": "Ayacucho"
+                }
+            ]
+        }
+    }
+}

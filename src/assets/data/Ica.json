@@ -1,0 +1,4818 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "98.72",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "99.84",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "104.06",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "99.55",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "95.94",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "94.51",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "97.88",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "76.79",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "82.38",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "82.13",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "75.48",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "76.13",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "87.93",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "89.03",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "0.04",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "92.29",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "91.67",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "92.7",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "92.01",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "92.7",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "93.3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "93.8",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "93.47",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "94.32",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "91.85",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "12451125",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "2609024.57",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "7056239.08",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "10325743",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "13474349",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "8296079",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "2693347",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "2768405",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "680298",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "11",
+                    "valor": "31.06",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "11",
+                    "valor": "31.83",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "11",
+                    "valor": "32.16",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "32.34",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "11",
+                    "valor": "32.14",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "11",
+                    "valor": "31.87",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "11",
+                    "valor": "31.59",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "31.64",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "34.34",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "34.09",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "34.11",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "33.88",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "33.43",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "32.59",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "31.95",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "31.53",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "31.13",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "30.61",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "29.85",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "29.44",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "28.63",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "28.01",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "27.84",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "11",
+                    "valor": "21052",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "11",
+                    "valor": "21837",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "11",
+                    "valor": "22290",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "22614",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "11",
+                    "valor": "22692",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "11",
+                    "valor": "22753",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "11",
+                    "valor": "22834",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "23170",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "25498",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "25691",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "26135",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "26419",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "26551",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "26398",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "26439",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "26715",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "27092",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "27423",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "27558",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "27970",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "27923",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "27958",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "28397",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "21305.51",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "8",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "2",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "2",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50100": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "335000",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "335000",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "335000",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "335000",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "335000",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "335000",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "335000",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "335000",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "335000",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "335000",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "11276": {
+            "data": []
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "159.1",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "26239.5",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "8159": {
+            "data": []
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "41542.74",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "53848.17",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "47267.01",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "45542.88",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "46600.65",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "35808.3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "38011.05",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "36207.63",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "11",
+                    "valor": "159",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "11",
+                    "valor": "159",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "11",
+                    "valor": "88",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "11",
+                    "valor": "29",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "11",
+                    "valor": "60",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "11",
+                    "valor": "15",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "11",
+                    "valor": "4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "295",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "26",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "83.93",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "221.48",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "32.29",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "103.17",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "43.06",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "10.76",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "9.31",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "11.48",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "112",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "26.57",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "10.76",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "15.84",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "28.08",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "16.65",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "21.15",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "25.29",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "9738": {
+            "data": []
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "22650.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "22650.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "22650.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "22650.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "22650.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "22650.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "22650.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "22650.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "22650.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "22355.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "22329.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "22246.06",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "22024.58",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "22023.58",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "32.29",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "103.17",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "43.06",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "10.76",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "9.31",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "11.48",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "112",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "26.57",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "10.76",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "15.84",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "28.08",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "16.65",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "21.15",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "25.29",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "29.9",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "29.8",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "30.64",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "30.04",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "29.65",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "30.08",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "30.31",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "29.6",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "29.78",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "29.52",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "86",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "47",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "66",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "54",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "40",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "40",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "37",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "56",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "67",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "17",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "9.0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "5.5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "0.3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "39.0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "4.4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "11.9",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "0.4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "4.3",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "8",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "29.9",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "29.8",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "30.64",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "30.04",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "29.65",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "30.08",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "30.31",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "29.6",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "29.78",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "29.52",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "24",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "11",
+                    "valor": "31",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "11",
+                    "valor": "49",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "11",
+                    "valor": "24",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "66",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "22",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "9",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "23",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "82",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "97",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "76",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "53",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "41",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "44",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "153",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "85",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "54",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "63",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "122",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "121",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "148",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "521",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "11",
+                    "valor": "457",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "11",
+                    "valor": "6419",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "11",
+                    "valor": "1787",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "145288",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "1675",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "2733",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "13529",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "35042",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "39715",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "13951",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "6960",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "24065",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "2765",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "116905",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "16798",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "981",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "8011",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "2720",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "1172",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "19284",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "144",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "11",
+                    "valor": "54",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "11",
+                    "valor": "21974",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "11",
+                    "valor": "52",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "355332",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "606",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "238",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "653",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "3201",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "2790",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "1212",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "274",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "272",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "346",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "7752",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "450",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "125",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "218",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "224",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "564",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "991",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "531",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "11",
+                    "valor": "458",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "11",
+                    "valor": "6424",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "11",
+                    "valor": "1787",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "145813",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "1675",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "2733",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "13529",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "35046",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "39718",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "13951",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "6961",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "24065",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "2765",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "116908",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "16799",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "982",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "8011",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "2723",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "1184",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "19285",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "10",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "11",
+                    "valor": "12",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "11",
+                    "valor": "25",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "11",
+                    "valor": "14",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "77217",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "127",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "67",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "169",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "94",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "92",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "102",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "61",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "63",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "92",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "550",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "61",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "33",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "93",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "63",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "156",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "108",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "44",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "20",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "60",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "3692",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "671.63",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "3639",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "1039.51",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "34",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "34",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "35",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "36",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "37",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "11",
+                    "valor": "38",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "39.13",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "22.56",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "20.01",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "26.51",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "23.61",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "24.39",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "52.35",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "49.99",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "5730355",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "8274846",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "3395384",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "2658210",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "6949871",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "8131327",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "11584247",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "33.18",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "33.85",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "44.13",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "40.6",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "39.65",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "38.91",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "47.07",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "56.28",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "57.95",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "127101.38",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "127460.21",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "130528.17",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "131804.24",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "156168.02",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "169490.08",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "170881.71",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "174475.87",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "193089.37",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "0.71",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "0.7",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "0.72",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "0.72",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "0.72",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "0.75",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "0.74",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "0.74",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "0.8",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "16876182",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "18554548",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "21413267",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "23002665",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "27890412",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "25857109",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "26649245",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "35078477",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "32589502",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "36606930",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "36969177",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "45899219",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "56171157",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "59111583",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "70411.01",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "42075.98",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "37672.8",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "59137.56",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "57176.33",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "59540.18",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "130487.08",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "137902.02",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "0.5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "0.5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "0.5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "0.5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "0.5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "0.53",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "0.52",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "0.52",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "0.56",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "21067": {
+            "data": []
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "275.73",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "275.73",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "279.06",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "279.06",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "263.08",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "294.08",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "11",
+                    "valor": "313.15",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "0.21",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "0.2",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "0.22",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "0.22",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "0.22",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "0.23",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "0.22",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "0.22",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "0.24",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "455.84",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "1944",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "605.69",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "1486.72",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "1650.54",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "2050.1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "14280.55",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "3257.42",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "3418.23",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "54472.02",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "52465.25",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "55940.64",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "56487.53",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "66929.15",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "72638.61",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "73235.02",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "74775.37",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "82752.59",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "181573.4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "179925.46",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "186468.81",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "188291.78",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "223097.17",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "242128.69",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "244116.72",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "249251.24",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "275841.96",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "5730355",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "8294846",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "36897891",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "38035799",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "52178829",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "54112926",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "57662583",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "164",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "26",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "11",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "85",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "74",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "2",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "13",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "15",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "27",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "20",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "11",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "18",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "35",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "17",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "1.0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "2.0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "4.0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "1.0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "2.0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "3.0",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "64",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "98",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "69",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "78",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "120",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "64",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "6",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "6",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "2",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "10",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "10",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "7",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "4",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "98.72",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "99.84",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "104.06",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "99.55",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "95.94",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "94.51",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "97.88",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "76.79",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "82.38",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "82.13",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "75.48",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "76.13",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "87.93",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "89.03",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "75.4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "77",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "82.1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "80.4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "83.9",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "83.8",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "88.9",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "89.6",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "90.3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "87.7",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "88.79",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "85.79",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "105638",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "96586",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "119315",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "197599",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "78657",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "80837",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "61265",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "90453",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "96940",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "67350",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "82789",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "77718",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "20491",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "24795",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "48025",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "43760",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "9916",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "12116",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "10917",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "9435",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "13038",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "20724",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "18947",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "12534",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "11070",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "11879",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "11056",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "11412",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "5128",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "5365",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "6250",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "6474",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "422370",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "434499",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "54809",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "614494",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "144138",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "1578209",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "2038582",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "728730",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "6343158",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "5694794",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "6238131",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "8430922",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "8268130",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "4559387",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "4311481",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "92.29",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "91.67",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "92.7",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "92.01",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "92.7",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "93.3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "93.8",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "93.47",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "94.32",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "91.85",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "4",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "35.09",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "43.31",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "40.49",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "51.1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "74.06",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "58.62",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "56",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "64.81",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "60.09",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "68.17",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "73.4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "87.56",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "99.14",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "132.18",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "2.85",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "11",
+                    "valor": "1.57",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "8.26",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "70.15",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "16.5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "14.44",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "65.47",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "11",
+                    "valor": "774.5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "11",
+                    "valor": "131.39",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "11",
+                    "valor": "155.58",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "147.29",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "132.8",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "80.08",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "71.07",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "231.9",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "149.63",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "65",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "46.34",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "8.93",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "79043.12",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "2.5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "2.48",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "2.54",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "2.59",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "2.49",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "2.7",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "2.87",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "3.18",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "40.0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "14.76",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "40.65",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "40.0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "100.0",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "40.65",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "40.0",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "100.0",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "206",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "32",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "5",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "2",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "2",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "1",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "62.8",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "60",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "11",
+                    "valor": "73.2",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "11",
+                    "valor": "69",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "11",
+                    "valor": "67.1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "11",
+                    "valor": "68.97",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "11",
+                    "valor": "63.43",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "11",
+                    "valor": "66.88",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "64.48",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "63.27",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "59.7",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "59.31",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "55.95",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "52.53",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "49.87",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "48.14",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "46.43",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "43.31",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "41.93",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "43.58",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "42.41",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "43.18",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "49.87",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "49.3",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "9916",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "12116",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "10917",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "9435",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "13038",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "20724",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "18947",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "12534",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "11070",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "11879",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "11056",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "11412",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "5128",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "5365",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "6250",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "6474",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "105638",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "96586",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "119315",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "197599",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "78657",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "80837",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "61265",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "90453",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "96940",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "67350",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "82789",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "77718",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "20491",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "24795",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "48025",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "43760",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "100",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "100",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "100",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "100",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "100",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "100",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "100",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "968.8",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "1411.3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "1610.8",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "1610.4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "1659.17",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "1660.1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "1698.1",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "1807.9",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "84.98",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "82.69",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "87.44",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "89.4",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "90.71",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "92.11",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "92.98",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "92.71",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "93.81",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "93.13",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "96.16",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "95.87",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "96.7",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "95.02",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "92.19",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "92.49",
+                    "nombre": "Ica"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "11",
+                    "valor": "92.17",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "11",
+                    "valor": "94.99",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "11",
+                    "valor": "96.3",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "11",
+                    "valor": "96.36",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "11",
+                    "valor": "98.31",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "11",
+                    "valor": "98.04",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "11",
+                    "valor": "98.95",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "11",
+                    "valor": "98.53",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "11",
+                    "valor": "98.88",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "11",
+                    "valor": "98.26",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "11",
+                    "valor": "98.6",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "11",
+                    "valor": "98.6",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "11",
+                    "valor": "98.96",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "11",
+                    "valor": "98.03",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "11",
+                    "valor": "97.27",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "11",
+                    "valor": "96.33",
+                    "nombre": "Ica"
+                }
+            ]
+        }
+    }
+}

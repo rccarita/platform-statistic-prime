@@ -1,0 +1,4830 @@
+{
+    "01": {
+        "36711": {
+            "data": []
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "8.47",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "199",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "207",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "93.32",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "93.88",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "93.15",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "91.99",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "95.2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "94.9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "96.9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "95.99",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "96.35",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "97.6",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "690861.45",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "624412",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "9425282.05",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "468625",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "5118587",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "124251",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "261749",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "52560",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "14125445",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "03",
+                    "valor": "5.73",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "03",
+                    "valor": "6.75",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "03",
+                    "valor": "7.24",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "8.24",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "8.52",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "8.72",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "8.88",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "9.08",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "9.21",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "9.24",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "9.28",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "9.49",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "9.64",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "9.81",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "9.94",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "9.98",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "9.83",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "9.64",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "9.42",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "9.23",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "9.12",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "9.02",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "03",
+                    "valor": "2490",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "03",
+                    "valor": "2946",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "03",
+                    "valor": "3167",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "3608",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "3730",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "3816",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "3879",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "3916",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "3934",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "3973",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "3969",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "3966",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "4039",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "4083",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "4139",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "4192",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "4216",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "4177",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "4120",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "4048",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "3975",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "3929",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "3878",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "20895.77",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {},
+        "50100": {},
+        "11276": {},
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "51017.8",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "60579.9",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "8159": {
+            "data": []
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "10347.75",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "12917.7",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "15714.18",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "14541.03",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "14556.87",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "15197.31",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "14256.54",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "15537.78",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "03",
+                    "valor": "5214",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "03",
+                    "valor": "8938",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "03",
+                    "valor": "1232",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "03",
+                    "valor": "2956",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "03",
+                    "valor": "2099",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "03",
+                    "valor": "2099",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "03",
+                    "valor": "1748",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "917",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "1760",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "384",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "2577",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "1612",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "1612",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "2717",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "3200",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "3058",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "1803",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "653",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "556",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "71",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "66",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "129",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "377",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "513",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "284.09",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "345.93",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "566.39",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "38.76",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "40.99",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "16.74",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "5.38",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "10.31",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "5.38",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "9.26",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "70.92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "19.26",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "271.62",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "5.04",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "9738": {
+            "data": []
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "182.71",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "38.76",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "40.99",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "16.74",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "5.38",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "10.31",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "5.38",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "9.26",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "70.92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "19.26",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "271.62",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "5.04",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "21.01",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "21.1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "22.28",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "20.92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "20.92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "21.25",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "20.87",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "22.1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "21",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "7",
+                    "nombre": "Apurímac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "3",
+                    "nombre": "Apurímac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "14",
+                    "nombre": "Apurímac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "9",
+                    "nombre": "Apurímac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "4",
+                    "nombre": "Apurímac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "6",
+                    "nombre": "Apurímac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "14",
+                    "nombre": "Apurímac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "8",
+                    "nombre": "Apurímac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "6",
+                    "nombre": "Apurímac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "4",
+                    "nombre": "Apurímac"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "1006.3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "1068.0",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "887.4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "941.6",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "1009.1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "1197.2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "1001.0",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "10",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "21.01",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "21.1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "22.28",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "20.92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "20.92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "21.25",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "20.87",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "22.1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "21.0",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "250",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "236",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "562",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "568",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "638",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "508",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "634",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "656",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "631",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "495",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "258",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "319",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "528",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "662",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "572",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "852",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "549",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "681",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "777",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "734",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "547",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "7946",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "86056",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "250894",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "72420",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "893825",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "248854",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "139352",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "193411",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "68441",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "33716",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "66804",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "68584",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "199795",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "127205",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "6535",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "123663",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "8914",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "17663",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "4165",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "11121",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "24923",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "2811",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "1061",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "2817",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "1315",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "3815",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "1277",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "1595",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "2767",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "1843",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "3014",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "504",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "612",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "1747",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "32528",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "729",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "2624",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "661",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "951",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "1028",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "1118",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "762",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "7957",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "86063",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "250905",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "72424",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "893835",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "248859",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "139359",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "193413",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "68456",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "33719",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "66807",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "68585",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "199799",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "127220",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "6538",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "123666",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "8930",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "17671",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "4168",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "11125",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "24930",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "473",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "279",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "534",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "236",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "255",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "290",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "274",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "403",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "253",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "346",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "69",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "35",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "52",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "55",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "81",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "136",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "221",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "297",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "306",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "364",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "59",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "40",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "3868",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "3036",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "533",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "4224",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "85",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "365",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "68",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "83",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "1079",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "6437",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "1418",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "993",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "946.23",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "5110.9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "2220.32",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "5508.33",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "1300.62",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "76",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "76",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "78",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "86",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "88",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "03",
+                    "valor": "91",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "0.48",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "3.78",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "4.04",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "30.64",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "29.1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "30.22",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "30.41",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "31.47",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "830374",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "2574945",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "2404346",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "3480020",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "1928929",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "4173976",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "5348076",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "6.43",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "4.94",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "7.89",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "10.34",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "17.85",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "23.17",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "25.25",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "28.8",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "37.11",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "35677.12",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "35951.14",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "40331.61",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "40392.63",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "46778.91",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "42939.52",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "41923.83",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "44021.92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "45168.82",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "0.66",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "0.74",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "0.73",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "0.73",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "0.75",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "0.68",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "0.67",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "0.71",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "0.71",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "2071673",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "2539111",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "2296544",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "2256237",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "3069320",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "2937477",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "2265524",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "3637579",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "4787303",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "7627751",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "9951547",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "10877504",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "12402503",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "15946177",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "277.41",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "2177.64",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "2333.88",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "20475.37",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "17851.76",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "18101.35",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "19121.92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "20304.54",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "0.46",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "0.46",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "0.51",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "0.51",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "0.52",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "0.48",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "0.47",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "0.49",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "0.5",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "14.81",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "14.33",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "16.3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "16.41",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "15.75",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "26.92",
+                    "nombre": "Apurímac"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "03",
+                    "valor": "37.01",
+                    "nombre": "Apurímac"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "0.2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "0.28",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "0.22",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "0.22",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "0.22",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "0.2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "0.2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "0.21",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "0.21",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "54.29",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "424",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "42.54",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "812.54",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "555.82",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "604.5",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "391.6",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "1706.51",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "1589.86",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "15290.19",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "21937.91",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "17284.98",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "17311.13",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "20048.11",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "18402.65",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "17967.35",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "18866.54",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "19358.07",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "50967.31",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "57889.05",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "57616.58",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "57703.76",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "66827.02",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "61342.17",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "59891.18",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "62888.46",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "64526.89",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "888655",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "2604642",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "6060797",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "7008336",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "7480852",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "12668040",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "17080891",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "2",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "82",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "17",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "21",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "55",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "50",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "0",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "0",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "0",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "0",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "0",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "0",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "15",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "15",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "6",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "14",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "20",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "7",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "1.0",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "2.0",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "1.0",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "1.0",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "43",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "151",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "57",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "117",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "110",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "25",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36711": {
+            "data": []
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "39",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "42.3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "68",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "65.4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "71.8",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "72.4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "67",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "69.3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "73",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "74.9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "83.62",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "73.85",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "83799",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "66458",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "77334",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "55156",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "49520",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "50108",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "38669",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "51696",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "52017",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "42277",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "56130",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "53013",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "14200",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "17335",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "46681",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "38646",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "13094",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "10594",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "10802",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "9397",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "10448",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "14437",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "12494",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "8994",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "9336",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "8648",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "8846",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "7723",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "4124",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "5039",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "7219",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "5846",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "2267898",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "3065387",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "3256540",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "3405924",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "3058348",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "3453636",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "3170666",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "4137603",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "3831353",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "4235956",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "4449259",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "4625252",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "4583912",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "4639037",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "4748203",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "93.32",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "93.88",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "93.15",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "91.99",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "95.2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "94.9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "96.9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "95.99",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "96.35",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "97.6",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "03",
+                    "valor": "226",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "03",
+                    "valor": "212",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "03",
+                    "valor": "285",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "257",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "258",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "188",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "172",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "127",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "105",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "160",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "128",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "117",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "133",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "151",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "142",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "170",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "190",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "181",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "171",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "155",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "172",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "339",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "9.58",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "10.28",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "7.51",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "9.38",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "21.42",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "43.15",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "57.69",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "39.29",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "41.39",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "53.69",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "52.1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "48.29",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "55.55",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "79.66",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "03",
+                    "valor": "45",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "03",
+                    "valor": "218",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "03",
+                    "valor": "1479.56",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "1489.22",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "1575.24",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "1809.6",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "8803.4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "11249.25",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "16265.09",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "14004.38",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "16631.75",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "16674.76",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "17382.35",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "16145.07",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "10935",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "3767.9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "1844.43",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "03",
+                    "valor": "638.61",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "03",
+                    "valor": "723.66",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "03",
+                    "valor": "5939.09",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "11448.27",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "8235.24",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "6794.02",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "19843.2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "30685.43",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "60822.85",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "28974.2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "30859.25",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "32277.85",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "30310.12",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "24036.39",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "36931",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "10979.45",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "7846.01",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "2.2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "2.83",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "1.71",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "1.61",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "1.96",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "1.89",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "1.62",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "1.75",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "2.24",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {},
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "50.0",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "50.0",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "128",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "13",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "13",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "5",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "5",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "5",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "8",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "11",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "1",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "2",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "100",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "03",
+                    "valor": "87",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "03",
+                    "valor": "90.3",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "03",
+                    "valor": "90.4",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "03",
+                    "valor": "86.63",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "03",
+                    "valor": "89.41",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "03",
+                    "valor": "84.47",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "83.02",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "77.76",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "85.6",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "82.52",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "86.16",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "79.32",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "82.59",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "77.36",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "71.48",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "74.73",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "71.95",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "70.73",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "63.85",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "64.57",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "64.26",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "64.31",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "13094",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "10594",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "10802",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "9397",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "10448",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "14437",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "12494",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "8994",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "9336",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "8648",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "8846",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "7723",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "4124",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "5039",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "7219",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "5846",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "83799",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "66458",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "77334",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "55156",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "49520",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "50108",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "38669",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "51696",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "52017",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "42277",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "56130",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "53013",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "14200",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "17335",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "46681",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "38646",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "50",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "48.15",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "35.71",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "38.46",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "33.33",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "40",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "55",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "42.8",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "33.5",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "45.5",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "46.7",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "44.7",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "43.9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "45.5",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "43.24",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "12.99",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "11.76",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "14.66",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "14.7",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "13.98",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "18.95",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "21.09",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "24.19",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "26.54",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "30.94",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "32.2",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "32.83",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "37.92",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "28.17",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "23.09",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "31.66",
+                    "nombre": "Apurimac"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "03",
+                    "valor": "72.21",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "03",
+                    "valor": "78.47",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "03",
+                    "valor": "82.82",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "03",
+                    "valor": "85.26",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "03",
+                    "valor": "86.44",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "03",
+                    "valor": "88.9",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "03",
+                    "valor": "90.84",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "03",
+                    "valor": "90.22",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "03",
+                    "valor": "93.45",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "03",
+                    "valor": "95.11",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "03",
+                    "valor": "94.24",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "03",
+                    "valor": "95.27",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "03",
+                    "valor": "95.95",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "03",
+                    "valor": "96.02",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "03",
+                    "valor": "95.38",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "03",
+                    "valor": "97.36",
+                    "nombre": "Apurimac"
+                }
+            ]
+        }
+    }
+}

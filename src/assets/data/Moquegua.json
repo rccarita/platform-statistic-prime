@@ -1,0 +1,4896 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "64.63",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "74.36",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "65.26",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "36.04",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "59.01",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "65.79",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "87.91",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "95.83",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "98.48",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "95.61",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "96.55",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "92.91",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "89.48",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "95.67",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "35.67",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "28",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "32",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "94.67",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "95.55",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "96.68",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "96.49",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "97",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "98.1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "97.9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "97.46",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "96.74",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "97.81",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "17838589",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "1913500",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "1778159.5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "9663246",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "159759",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "745739",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "164937",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "6237",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "1952097",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "18",
+                    "valor": "52.36",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "18",
+                    "valor": "53.12",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "18",
+                    "valor": "55.29",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "56.64",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "58.65",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "59.36",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "18",
+                    "valor": "63.57",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "69.29",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "73.5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "75.88",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "79.15",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "82.36",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "85.24",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "86.46",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "85.81",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "84.49",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "83.18",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "81.42",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "79.47",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "77.41",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "75.41",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "74.84",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "74.19",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "18",
+                    "valor": "8030",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "18",
+                    "valor": "8258",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "18",
+                    "valor": "8697",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "9004",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "9417",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "9622",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "18",
+                    "valor": "10394",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "11418",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "12202",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "12692",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "13348",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "14003",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "14608",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "14944",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "14979",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "14931",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "14931",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "14887",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "14810",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "14691",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "14535",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "14607",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "14640",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "15733.88",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "1",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50100": {},
+        "11276": {
+            "data": []
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "19786.9",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "60987.78",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "8159": {
+            "data": []
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "20054.61",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "24640.29",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "26895.69",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "23669.1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "23709.96",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "17745.12",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "19393.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "17822.16",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "18",
+                    "valor": "418",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "18",
+                    "valor": "775",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "18",
+                    "valor": "136",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "18",
+                    "valor": "381",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "18",
+                    "valor": "257",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "18",
+                    "valor": "383",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "18",
+                    "valor": "142",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "143",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "110",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "33",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "18",
+                    "valor": "78",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "73",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "91",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "156",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "151",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "70",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "100",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "20",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "17",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "18",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "18",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "15",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "45",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "4",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "0.13",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "10.76",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "88.46",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "648.88",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "306.39",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "908.35",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "48.9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "282.6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "38.38",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "5.04",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "16.2",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "9738": {
+            "data": []
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "124133.32",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "124062.87",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "123963.22",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "123943.22",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "123925.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "123907.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "123889.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "123874.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "123829.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "123825.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "123825.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "123825.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "123825.79",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "123825.79",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "10.76",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "88.46",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "648.88",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "306.39",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "908.35",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "48.9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "282.6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "38.38",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "5.04",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "16.20",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "27.26",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "27.56",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "27.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "27.33",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "27.58",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "27.73",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "27.27",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "27.29",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "27.7",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "20",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "17",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "27",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "10",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "23",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "17",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "10",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "9",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50002": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "8",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "19",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "26",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "24",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "31",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "34",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "28",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "25",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "18",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50003": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "4",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "4.0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "36.2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "5.6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "27.5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "5.6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "54.5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "0.6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "5.3",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "13",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "27.26",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "27.56",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "27.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "27.33",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "27.58",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "27.73",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "27.27",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "27.29",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "27.7",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50031": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "4",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "49",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "53",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "86",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "18",
+                    "valor": "66",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "88",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "191",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "56",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "42",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "44",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "44",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "44",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "35",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "75",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "78",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "57",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "22",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "49",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "60",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "88",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "102",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "105",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "7620",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "20245",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "17719",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "18",
+                    "valor": "14452",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "23226",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "45328",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "8167",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "8350",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "7561",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "23562",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "28130",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "16875",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "43148",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "10730",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "19145",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "16429",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "6293",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "12474",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "6642",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "6026",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "5903",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "149",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "61",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "3145",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "18",
+                    "valor": "397",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "179",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "13338",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "90",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "66",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "558",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "2051",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "210",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "291",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "1908",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "495",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "391",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "41",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "1444",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "1009",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "217",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "742",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "197",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "7623",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "20251",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "17720",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "18",
+                    "valor": "14452",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "23226",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "45328",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "8167",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "8350",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "7561",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "23564",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "28130",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "16877",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "43150",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "10731",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "19146",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "16429",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "6293",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "12474",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "6645",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "6030",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "5904",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "32",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "13",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "158",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "18",
+                    "valor": "23",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "35",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "573",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "25",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "12",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "135",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "607",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "14",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "27",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "363",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "26",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "27",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "3",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "680",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "423",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "90",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "313",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "23",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "3",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "142",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "37",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "3",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "132",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "29",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "156",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "138",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "64",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "26",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "488.82",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "851.63",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "262.59",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "199.09",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "115.46",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "16",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "16",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "16",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "19",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "19",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "18",
+                    "valor": "20",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36916": {
+            "data": []
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "2241956",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "1191110",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "160861",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "441798",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "744199",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "1350680",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "11685693",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "24.77",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "11.1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "14.68",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "19.89",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "25.75",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "21.76",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "30.34",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "41.05",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "40.21",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "23249.28",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "22895.38",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "24692.17",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "24889.73",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "27393.33",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "29181.73",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "29542.94",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "34891.15",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "35703.21",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "0.6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "0.54",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "0.62",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "0.62",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "0.63",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "0.65",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "0.65",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "0.76",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "0.77",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "2695955",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "3402784",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "2963560",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "2785127",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "2802080",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "4424270",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "2002566",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "2676932",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "3663942",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "4799956",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "4129653",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "5847713",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "8011924",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "7935595",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "11585": {
+            "data": []
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "0.42",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "0.41",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "0.44",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "0.44",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "0.44",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "0.46",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "0.46",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "0.53",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "0.54",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "18",
+                    "valor": "1",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "35.07",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "35.07",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "35.07",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "39.91",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "29.29",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "40.47",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "18",
+                    "valor": "40.47",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "0.18",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "0.13",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "0.19",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "0.19",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "0.19",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "0.2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "0.2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "0.23",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "0.23",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "55.8",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "27",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "20.43",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "392.66",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "280.64",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "704.1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "183.91",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "1161.68",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "627.93",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "9963.98",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "7285.41",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "10582.36",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "10667.03",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "11740",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "12506.46",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "12661.26",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "14953.35",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "15301.37",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "33213.26",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "30180.79",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "35274.52",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "35556.75",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "39133.33",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "41688.19",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "42204.19",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "49844.5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "51004.58",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "5525726",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "1191110",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "5615656",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "2964617",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "4291699",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "5984910",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "17595476",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "1",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "68",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "27",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "21",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "65",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "53",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "0",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "4",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "11",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "7",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "12",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "10",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "5",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "1.0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "2.0",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "1.0",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "33",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "25",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "22",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "37",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "36",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "28",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "4",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "3",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "8",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "12",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "3",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "8",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "64.63",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "74.36",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "65.26",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "36.04",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "59.01",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "65.79",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "87.91",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "95.83",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "98.48",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "95.61",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "96.55",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "92.91",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "89.48",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "95.67",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "80.7",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "82.7",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "84.9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "90.3",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "91.9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "90",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "90.5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "90.9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "86.7",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "88.34",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "93.45",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "25601",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "34304",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "22039",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "28784",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "15573",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "15579",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "14610",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "20796",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "15658",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "12738",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "29507",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "22428",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "4403",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "3339",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "14443",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "12858",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "4067",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "4256",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "3549",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "2674",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "804",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "3259",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "3252",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "5340",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "5502",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "5061",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "4773",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "4082",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "1843",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "1743",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "2082",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "1829",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "2775661",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "2606462",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "1919786",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "2255875",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "4479677",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "3140583",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "2726633",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "1123689",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "419623",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "150128",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "396082",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "288799",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "630414",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "944411",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "377931",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "94.67",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "95.55",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "96.68",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "96.49",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "97",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "98.1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "97.9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "97.46",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "96.74",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "97.81",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "18",
+                    "valor": "42",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "18",
+                    "valor": "100",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "18",
+                    "valor": "175",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "200",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "234",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "123",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "18",
+                    "valor": "202",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "149",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "18",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "47",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "12",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "3",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "8",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "16",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "17",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "14",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "13",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "20.84",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "18.08",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "22.2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "17.67",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "21.12",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "13.53",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "15.04",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "11.56",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "16.92",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "36.23",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "24.1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "20.77",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "26.68",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "15",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "71.56",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "77.64",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "47.68",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "60.49",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "18.61",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "13.42",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "28.8",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "8.8",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "149.31",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "13.68",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "116.15",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "38.62",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "94406.5",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "1.76",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "1.41",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "1.31",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "0.94",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "1.39",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "2.73",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "1.65",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "1.27",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "1.42",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {},
+        "50043": {},
+        "50044": {},
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": []
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "3",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "4",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "7",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "3",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "3",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "4",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "2",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "22120": {
+            "data": []
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "18",
+                    "valor": "39.7",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "18",
+                    "valor": "45.1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "18",
+                    "valor": "27.4",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "18",
+                    "valor": "36.37",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "18",
+                    "valor": "32.14",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "18",
+                    "valor": "26.84",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "41.1",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "36.2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "32.41",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "34.71",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "37.77",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "43.89",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "38.84",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "31.78",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "42.53",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "44.44",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "40.61",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "34.69",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "33.28",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "37.69",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "45.04",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "36.36",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "4067",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "4256",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "3549",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "2674",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "804",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "3259",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "3252",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "5340",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "5502",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "5061",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "4773",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "4082",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "1843",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "1743",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "2082",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "1829",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "25601",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "34304",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "22039",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "28784",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "15573",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "15579",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "14610",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "20796",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "15658",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "12738",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "29507",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "22428",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "4403",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "3339",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "14443",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "12858",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "75",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "71.43",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "66.67",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "71.43",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "83.33",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "85.71",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "100",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "485.8",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "1256.5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "980",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "721.4",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "707.51",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "709.5",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "753.2",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "1003.7",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "58.14",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "63.85",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "66.99",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "69.93",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "72.49",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "73.77",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "76.37",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "74.67",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "77.81",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "78.63",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "81.9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "82.6",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "82.15",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "80.38",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "84.41",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "83.86",
+                    "nombre": "Moquegua"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "18",
+                    "valor": "90.91",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "18",
+                    "valor": "92.41",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "18",
+                    "valor": "93.53",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "18",
+                    "valor": "94.84",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "18",
+                    "valor": "94.24",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "18",
+                    "valor": "95.32",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "18",
+                    "valor": "96.22",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "18",
+                    "valor": "97.23",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "18",
+                    "valor": "96.43",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "18",
+                    "valor": "94.98",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "18",
+                    "valor": "95.66",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "18",
+                    "valor": "95.9",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "18",
+                    "valor": "95.83",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "18",
+                    "valor": "96.67",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "18",
+                    "valor": "96.48",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "18",
+                    "valor": "97.1",
+                    "nombre": "Moquegua"
+                }
+            ]
+        }
+    }
+}

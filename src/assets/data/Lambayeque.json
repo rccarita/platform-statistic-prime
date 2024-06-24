@@ -1,0 +1,4741 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "95.01",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "88.06",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "92.52",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "90.58",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "93.25",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "93.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "96.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "58.89",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "99.38",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "98.97",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "99.15",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "99.18",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "96.71",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "98.81",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50009": {},
+        "50010": {},
+        "50011": {},
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "85.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "86.89",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "89.2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "90.21",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "92.3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "93.1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "95.1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "91.85",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "93.12",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "94.03",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "1649800",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "11400",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "14",
+                    "valor": "32.28",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "14",
+                    "valor": "32.99",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "14",
+                    "valor": "33.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "33.87",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "33.87",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "33.93",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "34.15",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "35.02",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "36.57",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "37.9",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "39.55",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "42.33",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "45.84",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "49.08",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "51.78",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "53.91",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "55.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "57.17",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "58.33",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "59.27",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "60.02",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "62.44",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "64.46",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "14",
+                    "valor": "35126",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "14",
+                    "valor": "36245",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "14",
+                    "valor": "37266",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "37739",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "37967",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "38263",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "38744",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "39930",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "41920",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "43689",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "45881",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "49440",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "53902",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "58142",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "61896",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "65160",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "68261",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "71328",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "74092",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "76586",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "78677",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "82789",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "86315",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "14461.52",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "9",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {},
+        "50100": {},
+        "11276": {},
+        "50015": {},
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "109785.69",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "8159": {
+            "data": []
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "238068.72",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "306384.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "182067.39",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "114123.87",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "116791.83",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "77492.61",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "78879.24",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "78652.44",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "14",
+                    "valor": "1446",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "14",
+                    "valor": "1074",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "14",
+                    "valor": "9739",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "14",
+                    "valor": "760",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "14",
+                    "valor": "1828",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "14",
+                    "valor": "1420",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "14",
+                    "valor": "319",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "117",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "91",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "277",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "440",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "213",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "243",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "169",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "889",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "840",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "58",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "95",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "61",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "92",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "560",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "569",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "141",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "1.2",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "786.09",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "758.44",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "11.54",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "91.22",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "3.42",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "56.4",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "187.62",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "39.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "90.05",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "80.43",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "231.19",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "8.68",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "180.87",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "886.37",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "101.47",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "101.69",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "227.64",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "110.88",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "232.2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "75.96",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "9738": {
+            "data": []
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "60877.59",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "59988.18",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "59148.17",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "59090.11",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "58994.61",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "58928.61",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "58867.61",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "58776.01",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "58215.88",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "57646.88",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "57505.88",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "57505.88",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "57504.68",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "57504.68",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "786.09",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "758.44",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "11.54",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "91.22",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "3.42",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "56.4",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "187.62",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "39.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "90.05",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "80.43",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "231.19",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "8.68",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "180.87",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "886.37",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "101.47",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "101.69",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "227.64",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "110.88",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "232.2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "75.96",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "26.17",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "27.12",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "26.95",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "26.34",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "25.26",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "25.72",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "25.16",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "24.77",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "24.27",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "29.14",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "18",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "16",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "24",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "13",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "7",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "12",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "10",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "9",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "5",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "9",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "10.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "35.0",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "16.2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "202.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "16.2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "27.8",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "42.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "24.0",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "9",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "26.17",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "27.12",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "26.95",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "26.34",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "25.26",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "25.72",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "25.16",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "24.77",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "24.27",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "29.14",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "7",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "51",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "17",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "50",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "32",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "64",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "56",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "99",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "47",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "82",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "54",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "39",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "52",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "37",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "100",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "63",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "65",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "41",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "78",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "93",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "127",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "21",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "37685",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "6908",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "46384",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "2909",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "59663",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "18455",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "69104",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "2549",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "17092",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "9635",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "557",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "5726",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "29795",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "119088",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "25884",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "4999",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "6547",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "5666",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "1285",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "99929",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "238",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "12",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "41",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "519",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "101",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "8529",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "397",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "380",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "425",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "6312",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "703",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "171",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "1093",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "163",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "39004",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "349",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "941",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "64",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "282",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "340",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "42998",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "21",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "37685",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "6909",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "46385",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "2911",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "59665",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "18457",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "69110",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "2553",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "17092",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "9639",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "558",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "5732",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "29798",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "119102",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "25887",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "5002",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "6547",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "5667",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "1285",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "99937",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "40",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "177",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "20",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "2048",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "78",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "78",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "76",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "812",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "78",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "24",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "52",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "8",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "3936",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "20",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "245",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "14",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "74",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "96",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "6717",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "3495",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "309",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "820",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "30",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "204",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "149",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "3128",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "1493",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "61",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "1956.74",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "69",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "6.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "17676.61",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "30",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "30",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "30",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "32",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "33",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "14",
+                    "valor": "35",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "68.3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "67.03",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "103148",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "277900",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "2469009",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "9919724",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "13776625",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "7249545",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "5749039",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "32.42",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "33.96",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "40.95",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "38.73",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "40.14",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "32.07",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "32.45",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "42.13",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "55.49",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "185131.86",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "209774.09",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "208203.71",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "213775.7",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "203764.92",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "228680.59",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "231400.57",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "226677.96",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "220482.86",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "0.73",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "0.64",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "0.8",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "0.82",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "0.79",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "0.86",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "0.86",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "0.83",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "0.8",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "32848166",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "34439336",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "42917833",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "46162805",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "49932822",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "40537643",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "42811444",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "52044090",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "49609029",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "50993968",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "41432678",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "42535066",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "55861359",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "74297044",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "221174.05",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "211126.21",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "0.51",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "0.57",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "0.56",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "0.57",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "0.55",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "0.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "0.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "0.58",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "0.56",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "21067": {
+            "data": []
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "784.46",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "438.08",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "439.12",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "457.31",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "389.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "501.67",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "14",
+                    "valor": "524.78",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "0.22",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "0.07",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "0.24",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "0.25",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "0.24",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "0.26",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "0.26",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "0.25",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "0.24",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "278.14",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "538",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "473.62",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "919.05",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "1898.89",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "6387.3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "1162.29",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "4543.69",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "4222.68",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "79342.23",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "27149.43",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "89230.16",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "91618.16",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "87327.82",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "98005.97",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "99171.67",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "97147.7",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "94492.65",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "264474.09",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "236923.52",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "297433.87",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "305393.86",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "291092.74",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "326686.56",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "330572.24",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "323825.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "314975.51",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "179452",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "826477",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "51821447",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "65635042",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "87321612",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "85080788",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "84535806",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "2",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "132",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "11",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "10",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "74",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "71",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "0",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "0",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "0",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "0",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "0",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "0",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "9",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "8",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "14",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "10",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "14",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "18",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "3",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "2.0",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "1.0",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "54",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "45",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "49",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "75",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "122",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "84",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "95.01",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "88.06",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "92.52",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "90.58",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "93.25",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "93.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "96.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "58.89",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "99.38",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "98.97",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "99.15",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "99.18",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "96.71",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "98.81",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "68.5",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "72",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "77.2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "78.5",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "81.2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "82.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "83.7",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "84.1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "83.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "85.2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "84.83",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "83.69",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "156143",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "186715",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "130036",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "149972",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "81802",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "77308",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "62234",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "111650",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "105749",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "80177",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "93702",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "97611",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "24158",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "32111",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "66211",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "57910",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "18483",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "17183",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "15510",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "12044",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "8126",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "16978",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "14851",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "18786",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "15980",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "16481",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "12794",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "14921",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "5442",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "6816",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "8418",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "8879",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "3142578",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "2231619",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "4365497",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "3798217",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "3509706",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "2303832",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "2141599",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "1125069",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "13825332",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "263962",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "461193",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "372204",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "333571",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "1450678",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "1450882",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "85.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "86.89",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "89.2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "90.21",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "92.3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "93.1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "95.1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "91.85",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "93.12",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "94.03",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "14",
+                    "valor": "12",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "8",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "8",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "10",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "13",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "42.97",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "47.23",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "54.98",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "58.11",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "62.86",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "55.86",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "72.34",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "75.17",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "78.26",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "85.91",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "74.35",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "83.14",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "89.22",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "111.32",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "14",
+                    "valor": "1511.22",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "14",
+                    "valor": "51.38",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "13.06",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "144.35",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "1712.34",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "15.65",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "58.93",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "79.26",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "71.93",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "403.85",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "1.4",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "239.7",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "9979",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "40",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "2930.51",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "3245.93",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "14",
+                    "valor": "2917.41",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "14",
+                    "valor": "140.1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "14",
+                    "valor": "157.54",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "648.3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "434.1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "240",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "223.76",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "338.32",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "680.39",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "3996.25",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "29972.15",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "358.63",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "568.74",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "5",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "180",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "2315",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "68.58",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "2.14",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "2.61",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "2.68",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "2.3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "2.33",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "2.18",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "2.03",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "2.58",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "56.94",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "43.17",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "43.17",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "10",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "1",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "75",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "77",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "14",
+                    "valor": "72.3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "14",
+                    "valor": "63.9",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "14",
+                    "valor": "67",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "14",
+                    "valor": "63.87",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "14",
+                    "valor": "63",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "14",
+                    "valor": "59.23",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "54.35",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "54.83",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "54.87",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "54.33",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "54.47",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "53.1",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "54.32",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "54.67",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "53.85",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "52.37",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "54.59",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "47.84",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "46.37",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "45.29",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "43.16",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "40.42",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "18483",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "17183",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "15510",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "12044",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "8126",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "16978",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "14851",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "18786",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "15980",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "16481",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "12794",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "14921",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "5442",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "6816",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "8418",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "8879",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "156143",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "186715",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "130036",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "149972",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "81802",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "77308",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "62234",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "111650",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "105749",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "80177",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "93702",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "97611",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "24158",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "32111",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "66211",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "57910",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "25",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "25",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "16.67",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "20",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "108.3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "87.3",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "65.6",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "62",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "63.84",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "59.2",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "61.7",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "73.81",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "55.66",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "59.69",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "65.57",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "66.45",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "64.54",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "68.24",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "72.29",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "76.21",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "78.9",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "78.24",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "81.92",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "80.82",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "83.16",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "81.9",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "81.76",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "79.75",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "14",
+                    "valor": "84.03",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "14",
+                    "valor": "86.4",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "14",
+                    "valor": "89.73",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "14",
+                    "valor": "91.38",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "14",
+                    "valor": "91.92",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "14",
+                    "valor": "93.7",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "14",
+                    "valor": "96.69",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "14",
+                    "valor": "96.28",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "14",
+                    "valor": "96.53",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "14",
+                    "valor": "96.96",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "14",
+                    "valor": "97.12",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "14",
+                    "valor": "98.17",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "14",
+                    "valor": "97.65",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "14",
+                    "valor": "98.71",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "14",
+                    "valor": "98.38",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "14",
+                    "valor": "98.55",
+                    "nombre": "Lambayeque"
+                }
+            ]
+        }
+    }
+}

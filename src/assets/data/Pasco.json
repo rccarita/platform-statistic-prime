@@ -1,0 +1,5411 @@
+{
+    "01": {
+        "36711": {
+            "data": []
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "97.99",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "571",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "544",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "73.58",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "76.28",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "78.59",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "78.3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "82.7",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "86.7",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "83.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "81.2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "84.71",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "82.59",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "23502879.92",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "71166653.03",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "17443138.6",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "3611996",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "437198",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "39743780",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "17731380",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "27424641",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "530731",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "19",
+                    "valor": "12.95",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "19",
+                    "valor": "13.75",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "19",
+                    "valor": "14.42",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "15.48",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "16.75",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "18.3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "19.27",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "21.28",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "23.95",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "25.42",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "26.14",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "26.11",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "26.13",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "25.89",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "25.53",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "25.1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "25.14",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "24.57",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "24.09",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "23.67",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "24.97",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "27.33",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "28.08",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "19",
+                    "valor": "3562",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "19",
+                    "valor": "3822",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "19",
+                    "valor": "4048",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "4383",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "4772",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "5232",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "5514",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "6075",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "6807",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "7187",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "7351",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "7292",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "7238",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "7108",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "6956",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "6804",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "6804",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "6660",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "6545",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "6441",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "6790",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "7402",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "7561",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "25025.84",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "11",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "16",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50100": {},
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "19",
+                    "valor": "45.91",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "19",
+                    "valor": "59.84",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "19",
+                    "valor": "59.7",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "19",
+                    "valor": "59.56",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "59.42",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "59.26",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "58.94",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "58.77",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "58.64",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "58.5",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "58.2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "57.91",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "57.67",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "57.32",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "57.02",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "56.62",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "56.32",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "56.02",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "55.7",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "55.47",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "55.23",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "54.9",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "54.66",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "54.46",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "40444.8",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "658589.58",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "1449219",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "1443154",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "1434569",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "1426946",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "1416959",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "1409481",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "1401978",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "1393888",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "1388277.72",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "1382242.32",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "1373564.58",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "1367967.78",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "1362938.4",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "689991.12",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "701975.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "721400.76",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "714369.78",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "728933.04",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "760003.38",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "760401.18",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "772075.62",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "19",
+                    "valor": "556",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "19",
+                    "valor": "3345",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "19",
+                    "valor": "1903",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "19",
+                    "valor": "1279",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "19",
+                    "valor": "743",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "19",
+                    "valor": "628",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "19",
+                    "valor": "538",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "298",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "394",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "317",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "911",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "507",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "516",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "1101",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "1334",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "689",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "195",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "148",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "32",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "50",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "34",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "24",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "959",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "306",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "475.49",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "601.01",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "881.67",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "139.82",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "250.88",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "362.15",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "169.03",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "398.57",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "203.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "231.59",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "427.08",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "312.7",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "303.68",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "532.11",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "170.82",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "209.31",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "1311.65",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "871.49",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "990.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "627.75",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "897.39",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "1028.25",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "78.48",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "19",
+                    "valor": "3573.27",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "3259.71",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "4184.01",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "7859.43",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "4352.94",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "3132.36",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "3526.83",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "7583.31",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "7300.8",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "6064.83",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "8585.28",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "7622.55",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "9987.3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "7477.92",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "7502.94",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "8090.19",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "5610.33",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "6035.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "8677.44",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "5597.1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "5029.38",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "502889.14",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "501555.14",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "500865.66",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "500670.55",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "500522.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "500490.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "500440.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "500406.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "500382.75",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "499423.75",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "499117.75",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "498642.26",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "498041.25",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "497159.58",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "139.82",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "250.88",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "362.15",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "169.03",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "398.57",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "203.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "231.59",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "427.08",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "312.7",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "303.68",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "532.11",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "170.82",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "209.31",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "1311.65",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "871.49",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "990.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "627.75",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "897.39",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "1028.25",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "78.48",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "10.76",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "11.2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "12.09",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "10.99",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "11.04",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "11.42",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "11.81",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "12.04",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "20",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "15",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "24",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "23",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "20",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "15",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "22",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "12",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "13",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "1042.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "897.9",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "829.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "1159.1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "1632.5",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "521.6",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "10",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "10.76",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "11.2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "12.09",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "10.99",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "11.04",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "11.42",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "11.81",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "12.04",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "40",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "96",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "9",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "127",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "137",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "110",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "110",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "268",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "79",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "99",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "98",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "198",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "159",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "321",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "374",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "303",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "514",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "429",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "500",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "421",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "229",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "421",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "22987",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "175",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "341",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "22934",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "1312",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "10483",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "13594",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "1689",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "69123",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "62790",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "3001",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "10696",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "76594",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "24425",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "55507",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "4661",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "20503",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "25850",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "10652",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "9853",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "327",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "433",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "557",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "724",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "710",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "461",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "526",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "213",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "683",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "132",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "1128",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "350",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "424",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "588",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "516",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "835",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "419",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "1089",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "765",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "404",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "421",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "22987",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "175",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "348",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "22937",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "1312",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "10493",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "13594",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "1689",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "69146",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "62795",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "3001",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "10703",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "76595",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "24429",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "55511",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "4663",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "20503",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "25852",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "10656",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "9853",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "38",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "81",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "8",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "39",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "152",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "161",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "86",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "87",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "38",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "109",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "24",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "133",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "60",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "31",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "77",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "62",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "341",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "141",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "419",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "228",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "61",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "1501",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "6",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "13",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "14176",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "643",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "68",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "1119",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "41",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "241",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "7106.18",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "762.02",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "369.58",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "1146.71",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "327",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "26",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "26",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "25",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "24",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "24",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "19",
+                    "valor": "24",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "8.78",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "12.54",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "15.01",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "14.59",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "22.24",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "7556754",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "8265056",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "7191802",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "938475",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "975411",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "3341342",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "7409865",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "23.39",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "21.04",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "25.14",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "26.52",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "37.57",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "25.81",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "32.56",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "35.73",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "42.74",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "29559.68",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "25170.17",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "26295.78",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "27574.45",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "29120.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "26222.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "26509.73",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "25594.21",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "26578.69",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "0.64",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "0.52",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "0.57",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "0.59",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "0.62",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "0.56",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "0.57",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "0.55",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "0.58",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "3755805",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "4373280",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "5580068",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "6136109",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "6770507",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "7064736",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "6399270",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "7700599",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "8181856",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "10208504",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "7025174",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "8854334",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "9676878",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "11508388",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "3458.71",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "5217.28",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "5994.37",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "5685.41",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "5335.84",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "8444.32",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "0.45",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "0.38",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "0.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "0.41",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "0.43",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "0.39",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "0.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "0.39",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "0.4",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "19",
+                    "valor": "2",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "21.49",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "17.47",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "13.42",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "13.44",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "12.07",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "14.17",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "0.19",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "0.14",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "0.17",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "0.18",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "0.19",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "0.17",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "0.17",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "0.17",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "0.18",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "109.08",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "248",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "24.16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "234.35",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "800.89",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "942",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "828.88",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "1975.66",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "2192.06",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "12668.43",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "9114.82",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "11269.62",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "11817.62",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "12480.26",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "11238.26",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "11361.31",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "10968.95",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "11390.87",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "42228.11",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "34284.99",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "37565.39",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "39392.07",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "41600.87",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "37460.87",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "37871.05",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "36563.15",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "37969.56",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "7747299",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "8658552",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "17019183",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "10078397",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "11368636",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "15904107",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "21293043",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "94",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "22",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "44",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "72",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "69",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "0",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "0",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "0",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "12",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "31",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "22",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "13",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "19",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "25",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "30",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "16",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "1.0",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "1.0",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "3.0",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "1.0",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "24",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "30",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "27",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "34",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "46",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "21",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "6",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "6",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "6",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "10",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "6",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "5",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "8",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "5",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "2",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36711": {
+            "data": []
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "45",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "46.6",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "62.3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "64.6",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "65.9",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "67.5",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "70.8",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "74.3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "71.8",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "67.9",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "75.92",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "76.45",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "48698",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "56846",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "47665",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "54306",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "29212",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "33180",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "23136",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "47783",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "41177",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "33262",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "43335",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "40832",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "16132",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "21473",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "36979",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "30615",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "10807",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "10950",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "10761",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "9166",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "3831",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "11694",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "7906",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "10474",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "10247",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "9558",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "8873",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "8446",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "4585",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "6097",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "6366",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "6376",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "1700059",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "1309469",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "2059189",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "19462",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "1448576",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "1295385",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "1285252",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "1215262",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "1263531",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "1219562",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "1392663",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "1215919",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "1231858",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "1505186",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "73.58",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "76.28",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "78.59",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "78.3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "82.7",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "86.7",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "83.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "81.2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "84.71",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "82.59",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "19",
+                    "valor": "31",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "19",
+                    "valor": "70",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "19",
+                    "valor": "82",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "94",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "177",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "254",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "256",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "264",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "311",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "244",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "171",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "122",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "90",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "88",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "89",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "128",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "234",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "332",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "2809",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "5017",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "7728",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "5751",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "6102",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "16.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "16.88",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "16.86",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "24.41",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "27.17",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "28.92",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "19.87",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "21.06",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "24.24",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "23.1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "24.42",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "21.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "25.3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "31.85",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "19",
+                    "valor": "23555.96",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "19",
+                    "valor": "16945.03",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "19",
+                    "valor": "11642.75",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "16117.68",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "8572.99",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "8985.83",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "20751.42",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "20024.92",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "7402.19",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "2975.16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "19513.3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "6647.98",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "40407.61",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "18144.81",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "25438",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "12173.45",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "59537.94",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "44176.95",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "48859.65",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "33533.02",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "11004.86",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "19021.41",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "12557.15",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "15876.91",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "19",
+                    "valor": "19123.48",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "19",
+                    "valor": "27155.86",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "19",
+                    "valor": "22354.08",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "35310.82",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "16460.14",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "19208.89",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "39842.72",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "53026.51",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "31689.8",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "10309.18",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "7516.36",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "16377.79",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "80407.03",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "43759.97",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "11769",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "29352.79",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "120601.46",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "84516.58",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "3099.94",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "5880.41",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "7773.54",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "12660.97",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "14455.38",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "25978.51",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "2.64",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "1.47",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "1.95",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "1.82",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "1.62",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "1.49",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "1.33",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "1.51",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "1.78",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "52.57",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "57.74",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "58.22",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "12.17",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "51.49",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "100.0",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "12.17",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "51.49",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "100.0",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "78",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "5",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "5",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "9",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "10",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "12",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "9",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "2",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "1",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "63.4",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "19",
+                    "valor": "80.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "19",
+                    "valor": "82.3",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "19",
+                    "valor": "79.8",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "19",
+                    "valor": "82.25",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "19",
+                    "valor": "80.15",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "19",
+                    "valor": "72.58",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "70.17",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "69.57",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "67.97",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "59.21",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "70.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "61.87",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "65.42",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "65.16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "68.64",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "71.76",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "65.45",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "63.65",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "61.49",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "61.93",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "63.28",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "65.05",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "10807",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "10950",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "10761",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "9166",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "3831",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "11694",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "7906",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "10474",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "10247",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "9558",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "8873",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "8446",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "4585",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "6097",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "6366",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "6376",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "48698",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "56846",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "47665",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "54306",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "29212",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "33180",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "23136",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "47783",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "41177",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "33262",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "43335",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "40832",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "16132",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "21473",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "36979",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "30615",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "83.33",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "100",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "100",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "100",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "100",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "92.31",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "90",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "965.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "835.9",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "985.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "983.1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "974.16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "862.9",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "872.1",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "836.38",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "39.08",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "43.05",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "45.48",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "47.44",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "48.52",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "50.25",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "49.84",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "51.42",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "50.89",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "52.05",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "52.69",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "55.22",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "61.54",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "51.69",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "46.51",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "49.15",
+                    "nombre": "Pasco"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "19",
+                    "valor": "79.98",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "19",
+                    "valor": "81.94",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "19",
+                    "valor": "83.04",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "19",
+                    "valor": "81.44",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "19",
+                    "valor": "84.94",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "19",
+                    "valor": "82.28",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "19",
+                    "valor": "82.27",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "19",
+                    "valor": "86.16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "19",
+                    "valor": "87.86",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "19",
+                    "valor": "86.67",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "19",
+                    "valor": "88.7",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "19",
+                    "valor": "89.37",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "19",
+                    "valor": "89.4",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "19",
+                    "valor": "92.48",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "19",
+                    "valor": "90.66",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "19",
+                    "valor": "92.81",
+                    "nombre": "Pasco"
+                }
+            ]
+        }
+    }
+}

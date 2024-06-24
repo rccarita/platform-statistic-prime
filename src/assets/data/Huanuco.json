@@ -1,0 +1,5628 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "0.04",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "0.04",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "0.04",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "0.04",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "0.03",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "42.18",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "446",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "448",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "61.42",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "70.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "70.56",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "75.81",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "75.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "76.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "73.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "84.27",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "80.18",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "85.77",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "2097681",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "31960325.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "14400",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "18232023",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "36296",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "11059",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "18215194",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "4730400",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "10",
+                    "valor": "13.72",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "10",
+                    "valor": "13.99",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "10",
+                    "valor": "13.86",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "14.16",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "13.95",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "13.82",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "13.76",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "13.87",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "14.39",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "14.62",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "15.32",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "16.33",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "17.62",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "18.78",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "19.75",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "20.8",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "21.78",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "22.42",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "22.93",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "23.68",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "23.77",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "24.09",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "25.24",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "10",
+                    "valor": "10519",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "10",
+                    "valor": "10818",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "10",
+                    "valor": "10795",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "11088",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "10968",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "10886",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "10836",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "10892",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "11255",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "11382",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "11864",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "12576",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "13476",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "14261",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "14911",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "15648",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "16382",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "16915",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "17367",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "17991",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "18075",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "18269",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "19060",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "37265.77",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "10",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "18",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "17",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "17",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50100": {},
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "10",
+                    "valor": "37.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "10",
+                    "valor": "50.37",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "10",
+                    "valor": "50.08",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "10",
+                    "valor": "49.8",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "49.42",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "49.17",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "48.46",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "48.23",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "47.91",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "47.45",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "46.77",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "46.29",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "45.77",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "45.14",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "44.58",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "43.84",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "43.22",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "42.73",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "42.21",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "41.76",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "41.36",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "40.9",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "40.47",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "40.04",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "26475.3",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "1008340.56",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "1713696",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "1694522",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "1671267",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "1650472",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "1622877",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "1599965",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "1581767",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "1562531",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "1545971.67",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "1531015.38",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "1513103.54",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "1498083.03",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "1482466.95",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "1157822.37",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "1172113.83",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "1201893.03",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "1214227.17",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "1242987.48",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "1333756.26",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "1348793.37",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "1354880.88",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "10",
+                    "valor": "2556",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "10",
+                    "valor": "5466",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "10",
+                    "valor": "4314",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "10",
+                    "valor": "5562",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "10",
+                    "valor": "4034",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "10",
+                    "valor": "2021",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "10",
+                    "valor": "1185",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "1199",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "550",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "570",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "1103",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "2331",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "670",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "464",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "451",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "453",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "611",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "509",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "293",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "296",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "178",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "82",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "49",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "948",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "690",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "641.73",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "2956.25",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "598.47",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "238.11",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "1223.56",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "1354.74",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "756.88",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "1744.46",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "1553.91",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "1168",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "2641.21",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "3766.88",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "3107.17",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "5728.85",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "1182.67",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "1913.24",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "7431.87",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "3993.31",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "7056.59",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "3569.01",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "4907.23",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "7299.81",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "910.08",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "10",
+                    "valor": "10286.73",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "14127.84",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "9110.34",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "26405.73",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "8699.85",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "11671.56",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "17127.54",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "24991.38",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "17904.42",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "19174.41",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "23254.74",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "20794.68",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "27595.53",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "22911.57",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "18197.91",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "19235.88",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "16559.73",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "14956.29",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "17911.44",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "15020.91",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "15616.08",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "614139.18",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "613686.4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "613074.98",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "612565.98",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "612272.78",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "611976.78",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "611798.78",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "611717.08",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "611668.08",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "610720.08",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "610030.08",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "609388.35",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "606432.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "605833.63",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "238.11",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "1223.56",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "1354.74",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "756.88",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "1744.46",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "1553.91",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "1168",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "2641.21",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "3766.88",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "3107.17",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "5728.85",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "1182.67",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "1913.24",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "7431.87",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "3993.31",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "7056.59",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "3569.01",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "4907.23",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "7299.81",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "910.08",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "26.41",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "26.79",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "27.57",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "26.94",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "26.28",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "26.75",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "27.37",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "27.13",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "27.29",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "27.21",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "38",
+                    "nombre": "Huánuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "31",
+                    "nombre": "Huánuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "36",
+                    "nombre": "Huánuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "17",
+                    "nombre": "Huánuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "16",
+                    "nombre": "Huánuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "25",
+                    "nombre": "Huánuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "26",
+                    "nombre": "Huánuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "18",
+                    "nombre": "Huánuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "13",
+                    "nombre": "Huánuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "10",
+                    "nombre": "Huánuco"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "518.4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "425.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "307.2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "497.5",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "571.3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "566.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "500.4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "357.7",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "334.9",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "14",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "26.41",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "26.79",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "27.57",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "26.94",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "26.28",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "26.75",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "27.37",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "27.13",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "27.29",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "27.21",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "109",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "146",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "301",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "354",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "353",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "339",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "189",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "217",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "464",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "311",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "149",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "79",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "67",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "188",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "103",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "207",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "228",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "327",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "403",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "323",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "365",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "1278",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "16613",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "18880",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "105374",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "97049",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "240037",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "69859",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "154154",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "39389",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "12068",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "10051",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "6528",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "13270",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "24217",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "33284",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "57778",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "13193",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "29147",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "14232",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "14248",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "9253",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "561",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "977",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "1826",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "3481",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "1969",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "6846",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "2203",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "1840",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "1774",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "1505",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "845",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "1087",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "1428",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "410",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "1088",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "582",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "2256",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "1535",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "1231",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "715",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "573",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "1316",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "16617",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "18887",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "105379",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "97049",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "240039",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "69860",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "154230",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "39395",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "12073",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "10061",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "6528",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "13276",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "24221",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "33286",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "57787",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "13199",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "29154",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "14241",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "14251",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "9253",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "82",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "176",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "313",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "878",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "361",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "724",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "198",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "351",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "339",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "226",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "171",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "94",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "43",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "25",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "57",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "53",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "765",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "536",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "480",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "240",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "68",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "431",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "4102",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "623",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "2137",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "15",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "1212",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "107",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "379",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "2539",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "3919",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "108",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "347",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "2005.48",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "5472.07",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "16105.19",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "4053.14",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "4519.55",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "72",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "71",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "73",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "80",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "83",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "10",
+                    "valor": "87",
+                    "nombre": "Huánuco"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "2.25",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "8.84",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "7.74",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "5.28",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "5.95",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "5.93",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "25.89",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "20.15",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "578260",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "2195543",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "3140354",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "2048507",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "685858",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "13071407",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "10763576",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "11.93",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "13.3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "18.29",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "18.3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "21.81",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "27.02",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "38.23",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "36.73",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "43.7",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "66491.82",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "61426.32",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "59710.55",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "59532.34",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "74819.95",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "79381.52",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "79561.11",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "75972.58",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "88823.62",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "0.69",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "0.68",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "0.63",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "0.63",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "0.65",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "0.7",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "0.7",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "0.67",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "0.79",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "5319009",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "6104004",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "7628552",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "10507790",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "10188067",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "10191406",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "11443778",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "15854955",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "15971080",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "16517374",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "20529796",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "29065676",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "27854238",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "33005224",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "2084.45",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "7543.08",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "6581.32",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "5642.84",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "6751.15",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "6743.01",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "28095.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "25564.56",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "0.48",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "0.45",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "0.44",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "0.44",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "0.45",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "0.49",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "0.49",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "0.47",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "0.56",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "15.38",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "15.27",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "17.45",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "17.63",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "14.82",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "26.74",
+                    "nombre": "Huánuco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "10",
+                    "valor": "36.70",
+                    "nombre": "Huánuco"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "0.21",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "0.23",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "0.19",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "0.19",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "0.19",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "0.21",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "0.21",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "0.2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "0.23",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "268.68",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "680",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "569.87",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "608.22",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "1874.17",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "2075.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "1463.72",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "5312.44",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "6787.51",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "28496.49",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "31346.17",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "25590.24",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "25513.86",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "32065.69",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "34020.65",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "34097.62",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "32559.68",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "38067.27",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "94988.32",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "92772.5",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "85300.79",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "85046.19",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "106885.65",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "113402.17",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "113658.73",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "108532.26",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "126890.89",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "2822065",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "3063066",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "15085208",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "17064722",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "21206975",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "35035250",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "31820856",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "4",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "4",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50022": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "116",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "31",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "16",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "22",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "20",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "0",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "22",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "14",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "10",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "16",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "21",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "17",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "9",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "1.0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "2.0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "2.0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "1.0",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "20",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "42",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "35",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "26",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "49",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "26",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "5",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "7",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "2",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "0.04",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "0.04",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "0.04",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "0.04",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "0.03",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "34.4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "34.7",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "59.2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "51.7",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "68.4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "61.2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "58.8",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "58.4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "57.5",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "71.3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "59.89",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "64.36",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "115953",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "114549",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "135903",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "55156",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "60292",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "68084",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "62978",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "93130",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "78524",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "64446",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "77753",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "72888",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "27137",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "37653",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "71204",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "56872",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "19887",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "17613",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "20844",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "14429",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "9331",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "24173",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "23734",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "18728",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "19309",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "17304",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "17830",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "16720",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "8777",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "10292",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "12827",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "12610",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "9349039",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "9286294",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "9336778",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "9458356",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "9790763",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "10023804",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "10166074",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "10526166",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "10181638",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "10293541",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "10724665",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "11859623",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "11280068",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "11683331",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "12078987",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "61.42",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "70.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "70.56",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "75.81",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "75.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "76.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "73.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "84.27",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "80.18",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "85.77",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "10",
+                    "valor": "18",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "10",
+                    "valor": "14",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "10",
+                    "valor": "141",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "120",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "127",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "91",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "139",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "97",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "54",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "71",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "145",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "121",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "161",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "206",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "269",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "263",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "275",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "326",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "413",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "438",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "729",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "652",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "864",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "14.06",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "18.63",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "18.5",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "29.56",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "29.47",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "36.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "42.56",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "48.65",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "44.94",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "44.35",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "46.97",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "58.5",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "57.98",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "64.79",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "10",
+                    "valor": "41047.81",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "10",
+                    "valor": "11520.83",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "10",
+                    "valor": "98892.25",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "36834.74",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "13611.31",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "19993.77",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "25456.58",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "52174.16",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "19281.36",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "54425.14",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "9086.06",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "10740.7",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "6122.15",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "4990.62",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "4844",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "3148.21",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "2082.3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "46026.68",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "2389.98",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "1860.04",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "16747.03",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "13636.52",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "10",
+                    "valor": "63070.63",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "10",
+                    "valor": "17621.03",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "10",
+                    "valor": "113404.59",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "84967.57",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "17162.76",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "40729.03",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "75602.55",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "84971.97",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "177876.58",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "176724.89",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "38635.04",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "40908.92",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "12835.73",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "20873.29",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "25236",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "6044.56",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "4446",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "89336.24",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "165.43",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "423.92",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "43178.4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "127334.91",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "1.5",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "1.63",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "1.79",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "1.51",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "1.41",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "1.43",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "1.52",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "1.46",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "1.67",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "0.0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "50.65",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "37.14",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "0.0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "100.0",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "37.14",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "0.0",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "100.0",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "50",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "16",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "3",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "4",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36836": {
+            "data": []
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "69.4",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "67",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "10",
+                    "valor": "68.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "10",
+                    "valor": "72.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "10",
+                    "valor": "76.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "10",
+                    "valor": "74.55",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "10",
+                    "valor": "75.63",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "10",
+                    "valor": "74.72",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "67.49",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "62.67",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "62.28",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "63.06",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "62.96",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "53.23",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "55.57",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "60.72",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "59.34",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "59.88",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "65.25",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "61.36",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "60.44",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "61.93",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "67.77",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "66.35",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "19887",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "17613",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "20844",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "14429",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "9331",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "24173",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "23734",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "18728",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "19309",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "17304",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "17830",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "16720",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "8777",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "10292",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "12827",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "12610",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "115953",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "114549",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "135903",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "55156",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "60292",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "68084",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "62978",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "93130",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "78524",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "64446",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "77753",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "72888",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "27137",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "37653",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "71204",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "56872",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "100",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "75",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "57.14",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "75",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "75",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "57.14",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "50",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "34.2",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "383.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "2245.5",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "2652.5",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "2483.07",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "2169.9",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "2424.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "2007.23",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "25.49",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "26.7",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "29.51",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "31.75",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "32.98",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "33.57",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "34.83",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "37.58",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "38.83",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "38.1",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "42.22",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "42.79",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "42.56",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "38.32",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "34.27",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "35.88",
+                    "nombre": "Huanuco"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "10",
+                    "valor": "44.66",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "10",
+                    "valor": "54.69",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "10",
+                    "valor": "61.7",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "10",
+                    "valor": "66.68",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "10",
+                    "valor": "72.21",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "10",
+                    "valor": "75.24",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "10",
+                    "valor": "75.57",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "10",
+                    "valor": "80.6",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "10",
+                    "valor": "86.8",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "10",
+                    "valor": "84.99",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "10",
+                    "valor": "87.51",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "10",
+                    "valor": "87.05",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "10",
+                    "valor": "89.41",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "10",
+                    "valor": "88.8",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "10",
+                    "valor": "85.48",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "10",
+                    "valor": "85.58",
+                    "nombre": "Huanuco"
+                }
+            ]
+        }
+    }
+}

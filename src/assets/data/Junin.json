@@ -1,0 +1,5794 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "5.55",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "6.97",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "5.36",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "5.59",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "5.26",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "8.51",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "10.16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "15.41",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "15.68",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "15.41",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "14.9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "14.8",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "13.64",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "14.25",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "133.89",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "1443",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "1435",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "87.86",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "90.52",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "91.04",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "91.8",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "90.7",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "92.4",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "91.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "93.16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "89.61",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "91.62",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "5373072.8",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "58110273",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "43364565.39",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "6545402",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "36236051",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "10917632",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "6330852",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "37694983",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "10986536",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "12",
+                    "valor": "33.3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "12",
+                    "valor": "34.15",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "12",
+                    "valor": "34.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "34.49",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "34.33",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "34.35",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "34.89",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "36.12",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "37.41",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "38.66",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "39.93",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "41.46",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "43.85",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "45.96",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "48.11",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "49.91",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "51.39",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "52.88",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "54.16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "55.52",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "56.03",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "57.58",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "59.2",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "12",
+                    "valor": "41164",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "12",
+                    "valor": "42553",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "12",
+                    "valor": "43272",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "43488",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "43468",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "43648",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "44454",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "46091",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "47769",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "49404",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "51094",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "53118",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "56237",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "59019",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "61933",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "64576",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "67049",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "69760",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "72316",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "74947",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "76284",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "78821",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "81354",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "44328.8",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "11",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "16",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50100": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "53000",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "53000",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "53000",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "53000",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "53000",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "53000",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "53000",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "53000",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "53000",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "53000",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "12",
+                    "valor": "35.3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "12",
+                    "valor": "45.17",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "12",
+                    "valor": "44.98",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "12",
+                    "valor": "44.89",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "44.82",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "44.64",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "44.33",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "44.2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "44.08",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "43.93",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "43.72",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "43.56",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "43.41",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "43.24",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "43.05",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "42.78",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "42.57",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "42.2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "41.95",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "41.75",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "41.44",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "41",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "40.7",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "40.52",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "60860.2",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "1074630.15",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "1931059",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "1924163",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "1916751",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "1908521",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "1896244",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "1887191",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "1870813",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "1859386",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "1850888.97",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "1836928.98",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "1816163.01",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "1804080.69",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "1796185.98",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "1150487.19",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "1176726.24",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "1202139.18",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "1204845.21",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "1223995.23",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "1263222.9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "1264017.51",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "1280484",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "12",
+                    "valor": "3781",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "12",
+                    "valor": "8860",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "12",
+                    "valor": "2597",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "12",
+                    "valor": "4412",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "12",
+                    "valor": "2731",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "12",
+                    "valor": "2906",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "12",
+                    "valor": "571",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "1276",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "442",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "316",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "794",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "882",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "616",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "658",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "1429",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "873",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "736",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "200",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "370",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "126",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "143",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "106",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "176",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "1016",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "157",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "133.14",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "304.47",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "209.32",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "24.44",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "1946.21",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "52.59",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "32.56",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "321.89",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "215.53",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "153.04",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "157.24",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "207.66",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "214.23",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "136.82",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "130.84",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "577.84",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "2607.44",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "1163.16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "3809.29",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "3255.03",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "5266.84",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "1519.11",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "124.47",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "12",
+                    "valor": "3977.64",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "3311.82",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "7811.46",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "13889.07",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "5896.08",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "5040.9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "6686.28",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "9231.48",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "7198.74",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "6896.25",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "7412.22",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "8230.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "12276.81",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "9053.19",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "16377.48",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "11427.03",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "8496.99",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "13959.99",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "20765.97",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "12082.32",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "7894.71",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "939035.58",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "938162.78",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "937426.62",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "937226.51",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "936856.72",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "936730.72",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "936587.72",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "936481.72",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "936305.4",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "935289.4",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "935132.4",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "934999.26",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "934694.79",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "934485.47",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "24.44",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "1946.21",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "52.59",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "32.56",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "321.89",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "215.53",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "153.04",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "157.24",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "207.66",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "214.23",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "136.82",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "130.84",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "577.84",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "2607.44",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "1163.16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "3809.29",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "3255.03",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "5266.84",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "1519.11",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "124.47",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "20.53",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "20.65",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "21.49",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "20.43",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "20.35",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "20.28",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "21.11",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "20.27",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "20.74",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "20.32",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "21",
+                    "nombre": "Junín"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "15",
+                    "nombre": "Junín"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "18",
+                    "nombre": "Junín"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "17",
+                    "nombre": "Junín"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "15",
+                    "nombre": "Junín"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "17",
+                    "nombre": "Junín"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "14",
+                    "nombre": "Junín"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "10",
+                    "nombre": "Junín"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "14",
+                    "nombre": "Junín"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "6",
+                    "nombre": "Junín"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "793.3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "822.9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "736.0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "704.4",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "655.1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "754.6",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "380.1",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "17",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "20.53",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "20.65",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "21.49",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "20.43",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "20.35",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "20.28",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "21.11",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "20.27",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "20.74",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "20.32",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "72",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "101",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "76",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "69",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "70",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "166",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "117",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "177",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "202",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "147",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "156",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "155",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "171",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "289",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "150",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "277",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "155",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "222",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "367",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "306",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "231",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "3460",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "7963",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "11346",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "3456",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "9730",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "13757",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "3209",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "7224",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "17127",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "7305",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "18620",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "7589",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "9360",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "118608",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "22144",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "30421",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "3843",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "38612",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "35639",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "58782",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "13801",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "2036",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "1102",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "638",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "961",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "3267",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "1384",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "2130",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "3398",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "11813",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "1724",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "2049",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "1571",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "1817",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "1315",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "1137",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "1091",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "2667",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "377",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "1036",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "507",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "457",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "3464",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "7985",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "11348",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "3459",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "9749",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "13760",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "3218",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "7230",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "17128",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "7311",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "18622",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "7594",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "9370",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "118609",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "22147",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "30425",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "3855",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "38617",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "35643",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "58785",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "13801",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "402",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "227",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "121",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "140",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "754",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "258",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "420",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "755",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "2335",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "162",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "277",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "154",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "189",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "117",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "175",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "141",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "850",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "110",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "294",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "163",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "56",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "12",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "1092",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "21",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "25",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "22",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "79",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "101",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "251",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "745",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "108",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "67",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "476",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "260",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "35",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "1758",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "991.89",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "1654.47",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "7969.44",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "811.05",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "1218.38",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "97",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "95",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "103",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "97",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "99",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "12",
+                    "valor": "106",
+                    "nombre": "Junín"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "6.17",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "5.18",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "5.22",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "3.98",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "5.65",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "12.7",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "12.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "11.84",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "12.82",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "6932072",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "7522010",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "5292435",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "6305588",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "9890972",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "31797365",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "54641600",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "20.14",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "19.69",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "22.04",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "23.38",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "26.07",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "28.05",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "36.74",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "38.3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "45.09",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "153107.85",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "167514.28",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "170500.97",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "178267.96",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "192204.04",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "190446.75",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "190025.66",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "197311.08",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "201034.7",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "0.68",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "0.77",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "0.75",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "0.78",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "0.75",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "0.73",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "0.73",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "0.75",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "0.77",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "17183890",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "19297589",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "20811208",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "26374491",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "29153117",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "27013739",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "26595990",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "29987345",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "32030629",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "34808130",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "37862842",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "50014777",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "52436710",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "61961122",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "13497.32",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "12796.56",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "12713.53",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "10125.73",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "15514.3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "34541.06",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "33927.12",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "33383.78",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "36820.66",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "0.48",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "0.52",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "0.53",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "0.54",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "0.53",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "0.51",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "0.51",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "0.53",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "0.54",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "11",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "12",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "12",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "12",
+                    "valor": "13",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "65.77",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "62.33",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "68.91",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "69.7",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "56.35",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "12",
+                    "valor": "97.77",
+                    "nombre": "Junín"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "0.2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "0.25",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "0.23",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "0.23",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "0.23",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "0.22",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "0.22",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "0.23",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "0.23",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "215.88",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "338",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "341.45",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "1618.44",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "3038.63",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "5105.8",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "3765.16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "9803.78",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "9889.56",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "65617.65",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "79475.05",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "73071.84",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "76400.55",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "82373.16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "81620.03",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "81439.57",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "84561.89",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "86157.73",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "218725.49",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "246989.33",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "243572.81",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "254668.51",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "274577.2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "272066.78",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "271465.23",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "281872.98",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "287192.43",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "7426033",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "7542688",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "39274733",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "42354620",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "46783442",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "72487920",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "101102866",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "6",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "220",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "45",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "68",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "128",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "111",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "0",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "27",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "20",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "12",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "18",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "15",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "17",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "14",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "1.0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "1.0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "1.0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "2.0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "2.0",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "2.0",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "75",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "86",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "94",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "109",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "117",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "78",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "10",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "13",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "24",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "7",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "11",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "21",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "12",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "6",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "5.55",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "6.97",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "5.36",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "5.59",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "5.26",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "8.51",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "10.16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "15.41",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "15.68",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "15.41",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "14.9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "14.8",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "13.64",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "14.25",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "54.9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "58.6",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "70.4",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "67.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "73.7",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "74.4",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "72.9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "75.1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "79.1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "76.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "78.83",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "76.96",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "128841",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "135088",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "141699",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "69511",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "80985",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "85163",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "75606",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "100223",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "80546",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "72906",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "87615",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "89789",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "30783",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "34007",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "69477",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "60559",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "32385",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "31674",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "30750",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "24376",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "10051",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "30928",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "27253",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "21538",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "20423",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "18664",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "19217",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "19964",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "10639",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "12311",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "13803",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "13864",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "26672823",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "29019696",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "29598387",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "29220372",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "28762560",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "28242502",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "27600196",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "27071848",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "28407427",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "29533345",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "29428215",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "29416952",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "29411490",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "30914574",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "30232943",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "87.86",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "90.52",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "91.04",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "91.8",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "90.7",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "92.4",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "91.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "93.16",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "89.61",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "91.62",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "12",
+                    "valor": "920",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "12",
+                    "valor": "1139",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "12",
+                    "valor": "1219",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "1338",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "1982",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "2119",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "1652",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "1758",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "2079",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "1758",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "1848",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "1967",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "3413",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "2127",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "1630",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "1215",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "2984",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "2757",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "3190",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "3198",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "2845",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "3896",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "8676",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "54.03",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "46.99",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "48.52",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "53.13",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "53.9",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "50.97",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "48.33",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "57.7",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "65.33",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "91.99",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "87.54",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "81.46",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "95.72",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "122.44",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "12",
+                    "valor": "149169.69",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "12",
+                    "valor": "122256.71",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "12",
+                    "valor": "74174.57",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "83715",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "97100.83",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "101295.55",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "103576.96",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "84053.36",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "92488.11",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "75698.95",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "119741.59",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "103208.93",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "109603.29",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "84331.46",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "80273",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "57532.07",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "33310.21",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "45363.43",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "37008.1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "34298.56",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "18824.19",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "31076.26",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "56367.98",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "53637.36",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "12",
+                    "valor": "271116.62",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "12",
+                    "valor": "236016.82",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "12",
+                    "valor": "160937.03",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "194955.05",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "134639.95",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "166042.01",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "153236.63",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "159953.44",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "230301.03",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "164872.64",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "195196.95",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "203549.1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "196890.21",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "179002.12",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "168550",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "110551.49",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "65212.59",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "93849.28",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "4882.28",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "34343.69",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "25533.86",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "13565.64",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "73569.25",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "90479.15",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "1.55",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "1.34",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "1.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "1.6",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "2.1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "1.99",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "1.52",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "1.68",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "2.09",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "26.95",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "81.32",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "43.99",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "43.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "23.82",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "100.0",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "43.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "23.82",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "100.0",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "41",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "7",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "8",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "6",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "6",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "6",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "7",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "6",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "3",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "2",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "74.5",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "12",
+                    "valor": "70.2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "12",
+                    "valor": "67.2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "12",
+                    "valor": "61.6",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "12",
+                    "valor": "65.21",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "12",
+                    "valor": "64.93",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "12",
+                    "valor": "57.68",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "60.26",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "58.62",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "61.85",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "53.82",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "54.65",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "52.93",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "56.14",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "56.83",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "55.88",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "56.32",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "58.35",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "61",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "53.62",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "54.84",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "51.23",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "54.01",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "32385",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "31674",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "30750",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "24376",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "10051",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "30928",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "27253",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "21538",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "20423",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "18664",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "19217",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "19964",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "10639",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "12311",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "13803",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "13864",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "128841",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "135088",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "141699",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "69511",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "80985",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "85163",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "75606",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "100223",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "80546",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "72906",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "87615",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "89789",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "30783",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "34007",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "69477",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "60559",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "53.85",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "57.14",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "66.67",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "60",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "66.67",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "70",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "60",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "2891",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "2475.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "2783.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "3205.2",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "2954.06",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "2750.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "3134.1",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "3070.51",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "43.32",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "44.06",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "46.5",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "51.67",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "53.21",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "54.08",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "58.82",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "62.44",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "61.24",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "60.33",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "63.23",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "62.69",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "65.48",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "55.56",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "52.78",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "58.07",
+                    "nombre": "Junin"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "12",
+                    "valor": "80.82",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "12",
+                    "valor": "83.38",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "12",
+                    "valor": "87.08",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "12",
+                    "valor": "88.21",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "12",
+                    "valor": "87.56",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "12",
+                    "valor": "88.68",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "12",
+                    "valor": "90.79",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "12",
+                    "valor": "92.44",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "12",
+                    "valor": "92.02",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "12",
+                    "valor": "91.29",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "12",
+                    "valor": "93",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "12",
+                    "valor": "93.18",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "12",
+                    "valor": "92.49",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "12",
+                    "valor": "92.35",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "12",
+                    "valor": "91.27",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "12",
+                    "valor": "92.27",
+                    "nombre": "Junin"
+                }
+            ]
+        }
+    }
+}

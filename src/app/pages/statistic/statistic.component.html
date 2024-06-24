@@ -1,0 +1,56 @@
+<div class="p-5">
+    <app-data-select (selectionChange)="onParamsSelected($event)"></app-data-select>
+    <div class="flex flex-wrap">
+        <div class="w-full md:w-1/3 md:mt-4 md:mb-4 pt-6">
+            <div class="border-container p-4">
+                <div class="font-bold text-gray-700 text-lg mb-2">Indicadores disponibles</div>
+                <div class="max-h-[530px] overflow-y-auto">
+                    <app-indicator (paramsIndicator)="receiveIndicatorParams($event)" [listIndicators]="listIndicators"
+                        [regionSelected]="regionName" [thematicSelected]="thematicSelected"
+                        [zoneSelected]="zoneSelected"></app-indicator>
+                </div>
+            </div>
+        </div>
+        <div class="w-full md:w-2/3 md:mt-4 md:mb-4 px-4 py-6">
+            <p-tabView>
+                <p-tabPanel header="Gráfico">
+                    <ng-template pTemplate="header">
+                        <div class="flex items-center gap-2">
+                            <i class="pi pi-chart-line"></i>
+                            <span>Gráfico</span>
+                        </div>
+                    </ng-template>
+                    <div class="border-container max-h-[540px] overflow-y-auto p-4 h-[540px]">
+                        <app-chart [lisData]="listData" [selectedRegionName]="regionName"
+                            [selectedAcronymName]="selectedAcronymName" [selectedIndicatorName]="selectedIndicatorName"
+                            [selectedSource]="selectedSource" [selectedUnit]="selectedUnit"></app-chart>
+                    </div>
+                </p-tabPanel>
+                <p-tabPanel header="Datos">
+                    <ng-template pTemplate="header">
+                        <div class="flex items-center gap-2">
+                            <i class="pi pi-table"></i>
+                            <span>Datos</span>
+                        </div>
+                    </ng-template>
+                    <div class="border-container max-h-[540px] overflow-y-auto p-4 h-[540px]">
+                        <app-data-table [listData]="listData" [selectedDependency]="selectedDependency"
+                            [selectedIndicatorName]="selectedIndicatorName" [selectedAcronymName]="selectedAcronymName"
+                            [selectedSource]="selectedSource" [selectedUnit]="selectedUnit"></app-data-table>
+                    </div>
+                </p-tabPanel>
+                <p-tabPanel header="Ficha de divulgación">
+                    <ng-template pTemplate="header">
+                        <div class="flex items-center gap-2">
+                            <i class="pi pi-file-check"></i>
+                            <span>Ficha de divulgación</span>
+                        </div>
+                    </ng-template>
+                    <div class="border-container max-h-[540px] overflow-y-auto p-4 h-[540px]">
+                        <app-file [listFiles]="listFiles"></app-file>
+                    </div>
+                </p-tabPanel>
+            </p-tabView>
+        </div>
+    </div>
+</div>

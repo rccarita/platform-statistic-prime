@@ -1,0 +1,5336 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "15.79",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "15.04",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "13.83",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "14.97",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "13.21",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "13.8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "10.79",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "15.83",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "94.11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "94.01",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "94.15",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "94.12",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "94",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "93.82",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "58.68",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "366",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "375",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "93.06",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "93.27",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "95.05",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "95.11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "95.3",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "96.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "96.8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "96.58",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "96.05",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "96.64",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "2887023.24",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "53936780.4",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "42516502.66",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "12561534",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "10224346",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "3372287",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "48588038",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "6304031",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "04",
+                    "valor": "62.84",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "04",
+                    "valor": "65.58",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "04",
+                    "valor": "67.93",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "68.99",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "68.97",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "68.87",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "69.63",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "71.87",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "76.81",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "81.35",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "87.01",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "95.84",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "106.8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "117.15",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "126.22",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "132.86",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "138.44",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "144.07",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "148.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "151.91",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "153.11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "158.35",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "163.51",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "04",
+                    "valor": "68997",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "04",
+                    "valor": "72885",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "04",
+                    "valor": "76267",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "78162",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "78858",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "79544",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "81293",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "84829",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "91674",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "98270",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "106521",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "118985",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "134533",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "149892",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "164302",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "176315",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "187929",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "200560",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "211735",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "222491",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "229266",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "241743",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "254086",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "63343.93",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "8",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "6",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50100": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "18850",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "18850",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "18850",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "18850",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "18850",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "18850",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "18850",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "18850",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "18850",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "18850",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "11276": {},
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "133434.8",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "155337.66",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "8159": {
+            "data": []
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "81613.44",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "94563.63",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "97733.52",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "92940.84",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "93233.43",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "56097.09",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "54411.57",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "56776.5",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "04",
+                    "valor": "528",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "04",
+                    "valor": "1018",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "04",
+                    "valor": "560",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "04",
+                    "valor": "632",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "04",
+                    "valor": "422",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "04",
+                    "valor": "422",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "04",
+                    "valor": "285",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "130",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "252",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "245",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "263",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "240",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "346",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "548",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "360",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "423",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "271",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "115",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "65",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "28",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "36",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "24",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "34",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "60",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "12",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "1.05",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "47.32",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "66.79",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "254.66",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "29.8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "4887.77",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "156.21",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "2511.25",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "639.15",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "20.26",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "787.46",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "1842.81",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "32.01",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "1234.74",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "204.11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "98.46",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "416.61",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "179.64",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "117.18",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "43.38",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "9738": {
+            "data": []
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "349756.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "349333.83",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "349062.5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "348947.4",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "348882.9",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "348854.9",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "348818.9",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "348795",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "348761.09",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "348701.09",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "348689.09",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "348689.09",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "348688.04",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "348688.04",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "47.32",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "66.79",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "254.66",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "29.8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "4887.77",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "156.21",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "2511.25",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "639.15",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "20.26",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "787.46",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "1842.81",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "32.01",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "1234.74",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "204.11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "98.46",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "416.61",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "179.64",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "117.18",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "43.38",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "23.11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "24.09",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "24.95",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "23.47",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "23.55",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "24.44",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "24.47",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "23.88",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "24.5",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "149",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "147",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "150",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "135",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "100",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "82",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "223",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "239",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "78",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "91",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50002": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "93",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "123",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "84",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "101",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "111",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "150",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "162",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "135",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "124",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "105",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50003": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "20",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "15",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "40",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "19",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "36",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "35.5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "63.7",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "212.1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "26.9",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "93.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "31.5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "76.7",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "124.2",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "13",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "23.11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "24.09",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "24.95",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "23.47",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "23.55",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "24.44",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "24.47",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "23.88",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "24.5",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50031": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "20",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "15",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "40",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "19",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "36",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "88",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "114",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "110",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "147",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "144",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "150",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "99",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "112",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "211",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "265",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "247",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "70",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "203",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "181",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "238",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "228",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "119",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "299",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "199",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "128",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "206",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "12913",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "58855",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "25513",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "28788",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "64088",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "80584",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "19734",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "43225",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "72707",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "47025",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "61377",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "9038",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "72049",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "59645",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "80101",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "75588",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "15734",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "45539",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "31504",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "22819",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "15384",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "1318",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "860",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "132",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "108",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "1823",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "224",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "680",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "366",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "1906",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "4417",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "3002",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "67",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "12083",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "6907",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "2485",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "3962",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "906",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "1432",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "383",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "960",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "702",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "12913",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "58855",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "25517",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "28788",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "64089",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "80585",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "19736",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "43227",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "72711",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "47029",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "61384",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "9038",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "72051",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "59650",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "80123",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "75591",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "15737",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "45541",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "31504",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "22819",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "15387",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "136",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "103",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "25",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "16",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "43",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "69",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "132",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "120",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "392",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "1071",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "558",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "19",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "584",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "343",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "257",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "170",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "453",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "640",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "151",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "568",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "43",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "430",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "5202",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "13",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "35",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "77",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "147",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "849",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "130",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "399",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "1274",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "1381",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "677",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "2707.04",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "429.55",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "118.29",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "548.25",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "694.13",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "82",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "82",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "83",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "92",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "93",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "04",
+                    "valor": "94",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "0.73",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "16503948",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "5883987",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "4590658",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "3266726",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "7031547",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "19999380",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "12685014",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "24.43",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "27.43",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "35.73",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "40.95",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "37.75",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "43.58",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "47.53",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "56.88",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "63.75",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "199658.35",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "204332.23",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "208531.63",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "210551.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "251513.22",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "232255.73",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "236348.4",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "248753.68",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "260337.73",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "0.68",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "0.7",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "0.69",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "0.69",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "0.69",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "0.66",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "0.65",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "0.67",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "0.69",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "21040909",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "22143025",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "23650450",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "31478741",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "34862638",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "31101511",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "35306131",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "46495826",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "53873568",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "53939510",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "63825090",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "71176662",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "86842688",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "99059684",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "2712.75",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "0.48",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "0.48",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "0.49",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "0.49",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "0.49",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "0.46",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "0.46",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "0.47",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "0.48",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "81.55",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "81.55",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "103.34",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "103.36",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "78.12",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "105.43",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "04",
+                    "valor": "109.37",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "0.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "0.22",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "0.21",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "0.21",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "0.21",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "0.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "0.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "0.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "0.21",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "1340.87",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "1580",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "1547.8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "2252.66",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "3019.63",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "3536.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "1859.45",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "5582.82",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "5754.39",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "85567.87",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "94520.68",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "89370.7",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "90236.4",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "107791.38",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "99538.17",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "101292.17",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "106608.72",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "111573.31",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "285226.22",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "298852.9",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "297902.32",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "300788",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "359304.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "331793.9",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "337640.56",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "355362.39",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "371911.04",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "16515189",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "6126856",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "47396351",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "51289076",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "66225348",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "84695598",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "81049525",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "3",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "195",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "39",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "54",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "136",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "91",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "15",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "29",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "39",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "23",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "20",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "28",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "26",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "17",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "2.0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "2.0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "1.0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "2.0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "1.0",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "80",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "106",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "88",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "124",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "173",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "103",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "17",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "12",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "21",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "9",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "14",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "13",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "7",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "3",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "9",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "15.79",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "15.04",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "13.83",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "14.97",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "13.21",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "13.8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "10.79",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "15.83",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "94.11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "94.01",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "94.15",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "94.12",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "94",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "93.82",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "74.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "76.5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "83",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "82.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "87.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "88",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "91.4",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "92.4",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "92.7",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "88.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "89.68",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "89.67",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "217121",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "218893",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "196485",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "197599",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "120940",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "125592",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "97885",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "163856",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "150267",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "108378",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "181002",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "184184",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "40676",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "44775",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "149117",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "122192",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "47318",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "47185",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "42026",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "34176",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "8927",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "38384",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "33486",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "42750",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "43588",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "39044",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "37548",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "35549",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "15992",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "22747",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "26622",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "23700",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "26263660",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "28913797",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "29766153",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "28015903",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "30365383",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "33659065",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "32392630",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "37994486",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "36766861",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "3126464",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "3335065",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "3272505",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "3492426",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "3731604",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "3979294",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "93.06",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "93.27",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "95.05",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "95.11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "95.3",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "96.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "96.8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "96.58",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "96.05",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "96.64",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "04",
+                    "valor": "341",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "04",
+                    "valor": "351",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "04",
+                    "valor": "415",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "438",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "806",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "792",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "627",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "719",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "781",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "789",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "777",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "882",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "867",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "1118",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "1191",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "1141",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "1132",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "1089",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "1237",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "120",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "690",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "337",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "39",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "77.1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "99.14",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "81.59",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "99.44",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "109.28",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "102.61",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "97.81",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "117.33",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "146.51",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "141.32",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "138.82",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "155.96",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "176.95",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "216.21",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "2.97",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "4.15",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "189.79",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "20.13",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "209.89",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "379.33",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "379.53",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "169.03",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "269.83",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "97",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "3.37",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "20.51",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "46.9",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "81.76",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "224.6",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "1739.42",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "94.7",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "182.63",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "115.95",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "212.33",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "222.48",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "1001.59",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "287.72",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "348.34",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "384.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "1176.8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "205",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "92.11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "11",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "37.24",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "29.86",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "22.88",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "2.35",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "2.36",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "2.69",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "2.95",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "2.62",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "2.57",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "2.54",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "2.69",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "3.03",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "50.0",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "42.86",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "64.29",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "27.16",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "42.86",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "100.0",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "27.16",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "42.86",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "100.0",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "24",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "31",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "4",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "3",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "4",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "1",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "64",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "62",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "86",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "04",
+                    "valor": "39.6",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "04",
+                    "valor": "32.5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "04",
+                    "valor": "23.7",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "04",
+                    "valor": "24",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "04",
+                    "valor": "25.37",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "04",
+                    "valor": "23.62",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "31.53",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "26.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "29.74",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "25.09",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "29.76",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "22.64",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "24.52",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "26.05",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "26.48",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "26.67",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "21.16",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "21.87",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "18.61",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "22.42",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "24.82",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "25.76",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "47318",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "47185",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "42026",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "34176",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "8927",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "38384",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "33486",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "42750",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "43588",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "39044",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "37548",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "35549",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "15992",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "22747",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "26622",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "23700",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "217121",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "218893",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "196485",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "197599",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "120940",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "125592",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "97885",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "163856",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "150267",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "108378",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "181002",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "184184",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "40676",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "44775",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "149117",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "122192",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "71.43",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "66.67",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "66.67",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "62.5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "71.43",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "50",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "75",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "988.5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "1159",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "1786.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "1222.8",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "1199.65",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "1252",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "1217.5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "1198.39",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "73.61",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "78.34",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "82.47",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "85.3",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "87.23",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "89.53",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "89.23",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "90.74",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "91.28",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "93.66",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "93.34",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "92.16",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "94.72",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "90.89",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "91.74",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "91.78",
+                    "nombre": "Arequipa"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "04",
+                    "valor": "91.5",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "04",
+                    "valor": "92.83",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "04",
+                    "valor": "94.22",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "04",
+                    "valor": "95.12",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "04",
+                    "valor": "96.61",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "04",
+                    "valor": "96.65",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "04",
+                    "valor": "96.74",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "04",
+                    "valor": "98.42",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "04",
+                    "valor": "98.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "04",
+                    "valor": "98.17",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "04",
+                    "valor": "98.2",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "04",
+                    "valor": "98.55",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "04",
+                    "valor": "98.91",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "04",
+                    "valor": "97.55",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "04",
+                    "valor": "97.71",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "04",
+                    "valor": "98.44",
+                    "nombre": "Arequipa"
+                }
+            ]
+        }
+    }
+}

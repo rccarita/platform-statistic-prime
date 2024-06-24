@@ -1,0 +1,5067 @@
+{
+    "01": {
+        "36711": {
+            "data": []
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "93.55",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "621",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "547",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "83.34",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "85.17",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "88.55",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "87.39",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "89.4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "90.1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "90.6",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "93.64",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "93.18",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "93.03",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "2542248.04",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "9120373.74",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "5180086",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "4600597",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "3212888",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "946080",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "4439177",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "124217",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "2461195",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "09",
+                    "valor": "1.82",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "09",
+                    "valor": "1.98",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "09",
+                    "valor": "2.21",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "2.21",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "2.21",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "2.25",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "2.31",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "2.38",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "2.66",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "2.88",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "2.99",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "3.05",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "3.13",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "3.16",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "3.27",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "3.27",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "3.33",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "3.3",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "3.28",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "3.26",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "3.25",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "3.25",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "3.25",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "09",
+                    "valor": "829",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "09",
+                    "valor": "911",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "09",
+                    "valor": "1028",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "1036",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "1043",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "1061",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "1080",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "1103",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "1216",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "1291",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "1319",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "1317",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "1323",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "1300",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "1315",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "1286",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "1286",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "1259",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "1235",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "1210",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "1186",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "1163",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "1140",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "22125.2",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "1",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {},
+        "50100": {},
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "09",
+                    "valor": "4.95",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "09",
+                    "valor": "0.83",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "09",
+                    "valor": "0.82",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "09",
+                    "valor": "0.82",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "0.82",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "0.82",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "0.82",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "0.82",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "0.81",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "0.81",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "0.81",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "0.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "0.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "0.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "0.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "0.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "0.79",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "0.78",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "0.78",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "0.78",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "0.78",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "0.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "0.77",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "0.77",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "50581.9",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "36246.78",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "17804",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "17764",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "17752",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "17724",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "17649",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "17576",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "17337",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "17318",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "17299.44",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "17207.55",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "17036.28",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "17014.32",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "16971.39",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "22771.71",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "25841.52",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "26027.82",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "25309.53",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "25418.61",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "25202.7",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "24839.37",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "25275.96",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "09",
+                    "valor": "2587",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "09",
+                    "valor": "2061",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "09",
+                    "valor": "293",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "09",
+                    "valor": "7961",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "09",
+                    "valor": "4638",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "09",
+                    "valor": "4638",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "09",
+                    "valor": "1327",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "1035",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "997",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "1061",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "1949",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "1451",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "1310",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "1524",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "3716",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "2569",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "1360",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "319",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "211",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "174",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "319",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "185",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "145",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "152",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "39",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "2.2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "19.86",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "12.61",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "4.15",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "5.38",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "5.38",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "33.58",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "7.23",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "18.9",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "15.12",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "09",
+                    "valor": "17.37",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "18.54",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "49.32",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "102.51",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "22.23",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "45.36",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "32.85",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "27.72",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "130.59",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "40.32",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "11.97",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "27.9",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "75.69",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "72.54",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "238.68",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "19.44",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "18.45",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "91.89",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "171.27",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "21.96",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "42.93",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "11920.54",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "9352.01",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "7991.88",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "7672.84",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "7462.27",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "7288.27",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "6969.27",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "6784.37",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "6639.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "6487.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "6448.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "6446.6",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "6426.74",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "6414.13",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "4.15",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "5.38",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "5.38",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "33.58",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "7.23",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "18.9",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "15.12",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "0.00",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "16.49",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "16.84",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "17.97",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "16.79",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "16.83",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "17.21",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "16.72",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "16.74",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "17.65",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "17.14",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "14",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "10",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "12",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "11",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "25",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "5",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "6",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "981.5",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "1008.3",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "733.3",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "1041.1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "1079.5",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "954.4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "778.7",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "597.1",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "15",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "16.49",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "16.84",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "17.97",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "16.79",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "16.83",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "17.21",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "16.72",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "16.74",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "17.65",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "17.14",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "148",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "265",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "268",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "109",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "204",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "158",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "161",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "261",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "279",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "487",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "837",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "737",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "357",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "443",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "586",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "328",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "581",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "537",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "551",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "442",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "768",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "4957",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "40717",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "38658",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "8894",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "42477",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "24411",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "191518",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "52971",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "94858",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "48813",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "66071",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "49558",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "116723",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "169977",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "86961",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "161456",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "32210",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "39814",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "54354",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "31825",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "72812",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "1075",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "1443",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "938",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "1796",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "44588",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "281",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "249",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "1123",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "3925",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "5334",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "4154",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "3094",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "2395",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "398",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "7103",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "15365",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "528",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "282",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "416",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "793",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "2746",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "4958",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "40719",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "38660",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "8901",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "42480",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "24416",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "191524",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "52972",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "94862",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "48814",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "66074",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "49559",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "116723",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "169978",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "86973",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "161463",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "32219",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "39816",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "54360",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "31829",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "72820",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "164",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "230",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "172",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "126",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "2304",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "77",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "29",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "253",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "760",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "613",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "260",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "220",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "204",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "18",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "605",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "44",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "253",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "80",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "121",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "251",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "708",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "14",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "2116",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "27",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "41",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "5623",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "36",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "69",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "332",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "275",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "3461",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "647",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "3053",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "2764.52",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "18737.46",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "21347.67",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "12097.46",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "8756.91",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "100",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "101",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "101",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "105",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "107",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "09",
+                    "valor": "114",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "1.87",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "1.65",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "3.38",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "3.97",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "3.71",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "3.52",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "3.29",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "1887446",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "2933245",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "10405816",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "4475300",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "5619515",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "10286361",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "12122746",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "5.1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "3.89",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "6.12",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "5.85",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "11.07",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "20.39",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "29.43",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "26.7",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "33.82",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "26879.53",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "26536.22",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "24864.38",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "24780.11",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "26753.15",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "25429.1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "24848.09",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "29474.39",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "28776.75",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "0.67",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "0.63",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "0.62",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "0.61",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "0.64",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "0.6",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "0.59",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "0.72",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "0.72",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "3358319",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "3782009",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "5987710",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "4945958",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "4535498",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "2504076",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "1927769",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "3052999",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "2937718",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "4164988",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "7570069",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "10752173",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "9568001",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "11864032",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "665.21",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "584.9",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "1290.92",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "1441.95",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "1316.2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "1481.94",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "1352.27",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "0.47",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "0.46",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "0.43",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "0.43",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "0.45",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "0.42",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "0.42",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "0.5",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "0.5",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "3",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "09",
+                    "valor": "4",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "35",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "35",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "34.55",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "37.53",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "28.39",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "45.40",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "09",
+                    "valor": "47.43",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "0.2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "0.17",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "0.19",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "0.18",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "0.19",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "0.18",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "0.18",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "0.22",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "0.22",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "59.48",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "73",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "49.87",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "159.56",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "297.18",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "356.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "264.2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "1051.07",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "980.65",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "11519.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "9815.36",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "10656.16",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "10620.05",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "11465.63",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "10898.19",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "10649.18",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "12631.88",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "12332.89",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "38399.33",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "36351.58",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "35520.54",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "35400.16",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "38218.78",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "36327.29",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "35497.27",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "42106.27",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "41109.65",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "1984443",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "2973345",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "16610965",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "11220168",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "12439761",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "18418152",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "21299955",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "2",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "125",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "20",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "22",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "68",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "55",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "0",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "0",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "0",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "0",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "0",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "0",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "0",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "13",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "23",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "15",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "9",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "21",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "13",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "10",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "1.0",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "1.0",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "1.0",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "14",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "17",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "19",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "5",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "17",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "11",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "6",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "10",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "3",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "11",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "5",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "5",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "4",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36711": {
+            "data": []
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "26",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "26.8",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "60.4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "65.5",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "74.7",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "73.1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "72",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "77.9",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "74",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "75.3",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "82.17",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "82.8",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "61173",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "84541",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "88796",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "96152",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "56559",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "57260",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "52605",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "72308",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "52612",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "46283",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "57455",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "52473",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "22233",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "27760",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "48838",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "35312",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "14642",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "15191",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "15102",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "9876",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "5589",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "14371",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "12966",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "10571",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "10293",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "10491",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "9833",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "9284",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "5520",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "6811",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "7602",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "6875",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "2081437",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "2172479",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "2261283",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "2189188",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "2211079",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "2105898",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "2092571",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "2170211",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "2195772",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "2267556",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "2252490",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "2341298",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "2306545",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "2332435",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "2331115",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "83.34",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "85.17",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "88.55",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "87.39",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "89.4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "90.1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "90.6",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "93.64",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "93.18",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "93.03",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "09",
+                    "valor": "55",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "09",
+                    "valor": "35",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "09",
+                    "valor": "49",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "16",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "55",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "134",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "136",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "115",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "153",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "247",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "726",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "1122",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "1144",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "1222",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "721",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "3387",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "3704",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "3454",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "4112",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "3741",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "5826",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "5164",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "5115",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "16.86",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "32.02",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "26.71",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "21.88",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "25.85",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "32.09",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "25.86",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "30.77",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "23.43",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "26.42",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "25.34",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "27.42",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "25.2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "28.46",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "09",
+                    "valor": "51.04",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "09",
+                    "valor": "351.37",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "174.75",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "167.13",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "96.7",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "182.68",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "64.4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "106.84",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "236.67",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "209.14",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "129.68",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "14318.53",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "127.83",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "17",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "09",
+                    "valor": "5814.85",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "09",
+                    "valor": "4905.42",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "4309.91",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "4374.07",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "9825.81",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "17503.86",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "47280.39",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "10397.57",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "8338.69",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "22694.98",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "7009.24",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "198547.83",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "3510.52",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "1857",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "1.47",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "1.12",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "1.36",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "1.21",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "1.02",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "1.02",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "0.84",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "0.99",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {},
+        "50043": {},
+        "50044": {},
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": []
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "3",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "6",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "6",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "1",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "1",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "22120": {
+            "data": []
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "09",
+                    "valor": "91",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "09",
+                    "valor": "90",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "09",
+                    "valor": "90.9",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "09",
+                    "valor": "92.04",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "09",
+                    "valor": "89.42",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "09",
+                    "valor": "83.82",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "69.62",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "73.37",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "74.13",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "75.4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "71.44",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "76.64",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "73.43",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "80.2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "75.63",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "74.75",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "67.03",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "77.19",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "74.38",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "73.84",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "75.26",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "74.44",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "14642",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "15191",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "15102",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "9876",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "5589",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "14371",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "12966",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "10571",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "10293",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "10491",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "9833",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "9284",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "5520",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "6811",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "7602",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "6875",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "61173",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "84541",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "88796",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "96152",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "56559",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "57260",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "52605",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "72308",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "52612",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "46283",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "57455",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "52473",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "22233",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "27760",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "48838",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "35312",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "33.33",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "66.67",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "50",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "60",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "54.55",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "54.55",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "7094.7",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "7415.2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "9279.4",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "10265.7",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "10278.08",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "10058.9",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "10202.5",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "9571.97",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "12.99",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "12.66",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "16.83",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "15.56",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "16.37",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "18.12",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "19.65",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "21.2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "27.04",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "26.76",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "29.43",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "34.22",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "31.93",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "29.2",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "23.06",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "28.22",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "09",
+                    "valor": "71.3",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "09",
+                    "valor": "77.62",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "09",
+                    "valor": "74.55",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "09",
+                    "valor": "77.92",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "09",
+                    "valor": "84.59",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "09",
+                    "valor": "83.57",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "09",
+                    "valor": "83.67",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "09",
+                    "valor": "87.93",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "09",
+                    "valor": "88.57",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "09",
+                    "valor": "91.06",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "09",
+                    "valor": "91.85",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "09",
+                    "valor": "91.18",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "09",
+                    "valor": "92.71",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "09",
+                    "valor": "92.81",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "09",
+                    "valor": "91.13",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "09",
+                    "valor": "93.84",
+                    "nombre": "Huancavelica"
+                }
+            ]
+        }
+    }
+}

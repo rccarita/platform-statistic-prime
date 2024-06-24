@@ -1,0 +1,5488 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "7.49",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "6.59",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "4.84",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "2.88",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "3.12",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "3.03",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "2.99",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "3.05",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2.64",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "2.66",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "9.91",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50009": {},
+        "50010": {},
+        "50011": {},
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "79.76",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "80.81",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "83.19",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "87.69",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "87.1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "87.7",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "87.8",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "90.19",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "91.24",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "89.81",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "108561.36",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "420848",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "619694",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "1844633",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "5360542",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "373533",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2571504",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "524486",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "811354",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "22",
+                    "valor": "6.7",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "22",
+                    "valor": "6.93",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "22",
+                    "valor": "6.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "14.47",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "14.15",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "13.81",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "13.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "13.28",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "13.08",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "13.04",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "13.13",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "13.34",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "13.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "14.15",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "14.45",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "14.74",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "14.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "14.92",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "15.06",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "15.26",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "15.51",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "15.63",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "15.57",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "22",
+                    "valor": "4603",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "22",
+                    "valor": "4837",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "22",
+                    "valor": "4846",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "10384",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "10277",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "10156",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "10033",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "9969",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "9917",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "9977",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "10151",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "10418",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "10926",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "11271",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "11648",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "12047",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "12358",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "12669",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "13052",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "13491",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "13957",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "14269",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "14391",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "51288.07",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "12",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "28",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "28",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50100": {},
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "22",
+                    "valor": "69.39",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "22",
+                    "valor": "73.7",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "22",
+                    "valor": "73.36",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "22",
+                    "valor": "72.94",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "72.64",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "72.17",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "71.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "71.21",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "70.48",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "70.14",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "69.37",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "68.69",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "68.2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "67.63",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "67.2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "66.68",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "66.25",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "65.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "65.61",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "65.19",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "64.97",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "64.6",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "64.33",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "63.98",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "13696.0",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "1549448.37",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "3524185",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "3499136",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "3470023",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "3447506",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "3421106",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "3399005",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "3378417",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "3365916",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "3344540.22",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "3333506.04",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "3313356.56",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "3300276.51",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "3282512.76",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "1912124.07",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "1913855.22",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "1936017.18",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "1989145.62",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "2024774.37",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2256313.23",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "2307164.94",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "2290785.12",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "22",
+                    "valor": "2941",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "22",
+                    "valor": "9856",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "22",
+                    "valor": "2223",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "22",
+                    "valor": "976",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "22",
+                    "valor": "374",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "1857",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "945",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "884.91",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "1067.13",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "1037.46",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "2080.99",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "867.69",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "1056.81",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "1066.36",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "2302.23",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "3496.95",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "3607.38",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "4238.37",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "6907.72",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "2864.57",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "3600.61",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "2407.86",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "2684.65",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "6518.15",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "3569.14",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "3916.22",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "4988.22",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "4025.55",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "7865.01",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "1527.39",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "22",
+                    "valor": "21571.02",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "15354.99",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "24132.6",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "34252.74",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "15172.83",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "37117.89",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "17772.12",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "39282.93",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "34881.57",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "25048.71",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "29112.57",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "22517.28",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "26399.7",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "22100.94",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "20588.58",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "12501.09",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "21375.54",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "11034.18",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "20149.38",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "13080.15",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "17763.75",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "417522.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "417522.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "417522.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "417522.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "417522.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "417522.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "417522.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "417522.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "417522.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "415665.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "414720.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "413835.44",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "412768.31",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "411730.85",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "2080.99",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "867.69",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "1056.81",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "1066.36",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "2302.23",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "3496.95",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "3607.38",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "4238.37",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "6907.72",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "2864.57",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "3600.61",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "2407.86",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "2684.65",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "6518.15",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "3569.14",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "3916.22",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "4988.22",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "4025.55",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "7865.01",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "1527.39",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "28.42",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "28.72",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "29.37",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "28.63",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "28.17",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "28.6",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "28.71",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "29.16",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "40",
+                    "nombre": "San Martín"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "28",
+                    "nombre": "San Martín"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "42",
+                    "nombre": "San Martín"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "23",
+                    "nombre": "San Martín"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "18",
+                    "nombre": "San Martín"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "18",
+                    "nombre": "San Martín"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "21",
+                    "nombre": "San Martín"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "11",
+                    "nombre": "San Martín"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "16",
+                    "nombre": "San Martín"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "6",
+                    "nombre": "San Martín"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "1673.1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "1673.8",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "1334.8",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "1473.4",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "1488.9",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "1721.8",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "1172.8",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "7",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "28.42",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "28.72",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "29.37",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "28.63",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "28.17",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "28.6",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "28.71",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "29.16",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "272",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "215",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "278",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "91",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "122",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "226",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "307",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "383",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "343",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "380",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "322",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "215",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "135",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "100",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "161",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "176",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "194",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "161",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "205",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "176",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "238",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "12741",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "1850",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "25265",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "6804",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "16565",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "6404",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "42126",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "50658",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "19270",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "35717",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "16060",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "14092",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "33505",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "2509",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "8642",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "3500",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "2262",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2822",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "4432",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "2473",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "9700",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "4157",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "2314",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "11773",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "2640",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "1865",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "1995",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "4305",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "3359",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "2972",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "1707",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "1622",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "1029",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "4307",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "2381",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "3075",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "1487",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "6200",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2661",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "2646",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "1956",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "2935",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "12752",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "1858",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "25274",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "6805",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "16569",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "6404",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "42131",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "50662",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "19279",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "35743",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "16063",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "14097",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "33506",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "2512",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "8648",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "3502",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "2262",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2828",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "4432",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "2475",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "9700",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "803",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "456",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "2544",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "531",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "365",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "453",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "1000",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "649",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "515",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "314",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "278",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "229",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "486",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "82",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "163",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "116",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "1803",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "741",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "738",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "579",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "97",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "1358",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "355",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "3266",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "361",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "56",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "992",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "17",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "324",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "507",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "556",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "472",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "78",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "176.11",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "54.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "403",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "68",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "69",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "70",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "69",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "71",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "22",
+                    "valor": "73",
+                    "nombre": "San Martín"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "33.04",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "33.19",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "44.99",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "44.34",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "2904765",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "2660792",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "4825721",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "7868228",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "4171282",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "13655664",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "19651268",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "7.79",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "10.42",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "11.32",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "12.87",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "14.93",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "14.52",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "17.99",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "19.83",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "23.58",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "114382.55",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "105354.28",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "109700.43",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "110087.59",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "126907.62",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "135933.9",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "138491.49",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "143918.89",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "146234.3",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "0.84",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "0.77",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "0.79",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "0.78",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "0.8",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "0.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "0.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "0.87",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "0.88",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "4682055",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "6332610",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "7447503",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "8546322",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "7511125",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "6464957",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "8762594",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "9645934",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "11105172",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "12942623",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "12835989",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "16184353",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "18098145",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "21797922",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "64161.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "65659.43",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "92496.33",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "92638.78",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "0.59",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "0.54",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "0.55",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "0.55",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "0.56",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "0.59",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "0.6",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "0.61",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "0.62",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "50.55",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "49.49",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "51.27",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "51.24",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "37.73",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "57.74",
+                    "nombre": "San Martín"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "22",
+                    "valor": "60.67",
+                    "nombre": "San Martín"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "0.25",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "0.23",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "0.24",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "0.23",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "0.24",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "0.25",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "0.26",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "0.26",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "0.26",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "410.28",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "140",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "514.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "762.38",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "1377.45",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "2598.7",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2009.68",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "5261.32",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "4917.87",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "49021.09",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "45101.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "47014.47",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "47180.39",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "54388.98",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "58257.39",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "59353.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "61679.52",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "62671.84",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "163403.64",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "150456.13",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "156714.9",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "157267.98",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "181296.6",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "194191.29",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "197844.98",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "205598.41",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "208906.14",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "3092393",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "3203857",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "15484044",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "20189066",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "17772705",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "28255509",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "36659616",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "4",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "10",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "4",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "4",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50022": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "117",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "9",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "10",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "40",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "43",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "0",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "0",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "0",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "0",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "0",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "0",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "0",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "7",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "11",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "10",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "22",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "7",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "16",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "10",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "4",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50026": {},
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "23",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "31",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "34",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "31",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "33",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "35",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "9",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "4",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "7.49",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "6.59",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "4.84",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "2.88",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "3.12",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "3.03",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "2.99",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "3.05",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2.64",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "2.66",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "9.91",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "37.2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "38",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "64",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "67.1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "68.6",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "69.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "69.2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "69.2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "70.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "74.8",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "69.48",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "70.34",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "106001",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "91914",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "145374",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "64403",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "63413",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "83571",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "77258",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "103970",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "80623",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "57607",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "54401",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "50882",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "16773",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "23543",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "40799",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "31802",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "17840",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "17230",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "16684",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "10051",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "14504",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "29369",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "28974",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "7579",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "9441",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "9019",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "9265",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "9907",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "4235",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "5684",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "8341",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "7209",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "7583913",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "8533661",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "9055409",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "9022303",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "8933044",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "9239677",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "9235985",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "9183545",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "9810508",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "10252174",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "10532988",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "10669562",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "11112267",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "11256154",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "11474795",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "79.76",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "80.81",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "83.19",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "87.69",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "87.1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "87.7",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "87.8",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "90.19",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "91.24",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "89.81",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "22",
+                    "valor": "91",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "22",
+                    "valor": "141",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "22",
+                    "valor": "168",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "182",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "172",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "233",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "243",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "190",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "401",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "316",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "845",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "1040",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "1486",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "1802",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "2547",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "1367",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "2040",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "2511",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "2936",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "2397",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2498",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "3079",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "3008",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "13.88",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "19.53",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "26.35",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "29.71",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "26.94",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "33.03",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "36.26",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "40.65",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "38.72",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "67.1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "47.16",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "50.13",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "57.21",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "61.68",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "22",
+                    "valor": "34183.98",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "22",
+                    "valor": "23619.76",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "22",
+                    "valor": "24082.87",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "37730.51",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "33330.51",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "30582.26",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "51086.74",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "50754.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "27508.23",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "14921.42",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "20675.47",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "17700.81",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "18570.75",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "14342.19",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "10902",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "6132.77",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "7532.82",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "5861.88",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "4087.36",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "4866",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "7980.48",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "20778.31",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "28628.55",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "19627.46",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "22",
+                    "valor": "49328.44",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "22",
+                    "valor": "45598",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "22",
+                    "valor": "41502.46",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "64987.08",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "70466.77",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "62785.17",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "88682.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "105668.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "44525.29",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "23311.02",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "42012.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "33661.87",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "35655.84",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "25068.13",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "25077",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "19269.77",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "8106.97",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "12780.19",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "16168.61",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "5480.4",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "16058.84",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "12916.59",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "14847.49",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "1.43",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "1.28",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "1.52",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "1.29",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "2.07",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "1.44",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "1.33",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "1.42",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "1.44",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "32.06",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "100.0",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "15.56",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "19.39",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "100.0",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "100.0",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "19.39",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "100.0",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "100.0",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "39",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "1",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "51.3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "60",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "22",
+                    "valor": "71.8",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "22",
+                    "valor": "75.8",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "22",
+                    "valor": "76.7",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "22",
+                    "valor": "71.57",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "22",
+                    "valor": "74.66",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "22",
+                    "valor": "70.25",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "69.05",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "65.64",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "61.63",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "62.32",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "65.93",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "64.93",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "64.72",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "60.98",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "65.44",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "60.04",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "58.78",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "58.17",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "57.54",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "60.97",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "55.4",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "57.8",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "17840",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "17230",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "16684",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "10051",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "14504",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "29369",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "28974",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "7579",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "9441",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "9019",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "9265",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "9907",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "4235",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "5684",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "8341",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "7209",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "106001",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "91914",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "145374",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "64403",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "63413",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "83571",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "77258",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "103970",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "80623",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "57607",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "54401",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "50882",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "16773",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "23543",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "40799",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "31802",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "100",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "33.33",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "20",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "16.67",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "20",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "20",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "12.5",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "63.7",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "110.3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "110.6",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "52.5",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "50.18",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "45.3",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "47.2",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "37",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "32.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "34.23",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "36.31",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "37.85",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "38.64",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "46.36",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "43.99",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "47.37",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "48.06",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "53.52",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "54.02",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "56.53",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "59.47",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "53.44",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "53.05",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "54.73",
+                    "nombre": "San Martin"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "22",
+                    "valor": "66.12",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "22",
+                    "valor": "69.23",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "22",
+                    "valor": "72.08",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "22",
+                    "valor": "74.48",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "22",
+                    "valor": "79.76",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "22",
+                    "valor": "84.41",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "22",
+                    "valor": "87.66",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "22",
+                    "valor": "88.43",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "22",
+                    "valor": "90.16",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "22",
+                    "valor": "91.69",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "22",
+                    "valor": "93.63",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "22",
+                    "valor": "94.82",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "22",
+                    "valor": "95.28",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "22",
+                    "valor": "93.55",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "22",
+                    "valor": "94.09",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "22",
+                    "valor": "93.85",
+                    "nombre": "San Martin"
+                }
+            ]
+        }
+    }
+}

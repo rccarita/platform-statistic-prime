@@ -1,0 +1,5491 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "72.89",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "67.06",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "65.46",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "58.18",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "57.93",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "52.98",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "98.77",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "108.24",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "64.65",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "66.84",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "66.22",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "65.36",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "64.62",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "61.55",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50009": {},
+        "50010": {},
+        "50011": {},
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "87.31",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "90.84",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "90.73",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "91.62",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "91.4",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "91.9",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "91.6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "94.56",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "94.34",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "93.17",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "26136654.96",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "10923215.96",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "25027128.36",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "22796560",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "11260918",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "2798229",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "3537938",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "17445679",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "7648104",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "13",
+                    "valor": "25.41",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "13",
+                    "valor": "25.86",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "13",
+                    "valor": "26.28",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "61.76",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "60.68",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "94.55",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "92.98",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "92.3",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "92.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "92.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "92.69",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "93.61",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "95.62",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "97.71",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "99.49",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "100.99",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "102.42",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "103.4",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "104.49",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "105.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "105.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "109.12",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "112.25",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "13",
+                    "valor": "38856",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "13",
+                    "valor": "40119",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "13",
+                    "valor": "41312",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "98217",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "97590",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "153777",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "152847",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "153251",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "155411",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "156646",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "158672",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "162026",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "167325",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "172968",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "178433",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "183931",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "190073",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "196040",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "202558",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "208882",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "213166",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "223529",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "233176",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "25495.42",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "10",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50100": {},
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "13",
+                    "valor": "5.82",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "13",
+                    "valor": "2.72",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "13",
+                    "valor": "2.72",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "13",
+                    "valor": "2.72",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "2.72",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "2.71",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "2.71",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "2.71",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "2.71",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "2.71",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "2.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "2.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "2.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "2.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "2.69",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "2.69",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "2.69",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "2.69",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "2.68",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "2.68",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "2.67",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "2.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "2.67",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "2.66",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "9407.3",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "113443.56",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "68838",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "68793",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "68757",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "68710",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "68661",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "68555",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "68478",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "68371",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "68228.1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "68190.93",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "68062.56",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "68037.66",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "67938.57",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "130262.22",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "154112.58",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "152837.1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "144232.02",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "142180.29",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "133363.71",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "132884.28",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "135208.08",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "13",
+                    "valor": "2175",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "13",
+                    "valor": "7229",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "13",
+                    "valor": "1954",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "13",
+                    "valor": "3597",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "13",
+                    "valor": "3141",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "13",
+                    "valor": "3141",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "13",
+                    "valor": "1889",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "1396",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "1133",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "1192",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "1336",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "1314",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "3310",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "4473",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "8310",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "8329",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "3704",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "2112",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "1446",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "1386",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "2092",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "497",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "398",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "600",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "336",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "147.96",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "131.8",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "40.88",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "172.54",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "445.46",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "9.42",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "33.88",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "66.74",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "95.1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "27.16",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "34.65",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "38.81",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "62.63",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "23.37",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "39.64",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "171.13",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "1667.83",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "169.61",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "202.82",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "806.46",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "219.12",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "165.96",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "195.57",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "13",
+                    "valor": "27.18",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "15.84",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "49.86",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "82.26",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "31.59",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "45.54",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "20.52",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "57.87",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "110.34",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "45.54",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "35.19",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "47.52",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "48.69",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "106.02",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "77.67",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "106.92",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "142.47",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "37.17",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "128.07",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "25.2",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "99.09",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "294116.82",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "285786.78",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "282083.11",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "279971.49",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "278525.15",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "277139.15",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "275047.15",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "274549.75",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "274152.04",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "273543.04",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "273207.04",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "273059.08",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "272927.28",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "272886.4",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "172.54",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "445.46",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "9.42",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "33.88",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "66.74",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "95.1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "27.16",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "34.65",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "38.81",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "62.63",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "23.37",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "39.64",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "171.13",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "1667.83",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "169.61",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "202.82",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "806.46",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "219.12",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "165.96",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "195.57",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "24.62",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "26.09",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "25.25",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "24.89",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "23.66",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "24.23",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "24.07",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "23.16",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "22.32",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "27.07",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "62",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "65",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "49",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "36",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "25",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "33",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "37",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "44",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "27",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "24",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "11.4",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "21.0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "17.1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "83.2",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "14.1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "22.2",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "9.8",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "4.1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "42.4",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "13",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "24.62",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "26.09",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "25.25",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "24.89",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "23.66",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "24.23",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "24.07",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "23.16",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "22.32",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "27.07",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "32",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "43",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "71",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "74",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "70",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "18",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "40",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "40",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "68",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "46",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "46",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "31",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "26",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "40",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "357",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "64",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "48",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "39",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "94",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "93",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "268",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "1734",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "444",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "4881",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "5931",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "8799",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "2334",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "3280",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "6224",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "3463",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "1914",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "6777",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "12161",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "2015",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "22873",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "403833",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "2489",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "1507",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "3405",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "19127",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "9729",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "61854",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "231",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "100",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "509",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "555",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "526",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "260",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "1035",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "5073",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "1150",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "368",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "45",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "997",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "152",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "67",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "80686",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "30",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "468",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "128",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "407",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "1521",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "14110",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "1744",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "445",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "4883",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "5938",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "8802",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "2334",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "3307",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "6226",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "3469",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "1916",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "6778",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "12163",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "2019",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "22875",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "403860",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "2489",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "1509",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "3405",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "19127",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "9737",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "61855",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "34",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "19",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "131",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "116",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "99",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "59",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "240",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "1044",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "195",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "25",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "33",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "141",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "17",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "9",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "12605",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "11",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "154",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "39",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "117",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "488",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "948",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "97",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "1571",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "15",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "32",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "4",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "814",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "2",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "11560",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "66",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "34.8",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "370.75",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "639.45",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "123.06",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "6499.92",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "75",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "75",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "75",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "78",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "80",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "13",
+                    "valor": "82",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "0.53",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "0.52",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "2447196",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "2360222",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "2181976",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "1789060",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "5334405",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "2581223",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "4685628",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "14.81",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "12.39",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "14.74",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "16.19",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "17.93",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "15.78",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "19.82",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "21.96",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "32.89",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "263338.36",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "276843.31",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "265983.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "272369.6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "299257.04",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "304851.52",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "309527.12",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "317528.05",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "325802.32",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "0.73",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "0.71",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "0.72",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "0.73",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "0.76",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "0.75",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "0.75",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "0.76",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "0.77",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "10562807",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "12813463",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "15851697",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "21568264",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "25015175",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "27210616",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "23045375",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "27744486",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "30838536",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "34753463",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "31237397",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "39970524",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "44986910",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "68323771",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "1998.69",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "2006.31",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "0.51",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "0.53",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "0.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "0.51",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "0.53",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "0.53",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "0.53",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "0.53",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "0.54",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "122.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "122.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "144.61",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "147.61",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "121.73",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "155.78",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "13",
+                    "valor": "187.78",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "0.22",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "0.18",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "0.22",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "0.22",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "0.23",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "0.23",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "0.23",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "0.23",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "0.23",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "681.21",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "674",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "676.31",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "1565.81",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "4331.4",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "4282",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "1949.73",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "9037.84",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "6632.75",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "112859.3",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "91325.23",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "113993.02",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "116729.83",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "128253.02",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "130650.65",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "132654.48",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "136083.45",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "139629.57",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "376197.66",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "368168.54",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "379976.72",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "389099.42",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "427510.05",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "435502.18",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "442181.6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "453611.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "465431.89",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "3055977",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "4889943",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "37542085",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "33719908",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "62416789",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "60386388",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "69787401",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "3",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "3",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "177",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "42",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "39",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "96",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "106",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "2",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "9",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "4",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "8",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "27",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "23",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "15",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "10",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "28",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "42",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "22",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "1.0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "4.0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "1.0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "1.0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "1.0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "2.0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "2.0",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "3.0",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "77",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "127",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "129",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "135",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "173",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "120",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "14",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "12",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "8",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "18",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "11",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "13",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "16",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "11",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "11",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "14",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "7",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "72.89",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "67.06",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "65.46",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "58.18",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "57.93",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "52.98",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "98.77",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "108.24",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "64.65",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "66.84",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "66.22",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "65.36",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "64.62",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "61.55",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "64.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "64.4",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "77.8",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "77.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "79.6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "83.2",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "84.4",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "84.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "83.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "81.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "85.24",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "86.47",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "247066",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "224676",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "237262",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "153471",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "134869",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "140433",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "115758",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "163690",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "120960",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "106141",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "136698",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "128745",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "34649",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "36312",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "70427",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "54672",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "29379",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "29780",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "27579",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "19264",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "23905",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "36916",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "32874",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "26352",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "30400",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "26283",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "23121",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "25060",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "10250",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "10476",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "12289",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "11446",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "7722466",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "7249712",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "9180965",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "11634422",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "13161957",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "12731312",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "15013308",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "216872",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "12323885",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "11836937",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "12258801",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "13130816",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "13266108",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "14272964",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "87.31",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "90.84",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "90.73",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "91.62",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "91.4",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "91.9",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "91.6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "94.56",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "94.34",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "93.17",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "13",
+                    "valor": "6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "13",
+                    "valor": "12",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "13",
+                    "valor": "23",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "15",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "16",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "29",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "18",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "15",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "208",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "74",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "64",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "9",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "10",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "50",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "126",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "125",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "129",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "142",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "188",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "274",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "346",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "525",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "35.18",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "47.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "43.74",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "51.45",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "51.84",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "51.12",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "47.76",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "74.67",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "67.59",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "77.85",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "76.61",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "82.61",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "79.27",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "107.66",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "13",
+                    "valor": "315.81",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "13",
+                    "valor": "3610",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "13",
+                    "valor": "7817.19",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "7266.76",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "7471.93",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "10820.23",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "13768.15",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "12856.81",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "12244.61",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "8312.6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "6339.13",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "7263.56",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "4080.9",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "2777.17",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "2998",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "271.42",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "40.8",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "13",
+                    "valor": "8473.71",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "13",
+                    "valor": "44732.96",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "13",
+                    "valor": "63580.14",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "56653.15",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "53056.68",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "70490.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "99662.07",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "125516.75",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "168735.29",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "110675.39",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "150280.69",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "147209.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "94778.91",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "92710.42",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "117342",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "7412.13",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "31426.3",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "21081.69",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "39476.29",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "41.67",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "1.2",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "1.08",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "1.6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "1.39",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "1.26",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "1.42",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "1.27",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "1.14",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "1.54",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "47.41",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "72.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "100.0",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "72.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "100.0",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "260",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "463",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "39",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "13",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "4",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "3",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "4",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "4",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "3",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "1",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "59.9",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "67.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "61",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "72",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "13",
+                    "valor": "66.8",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "13",
+                    "valor": "67",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "13",
+                    "valor": "67.8",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "13",
+                    "valor": "64.91",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "13",
+                    "valor": "68.59",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "13",
+                    "valor": "67.46",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "60.68",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "63.48",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "61.87",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "60.24",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "61.87",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "57.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "60.41",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "58.29",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "60.04",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "57.34",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "55.32",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "58.53",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "51.33",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "52.86",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "53.28",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "54.34",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "29379",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "29780",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "27579",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "19264",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "23905",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "36916",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "32874",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "26352",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "30400",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "26283",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "23121",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "25060",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "10250",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "10476",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "12289",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "11446",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "247066",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "224676",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "237262",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "153471",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "134869",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "140433",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "115758",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "163690",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "120960",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "106141",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "136698",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "128745",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "34649",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "36312",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "70427",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "54672",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "80",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "83.33",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "60",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "75",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "80",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "83.33",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "100",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "709.1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "727.7",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "683.1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "678.5",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "751.17",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "793.1",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "710.6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "688.18",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "54.88",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "57.33",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "61.58",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "64.21",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "65.92",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "67.83",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "68.65",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "69.6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "73.56",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "73.49",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "74.18",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "75.35",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "77.13",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "74.01",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "75.24",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "74.62",
+                    "nombre": "La Libertad"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "13",
+                    "valor": "78.03",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "13",
+                    "valor": "80.32",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "13",
+                    "valor": "83.68",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "13",
+                    "valor": "83.33",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "13",
+                    "valor": "86.89",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "13",
+                    "valor": "90",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "13",
+                    "valor": "93.31",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "13",
+                    "valor": "93.82",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "13",
+                    "valor": "94.48",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "13",
+                    "valor": "95.6",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "13",
+                    "valor": "95.95",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "13",
+                    "valor": "97.11",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "13",
+                    "valor": "97.64",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "13",
+                    "valor": "98.57",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "13",
+                    "valor": "98.39",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "13",
+                    "valor": "98.38",
+                    "nombre": "La Libertad"
+                }
+            ]
+        }
+    }
+}

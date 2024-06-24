@@ -1,0 +1,9 @@
+<div *ngFor="let item of listIndicators()">
+    <div *ngIf="item.ambito === zoneSelected() && item.tematica === thematicSelected()" class="mt-4">
+        <div class="flex items-center">
+            <p-radioButton [(ngModel)]="indicatorSelected" [inputId]="item.id_indicador"
+                (ngModelChange)="sendIndicatorParams()" [value]="item"></p-radioButton>
+            <label [for]="item.id_indicador" class="ml-2">{{ item.indicador }}</label>
+        </div>
+    </div>
+</div>

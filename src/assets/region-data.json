@@ -1,0 +1,366 @@
+{
+    "00": {
+        "data": [
+            {
+                "region": "Perú",
+                "population": "29 381 884",
+                "surface": "1 285 215,6",
+                "density": 22.9,
+                "urbanPopulation": 23311893,
+                "ruralPopulation": 6069991,
+                "male": 14450757,
+                "female": 14931127
+            }
+        ]
+    },
+    "01": {
+        "data": [
+            {
+                "region": "Amazonas",
+                "population": "379 384",
+                "surface": "39 249,13",
+                "density": 9.7,
+                "urbanPopulation": 157560,
+                "ruralPopulation": 221824,
+                "male": 192861,
+                "female": 189537
+            }
+        ]
+    },
+    "02": {
+        "data": [
+            {
+                "region": "Áncash",
+                "population": "1 083 519",
+                "surface": "35 889,91",
+                "density": 30.2,
+                "urbanPopulation": 686728,
+                "ruralPopulation": 396791,
+                "male": 534551,
+                "female": 551470
+            }
+        ]
+    },
+    "03": {
+        "data": [
+            {
+                "region": "Apurímac",
+                "population": "405 759",
+                "surface": "20 895.77",
+                "density": 19.4,
+                "urbanPopulation": 185964,
+                "ruralPopulation": 219795,
+                "male": 200729,
+                "female": 206252
+            }
+        ]
+    },
+    "04": {
+        "data": [
+            {
+                "region": "Arequipa",
+                "population": "1 382 730",
+                "surface": "63 345.39",
+                "density": 21.8,
+                "urbanPopulation": 1268941,
+                "ruralPopulation": 113789,
+                "male": 674380,
+                "female": 699413
+            }
+        ]
+    },
+    "05": {
+        "data": [
+            {
+                "region": "Ayacucho",
+                "population": "616 176",
+                "surface": "43 821,08",
+                "density": 14.1,
+                "urbanPopulation": 358045,
+                "ruralPopulation": 258131,
+                "male": 303869,
+                "female": 312580
+            }
+        ]
+    },
+    "06": {
+        "data": [
+            {
+                "region": "Cajamarca",
+                "population": "1 341 012",
+                "surface": "33 304,32",
+                "density": 40.3,
+                "urbanPopulation": 475068,
+                "ruralPopulation": 865944,
+                "male": 662030,
+                "female": 689119
+            }
+        ]
+    },
+    "07": {
+        "data": [
+            {
+                "region": "Callao",
+                "population": "994 494",
+                "surface": "145,91",
+                "density": 6815.8,
+                "urbanPopulation": 994494,
+                "ruralPopulation": 0,
+                "male": 481781,
+                "female": 503729
+            }
+        ]
+    },
+    "08": {
+        "data": [
+            {
+                "region": "Cusco",
+                "population": "1 205 527",
+                "surface": "71 986,5",
+                "density": 16.7,
+                "urbanPopulation": 731252,
+                "ruralPopulation": 474275,
+                "male": 597287,
+                "female": 608054
+            }
+        ]
+    },
+    "09": {
+        "data": [
+            {
+                "region": "Huancavelica",
+                "population": "347 639",
+                "surface": "22 125,2",
+                "density": 15.7,
+                "urbanPopulation": 105862,
+                "ruralPopulation": 241777,
+                "male": 171672,
+                "female": 182166
+            }
+        ]
+    },
+    "10": {
+        "data": [
+            {
+                "region": "Huánuco",
+                "population": "721 047",
+                "surface": "37 265,77",
+                "density": 19.3,
+                "urbanPopulation": 375432,
+                "ruralPopulation": 345615,
+                "male": 359079,
+                "female": 366769
+            }
+        ]
+    },
+    "11": {
+        "data": [
+            {
+                "region": "Ica",
+                "population": "850 765",
+                "surface": 21327.83,
+                "density": 39.9,
+                "urbanPopulation": 786417,
+                "ruralPopulation": 64348,
+                "male": 412369,
+                "female": 426276
+            }
+        ]
+    },
+    "12": {
+        "data": [
+            {
+                "region": "Junín",
+                "population": "1 246 038",
+                "surface": "44 328,8",
+                "density": 28.1,
+                "urbanPopulation": 884928,
+                "ruralPopulation": 361110,
+                "male": 608282,
+                "female": 637436
+            }
+        ]
+    },
+    "13": {
+        "data": [
+            {
+                "region": "La Libertad",
+                "population": "1 778 080",
+                "surface": "25 499,9",
+                "density": 69.7,
+                "urbanPopulation": 1403555,
+                "ruralPopulation": 374525,
+                "male": 862537,
+                "female": 906520
+            }
+        ]
+    },
+    "14": {
+        "data": [
+            {
+                "region": "Lambayeque",
+                "population": "1 197 260",
+                "surface": "14 479,52",
+                "density": 82.7,
+                "urbanPopulation": 971121,
+                "ruralPopulation": 226139,
+                "male": 575879,
+                "female": 614477
+            }
+        ]
+    },
+    "15": {
+        "data": [
+            {
+                "region": "Lima",
+                "population": "9 485 405",
+                "surface": "34 828,12",
+                "density": 272.3,
+                "urbanPopulation": 9324796,
+                "ruralPopulation": 160609,
+                "male": 4621125,
+                "female": 4843884
+            }
+        ]
+    },
+    "16": {
+        "data": [
+            {
+                "region": "Loreto",
+                "population": "883 510",
+                "surface": "368 773,16",
+                "density": 2.4,
+                "urbanPopulation": 606743,
+                "ruralPopulation": 276767,
+                "male": 446118,
+                "female": 442706
+            }
+        ]
+    },
+    "17": {
+        "data": [
+            {
+                "region": "Madre de Dios",
+                "population": "141 070",
+                "surface": "85 300,54",
+                "density": 1.7,
+                "urbanPopulation": 116743,
+                "ruralPopulation": 24327,
+                "male": 72912,
+                "female": 66345
+            }
+        ]
+    },
+    "18": {
+        "data": [
+            {
+                "region": "Moquegua",
+                "population": "174 863",
+                "surface": "15 733,97",
+                "density": 11.1,
+                "urbanPopulation": 151891,
+                "ruralPopulation": 22972,
+                "male": 87936,
+                "female": 86647
+            }
+        ]
+    },
+    "19": {
+        "data": [
+            {
+                "region": "Pasco",
+                "population": "254 065",
+                "surface": "25 025,84",
+                "density": 10.2,
+                "urbanPopulation": 160269,
+                "ruralPopulation": 93796,
+                "male": 128833,
+                "female": 127104
+            }
+        ]
+    },
+    "20": {
+        "data": [
+            {
+                "region": "Piura",
+                "population": "1 856 809",
+                "surface": "35 657,5",
+                "density": 52.1,
+                "urbanPopulation": 1471833,
+                "ruralPopulation": 384976,
+                "male": 917946,
+                "female": 937659
+            }
+        ]
+    },
+    "21": {
+        "data": [
+            {
+                "region": "Puno",
+                "population": "1 172 697",
+                "surface": "71 999",
+                "density": 16.3,
+                "urbanPopulation": 630648,
+                "ruralPopulation": 542049,
+                "male": 580275,
+                "female": 596585
+            }
+        ]
+    },
+    "22": {
+        "data": [
+            {
+                "region": "San Martin",
+                "population": "813 381",
+                "surface": "51 288,07",
+                "density": 15.9,
+                "urbanPopulation": 554079,
+                "ruralPopulation": 259302,
+                "male": 414481,
+                "female": 398123
+            }
+        ]
+    },
+    "23": {
+        "data": [
+            {
+                "region": "Tacna",
+                "population": "329 332",
+                "surface": "16 075,89",
+                "density": 20.5,
+                "urbanPopulation": 296788,
+                "ruralPopulation": 32544,
+                "male": 163125,
+                "female": 164165
+            }
+        ]
+    },
+    "24": {
+        "data": [
+            {
+                "region": "Tumbes",
+                "population": "224 863",
+                "surface": "4 669,2",
+                "density": 48.2,
+                "urbanPopulation": 210592,
+                "ruralPopulation": 14271,
+                "male": 113061,
+                "female": 111187
+            }
+        ]
+    },
+    "25": {
+        "data": [
+            {
+                "region": "Ucayali",
+                "population": "496 459",
+                "surface": "102 199,28",
+                "density": 4.9,
+                "urbanPopulation": 402144,
+                "ruralPopulation": 94315,
+                "male": 250301,
+                "female": 245493
+            }
+        ]
+    }
+}

@@ -1,0 +1,5719 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "66.74",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "65.65",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "65.61",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "59.33",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "51.04",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "63",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "65.97",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "65.51",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "55.79",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "67.51",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "64.83",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "66.6",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "78.42",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "82.61",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50009": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "164.66",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50010": {},
+        "50011": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "1294",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "1288",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "89.76",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "91.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "93.26",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "92.36",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "94.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "93.3",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "94.5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "90.09",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "93.82",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "94.77",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "3837739",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "14210914",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "22861731.04",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "9895945",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "357299",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "21252754",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "6269232",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "20559323",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "08",
+                    "valor": "24.62",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "08",
+                    "valor": "27.12",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "08",
+                    "valor": "28.02",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "29.1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "29.32",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "29.55",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "29.88",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "30.95",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "32.59",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "34.53",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "36.77",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "39.37",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "43.38",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "47.79",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "51.73",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "54.74",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "57.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "61.46",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "64.32",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "66.65",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "67.65",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "69.96",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "72.17",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "08",
+                    "valor": "29251",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "08",
+                    "valor": "32412",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "08",
+                    "valor": "33603",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "34993",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "35342",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "35705",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "36204",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "37592",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "39688",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "42175",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "45090",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "48491",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "53675",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "59459",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "64820",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "69213",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "73997",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "79874",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "84942",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "89338",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "91802",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "95835",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "99644",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "71986.5",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "29",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {},
+        "50100": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "1979",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "1979",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "1979",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "1979",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "1979",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "1979",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "1979",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "1979",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "1979",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "1979",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "11276": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "08",
+                    "valor": "43.78",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "08",
+                    "valor": "43.72",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "08",
+                    "valor": "43.64",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "43.60",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "43.56",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "43.52",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "43.47",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "43.42",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "43.38",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "43.35",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "43.29",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "43.24",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "43.19",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "43.13",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "43.08",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "43.01",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "42.95",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "42.87",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "42.70",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "42.56",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "42.46",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "42.30",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "42.27",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "42.22",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "131262.4",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "1470551.4",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "3112378",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "3109049",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "3104861",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "3101359",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "3096272",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "3091464",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "3085764",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "3073583",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "3063940.47",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "3056837.67",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "3047979.42",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "3042630.18",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "3039397.74",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "1374038.91",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "1383343.47",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "1431893.97",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "1464716.88",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "1488110.4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "1527004.98",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "1525339.71",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "1555628.4",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "08",
+                    "valor": "4192",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "08",
+                    "valor": "9546",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "08",
+                    "valor": "1704",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "08",
+                    "valor": "3696",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "08",
+                    "valor": "3786",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "08",
+                    "valor": "3736",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "08",
+                    "valor": "3127",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "2969",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "991",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "1954",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "2475",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "1761",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "2008",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "2172",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "5004",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "4987",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "3392",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "488",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "609",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "176",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "213",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "627",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "65",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "693",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "675",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "647.47",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "416.12",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "347.06",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "54.98",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "82.98",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "376.37",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "339.68",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "413.61",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "296.26",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "514.82",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "605.15",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "983.01",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "744.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "601.25",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "338.68",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "669.37",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "6323.46",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "2184.39",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "2922.57",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "3369.42",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "1673.31",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "2330.28",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "257.49",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "08",
+                    "valor": "2569.86",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "3127.5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "3128.4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "3640.32",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "3313.89",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "2867.13",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "2452.95",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "4359.96",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "3609.99",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "3328.38",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "4188.78",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "3501.18",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "5087.43",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "4807.53",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "5700.06",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "12181.14",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "9642.6",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "7102.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "8858.34",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "5349.24",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "3232.44",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "1291750.28",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "1286763.12",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "1283371.57",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "1282883.7",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "1282274.69",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "1282098.69",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "1281885.69",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "1281258.89",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "1281193.91",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "1280500.91",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "1279825.91",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "1279178.44",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "1278762.32",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "1278415.27",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "54.98",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "82.98",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "376.37",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "339.68",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "413.61",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "296.26",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "514.82",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "605.15",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "983.01",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "744.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "601.25",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "338.68",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "669.37",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "6323.46",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "2184.39",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "2922.57",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "3369.42",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "1673.31",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "2330.28",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "257.49",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "21.52",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "21.19",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "22.03",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "21.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "20.73",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "21.07",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "21.72",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "21.4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "22.2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "21.8",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "12",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "15",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "3",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "14",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "12",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "15",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "13",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "10",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "6",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "687.0",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "548.1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "788.5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "838.1",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "16",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "21.52",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "21.19",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "22.03",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "21.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "20.73",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "21.07",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "21.72",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "21.4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "22.2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "21.8",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "230",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "212",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "215",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "296",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "428",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "203",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "130",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "316",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "464",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "381",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "552",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "373",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "294",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "438",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "274",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "449",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "88",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "328",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "538",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "603",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "615",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "20864",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "65068",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "48125",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "9889",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "96751",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "119338",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "84089",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "78235",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "61623",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "45578",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "41563",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "6876",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "152217",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "363338",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "81957",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "246195",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "1209",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "42612",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "39625",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "61757",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "43128",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "5051",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "1338",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "1589",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "2221",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "7200",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "4867",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "19",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "28755",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "8899",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "4631",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "5059",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "4734",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "1734",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "7299",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "365",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "968",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "322",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "1050",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "1108",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "1105",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "681",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "20897",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "65088",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "48131",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "9895",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "96752",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "119340",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "84089",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "78265",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "61648",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "45598",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "41624",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "6897",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "152220",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "363340",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "81965",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "246209",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "1211",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "42634",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "39642",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "61764",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "43134",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "952",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "256",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "278",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "377",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "691",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "174",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "43",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "3790",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "1070",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "298",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "469",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "270",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "60",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "59",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "19",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "133",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "162",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "381",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "377",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "455",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "60",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "373",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "10",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "1203",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "2925",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "3249",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "1487",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "3505",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "451",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "1395",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "13767",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "555",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "4273",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "1438.99",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "4567.97",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "7813.38",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "4415.3",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "23008.04",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "98",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "98",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "106",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "110",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "111",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "08",
+                    "valor": "132",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "1.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "1.34",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "5.7",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "2.07",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "5.86",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "5.7",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "6.08",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "15567975",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "21737026",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "12740173",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "15114485",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "19379859",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "23864255",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "26356118",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "14.06",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "13.44",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "23.34",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "27.82",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "27.9",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "32.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "38.11",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "35.57",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "39.98",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "172361.24",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "150302.47",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "152967.14",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "156747.69",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "159672.81",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "161624.76",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "164015.17",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "165215.76",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "164334.25",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "0.91",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "0.85",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "0.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "0.81",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "0.71",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "0.72",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "0.72",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "0.72",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "0.72",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "17224685",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "17205837",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "21859340",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "28121368",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "31558497",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "18399599",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "17692669",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "30904365",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "37043305",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "36847746",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "43170591",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "51724895",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "48721974",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "55195659",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "2639.38",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "2996.48",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "12996.24",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "4775.05",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "13721.89",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "13455.11",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "14269.09",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "0.64",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "0.55",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "0.56",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "0.57",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "0.5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "0.5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "0.51",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "0.51",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "0.5",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "21067": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "08",
+                    "valor": "10",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "45.68",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "44.2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "48.41",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "54.14",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "49.39",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "106.34",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "08",
+                    "valor": "125.26",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "0.27",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "0.3",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "0.24",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "0.24",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "0.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "0.22",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "0.22",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "0.22",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "0.22",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "370.32",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "312",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "465.66",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "1218.91",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "4636.07",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "5480.4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "2807.77",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "9650.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "10646.06",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "73869.1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "81696.63",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "65557.35",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "67177.58",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "68431.2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "69267.75",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "70292.22",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "70806.75",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "70428.96",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "246230.35",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "231999.1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "218524.49",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "223925.27",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "228104.01",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "230892.51",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "234307.38",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "236022.52",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "234763.21",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "16333123",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "22463140",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "44494691",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "47978978",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "62318084",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "70070922",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "75541566",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "2",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "484",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "78",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "50",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "97",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "149",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "0",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "0",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "24",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "43",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "37",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "20",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "11",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "36",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "36",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "28",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "1.0",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "2.0",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "1.0",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "1.0",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "86",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "105",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "77",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "76",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "144",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "60",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "10",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "13",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "24",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "6",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "19",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "11",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "14",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "33",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "10",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "7",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "10",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "66.74",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "65.65",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "65.61",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "59.33",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "51.04",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "63",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "65.97",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "65.51",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "55.79",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "67.51",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "64.83",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "66.6",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "78.42",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "82.61",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "54.4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "56.6",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "73.1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "72.2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "73.3",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "77.5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "75",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "79.2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "77.6",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "72",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "79.22",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "81.16",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "198321",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "153726",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "136250",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "74569",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "99407",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "109089",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "85033",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "122426",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "104696",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "83764",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "113977",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "100592",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "29827",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "39375",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "90933",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "68367",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "23129",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "22341",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "17970",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "12706",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "24762",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "38333",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "31618",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "21429",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "20552",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "19451",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "20695",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "17688",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "9805",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "12720",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "14031",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "11916",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "6562857",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "5447191",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "5284071",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "5491406",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "6916190",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "9676200",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "7120237",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "7300393",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "7640346",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "9767191",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "7342430",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "9005343",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "8959149",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "5705048",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "5566959",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "89.76",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "91.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "93.26",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "92.36",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "94.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "93.3",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "94.5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "90.09",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "93.82",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "94.77",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "08",
+                    "valor": "64",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "08",
+                    "valor": "63",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "08",
+                    "valor": "184",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "197",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "120",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "231",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "241",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "299",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "376",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "350",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "484",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "590",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "792",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "986",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "1090",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "1125",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "1982",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "2203",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "1731",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "1163",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "2040",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "2103",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "2038",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "60.4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "63.1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "67.24",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "118.62",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "151.16",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "136.68",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "166.28",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "149.99",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "157.39",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "168.48",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "170.94",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "164.81",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "198.77",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "249.57",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "08",
+                    "valor": "13330.5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "08",
+                    "valor": "6488.02",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "08",
+                    "valor": "6762.83",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "7161.72",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "8853.22",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "3665.28",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "14408.85",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "8515.49",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "23814.16",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "25522",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "23137.96",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "27035.38",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "34359.66",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "10235.23",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "10511",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "4210.06",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "410.76",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "1010.92",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "900.05",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "1581.06",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "1530.98",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "1098.13",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "08",
+                    "valor": "39229.65",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "08",
+                    "valor": "11195.35",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "08",
+                    "valor": "33645.72",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "40702.77",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "43296.46",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "26952.75",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "45458.91",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "60256.6",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "101319.69",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "106852.81",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "71007.27",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "119765.82",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "135686.97",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "99856",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "76548",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "8083.31",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "11435.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "43.67",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "1.92",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "1.97",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "2.51",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "2.47",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "2.68",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "2.42",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "2.47",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "2.18",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "2.23",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "2.47",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "18.85",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "100.0",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "31.18",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "37.68",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "41.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "100.0",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "37.68",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "41.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "100.0",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "99",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "56",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "12",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "18",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "13",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "9",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "14",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "11",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "15",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "15",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "3",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "2",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "3",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "5",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "2",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "68.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "73.7",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "70",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "80",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "08",
+                    "valor": "88.4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "08",
+                    "valor": "82.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "08",
+                    "valor": "83.9",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "08",
+                    "valor": "84.48",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "08",
+                    "valor": "87.08",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "08",
+                    "valor": "83.62",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "76.53",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "80.4",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "77.77",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "81.31",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "79.25",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "77.09",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "77.08",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "74.93",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "71.62",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "76.01",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "75.75",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "69.84",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "64.87",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "71.61",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "69.07",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "66.73",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "23129",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "22341",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "17970",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "12706",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "24762",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "38333",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "31618",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "21429",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "20552",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "19451",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "20695",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "17688",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "9805",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "12720",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "14031",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "11916",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "198321",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "153726",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "136250",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "74569",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "99407",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "109089",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "85033",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "122426",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "104696",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "83764",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "113977",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "100592",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "29827",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "39375",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "90933",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "68367",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "78.26",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "61.9",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "50",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "60.87",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "50",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "57.69",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "65.22",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "1338.1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "2016",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "2008.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "2124.8",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "2086.58",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "1952.3",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "2052.1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "1975.1",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "31.99",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "31.27",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "35.72",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "41.02",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "43.68",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "46.28",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "46.48",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "46.58",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "49.95",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "51.48",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "55.97",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "61",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "60.37",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "51.29",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "46.51",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "52.63",
+                    "nombre": "Cusco"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "08",
+                    "valor": "75.58",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "08",
+                    "valor": "78.24",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "08",
+                    "valor": "84.13",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "08",
+                    "valor": "84.7",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "08",
+                    "valor": "87.21",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "08",
+                    "valor": "90.88",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "08",
+                    "valor": "89.1",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "08",
+                    "valor": "90.98",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "08",
+                    "valor": "91.49",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "08",
+                    "valor": "91.64",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "08",
+                    "valor": "92.41",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "08",
+                    "valor": "92.83",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "08",
+                    "valor": "93.77",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "08",
+                    "valor": "94.28",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "08",
+                    "valor": "95.02",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "08",
+                    "valor": "95.22",
+                    "nombre": "Cusco"
+                }
+            ]
+        }
+    }
+}

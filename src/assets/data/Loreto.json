@@ -1,0 +1,5565 @@
+{
+    "01": {
+        "36711": {
+            "data": []
+        },
+        "50009": {},
+        "50010": {},
+        "50011": {},
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "55.77",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "52.37",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "52.83",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "53.41",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "55.2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "56.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "56.3",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "60.69",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "61.91",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "60.26",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "451337.39",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "294766.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "187177.84",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "83285",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "42316",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "7932",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "64558",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "71979",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "16",
+                    "valor": "6.32",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "16",
+                    "valor": "6.32",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "16",
+                    "valor": "6.21",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "6.08",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "5.94",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "5.84",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "5.72",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "5.62",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "5.57",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "5.5",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "5.47",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "5.57",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "5.65",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "5.76",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "5.82",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "5.74",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "5.67",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "5.57",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "5.48",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "5.4",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "5.32",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "5.29",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "5.23",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "16",
+                    "valor": "5442",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "16",
+                    "valor": "5510",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "16",
+                    "valor": "5477",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "5413",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "5336",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "5286",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "5215",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "5154",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "5132",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "5089",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "5089",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "5211",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "5313",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "5443",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "5533",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "5501",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "5501",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "5489",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "5477",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "5486",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "5469",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "5485",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "5469",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "368773.16",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "44",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "16",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "16",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50100": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "5907329",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "5907329",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "5907329",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "5907329",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "5907329",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "5907329",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "5907329",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "5907329",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "5907329",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "5907329",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "16",
+                    "valor": "84.34",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "16",
+                    "valor": "96.2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "16",
+                    "valor": "96.16",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "16",
+                    "valor": "96.12",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "96.09",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "96.03",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "95.97",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "95.94",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "95.88",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "95.81",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "95.74",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "95.67",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "95.61",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "95.52",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "95.44",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "95.34",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "95.26",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "95.16",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "95.1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "95.03",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "94.97",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "94.9",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "94.82",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "94.75",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50015": {},
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "3392646.57",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "35282772",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "35261485",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "35228431",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "35199610",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "35162046",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "35130378",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "35093227",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "35074145",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "35047942.02",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "35024801.76",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "34990024.23",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "34970194.89",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "34943725.62",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "3737097.36",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "3877470",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "4099030.83",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "4235387.31",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "4338152.82",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "4549040.64",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "4811683.32",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "4773598.29",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "16",
+                    "valor": "4148",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "16",
+                    "valor": "8363",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "16",
+                    "valor": "2226",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "16",
+                    "valor": "1654",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "16",
+                    "valor": "974",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "16",
+                    "valor": "121",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "16",
+                    "valor": "434",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "140",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "100",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "824",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "3848.48",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "6741.78",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "840.98",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "22246.78",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "7265.77",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "6226.97",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "5889.27",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "9034.96",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "10801.39",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "11842.49",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "19568.88",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "20238.83",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "21895.76",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "35454.64",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "14452.49",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "12233.86",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "74227.33",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "21170.49",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "19018.04",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "20758.46",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "17163.96",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "20670.68",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "8741.22",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "16",
+                    "valor": "16050.51",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "10181.16",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "19594.08",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "23009.85",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "12636.9",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "20055.69",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "25515.81",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "28222.2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "25197.12",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "21286.53",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "33054.57",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "28820.52",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "37564.47",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "31668.21",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "37151.1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "19081.71",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "26202.87",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "23140.26",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "34777.53",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "19829.34",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "26469.27",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "636420.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "636450.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "636420.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "636420.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "636420.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "636420.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "636420.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "636420.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "636420.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "636320.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "635496.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "631647.65",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "624905.87",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "624064.89",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "22246.78",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "7265.77",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "6226.97",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "5889.27",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "9034.97",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "10801.39",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "11842.49",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "19568.88",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "20238.83",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "21895.76",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "35454.64",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "14452.49",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "12233.86",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "74227.33",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "21170.49",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "19018.04",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "20758.42",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "17163.96",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "20670.68",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "8741.22",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "32.17",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "32.22",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "32.03",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "31.69",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "31.71",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "32.17",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "31.86",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "31.91",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "32.2",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "102",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "78",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "81",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "89",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "47",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "89",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "42",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "33",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "21",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "25",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "3282.2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "2885.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "2667.7",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "2994.5",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "2964.9",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "2783.7",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "3276.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "2515.4",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "1813.4",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "4",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "32.17",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "32.22",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "32.03",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "31.69",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "31.71",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "32.17",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "31.86",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "31.91",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "32.2",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "290",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "369",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "294",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "316",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "292",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "313",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "313",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "326",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "368",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "358",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "126",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "66",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "104",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "108",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "106",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "78",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "79",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "57",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "140",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "110",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "144",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "30771",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "42789",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "8677",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "38776",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "37061",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "57759",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "162475",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "27946",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "132098",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "141560",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "13913",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "42639",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "201164",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "87053",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "141377",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "26333",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "30880",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "1969",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "46308",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "28755",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "13222",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "2031",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "3313",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "4042",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "2939",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "2590",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "2946",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "5752",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "6006",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "99957",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "231827",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "10448",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "1231",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "2551",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "3068",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "686",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "696",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "1442",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "724",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "1430",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "1529",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "1216",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "30776",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "42800",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "8695",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "38778",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "37064",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "57761",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "162486",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "27949",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "132100",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "141575",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "13916",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "42639",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "201166",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "87072",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "141378",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "26335",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "30886",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "1971",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "46309",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "28760",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "13225",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "339",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "591",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "588",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "499",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "481",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "568",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "1125",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "1212",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "7288",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "1461",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "323",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "76",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "245",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "170",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "122",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "104",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "369",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "208",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "377",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "381",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "182",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "2236",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "6553",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "780",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "592",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "57",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "154",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "26408",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "3597",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "11710",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "14986",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "1996",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "2165",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "6802.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "15",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "3140.63",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "1217",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "2296.5",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "49",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "49",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "50",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "52",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "53",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "16",
+                    "valor": "56",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "46.33",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "58.17",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "63.69",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "57.07",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "62.59",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "61.91",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "62.41",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "62.88",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "63.14",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "850312",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "2282686",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "1717073",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "4938325",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "4804410",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "8716018",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "20725476",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "13.29",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "12",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "27.55",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "29.12",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "38.77",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "27.03",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "49.42",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "44.97",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "51.58",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "153139.51",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "149579.06",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "150052.09",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "142710.65",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "147361.37",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "166632.46",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "168007.97",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "165912.61",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "169387.37",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "0.9",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "0.89",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "0.86",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "0.82",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "0.82",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "0.91",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "0.91",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "0.89",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "0.91",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "12812606",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "13684862",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "18159421",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "19552767",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "23902179",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "13670373",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "12472825",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "28908599",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "30831257",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "38787564",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "27443052",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "50779776",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "46635478",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "53898069",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "101363.32",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "127847.93",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "136521.81",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "116343.71",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "131770.45",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "147376.82",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "149791.65",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "149029.78",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "152788.81",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "0.63",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "0.61",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "0.61",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "0.57",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "0.57",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "0.64",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "0.64",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "0.62",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "0.63",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "21067": {
+            "data": []
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "14.69",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "14.69",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "17.72",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "17.97",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "13.8",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "18.70",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "16",
+                    "valor": "18.84",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "0.27",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "0.29",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "0.26",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "0.25",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "0.25",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "0.27",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "0.27",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "0.27",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "0.28",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "454.67",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "551",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "110.76",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "948.19",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "1303.1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "1922.1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "903.41",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "3102.3",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "2086.71",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "65631.22",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "70201.61",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "64308.04",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "61161.71",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "63154.87",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "71413.91",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "72003.41",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "71105.41",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "72594.59",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "218770.73",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "219780.67",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "214360.13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "203872.35",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "210516.24",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "238046.37",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "240011.38",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "237018.02",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "241981.95",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "908277",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "2554411",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "31515938",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "22340241",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "39968881",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "49284716",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "69196063",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "6",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "34",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "35",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "37",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "33",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "54",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "62",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "40",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "41",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "51",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "21",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50022": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "5",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "5",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "10",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "5",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "5",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "7",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "12",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "10",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "11",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "205",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "85",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "101",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "206",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "212",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "0",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "0",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "0",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "0",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "0",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "0",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "11",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "14",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "15",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "10",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "7",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "10",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "4.0",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "1.0",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "1.0",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "1.0",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "1.0",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "35",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "38",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "47",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "58",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "80",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "47",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "7",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "16",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "9",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "7",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "9",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "14",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "22",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "9",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "27",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "6",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36711": {
+            "data": []
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "31.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "32.3",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "38.5",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "35.1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "43.4",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "43.2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "43.8",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "45.8",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "46.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "43.8",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "47.47",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "47.9",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "117730",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "168682",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "154015",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "158141",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "115857",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "111720",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "78132",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "109256",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "76683",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "92388",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "109130",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "101675",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "58612",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "76143",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "110744",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "95160",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "18365",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "23066",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "24667",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "22689",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "32143",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "44941",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "34338",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "36950",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "34798",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "32605",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "31830",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "31912",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "22954",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "25708",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "33408",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "26283",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "12153042",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "12694084",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "12687476",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "12039916",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "11081404",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "10410486",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "10582606",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "10559733",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "10926389",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "10562500",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "10390062",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "12687928",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "13113606",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "13157585",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "14027622",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "55.77",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "52.37",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "52.83",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "53.41",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "55.2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "56.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "56.3",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "60.69",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "61.91",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "60.26",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "16",
+                    "valor": "17914",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "16",
+                    "valor": "18235",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "16",
+                    "valor": "17546",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "19851",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "23340",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "23329",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "23429",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "26755",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "31888",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "35123",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "35972",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "27551",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "23000",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "18165",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "15142",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "28054",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "15712",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "15576",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "12125",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "13116",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "13233",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "15045",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "18072",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "30.07",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "34.16",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "49.4",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "51.23",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "59.24",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "70.85",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "62.28",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "75.62",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "76.29",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "93.94",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "102.06",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "126.64",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "102.63",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "122.21",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "16",
+                    "valor": "74772.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "16",
+                    "valor": "78196.95",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "16",
+                    "valor": "125141.9",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "97006.61",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "134800.81",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "146243.07",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "139784.37",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "278567.94",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "270905.57",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "126591.26",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "107957.29",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "151446.68",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "148032.92",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "166811.02",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "188664",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "207356.76",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "83247.89",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "164871.86",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "168729.28",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "188999.98",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "72028.55",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "125027.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "96679.48",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "91926.37",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "16",
+                    "valor": "287389",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "16",
+                    "valor": "242389",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "16",
+                    "valor": "240272.45",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "274565.7",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "311147.83",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "421310.09",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "444835.35",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "624029.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "742300.51",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "541056.59",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "637557.4",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "514211.58",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "662266.61",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "714038.32",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "845124",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "903893.57",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "702189.75",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "877763.18",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "222127.71",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "338750.76",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "302364.77",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "249164.58",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "136366.82",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "359791.25",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "2.47",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "2.17",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "2.55",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "2.19",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "2.43",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "2.53",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "2.61",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "1.97",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "2.28",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "34.83",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "93.16",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "50.0",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "34.35",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "23.29",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "100.0",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "34.35",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "23.29",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "100.0",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "15",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "16",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "13",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "11",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "15",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "17",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "23",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "21",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "3",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "4",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "7",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "4",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "7",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "10",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "6",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "22120": {
+            "data": []
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "16",
+                    "valor": "79.2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "16",
+                    "valor": "75.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "16",
+                    "valor": "75.2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "16",
+                    "valor": "71.64",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "16",
+                    "valor": "75.2",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "16",
+                    "valor": "72.9",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "77.87",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "77.1",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "73.43",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "74.35",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "75.12",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "70.26",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "73.97",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "73.81",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "73.79",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "73.68",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "71.76",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "71.18",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "69.06",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "67.37",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "77.05",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "77.39",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "18365",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "23066",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "24667",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "22689",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "32143",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "44941",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "34338",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "36950",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "34798",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "32605",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "31830",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "31912",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "22954",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "25708",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "33408",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "26283",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "117730",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "168682",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "154015",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "158141",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "115857",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "111720",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "78132",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "109256",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "76683",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "92388",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "109130",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "101675",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "58612",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "76143",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "110744",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "95160",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "80",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "81.25",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "68.75",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "83.33",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "73.91",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "67.65",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "67.74",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "1021.9",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "604.8",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "774.3",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "922.5",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "860.12",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "502.6",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "412.3",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "421.68",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "22.85",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "25.79",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "25.58",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "27.61",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "28.44",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "34.12",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "31.45",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "34.52",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "37.78",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "38.17",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "41.09",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "43.72",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "46.53",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "47.77",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "44.47",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "46.61",
+                    "nombre": "Loreto"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "16",
+                    "valor": "61.36",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "16",
+                    "valor": "64.56",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "16",
+                    "valor": "67.15",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "16",
+                    "valor": "66.73",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "16",
+                    "valor": "67.96",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "16",
+                    "valor": "70.31",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "16",
+                    "valor": "75.49",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "16",
+                    "valor": "76.18",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "16",
+                    "valor": "75.45",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "16",
+                    "valor": "76.55",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "16",
+                    "valor": "77.74",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "16",
+                    "valor": "76.86",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "16",
+                    "valor": "78.62",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "16",
+                    "valor": "83.61",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "16",
+                    "valor": "81.11",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "16",
+                    "valor": "80.68",
+                    "nombre": "Loreto"
+                }
+            ]
+        }
+    }
+}

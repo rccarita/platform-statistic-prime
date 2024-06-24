@@ -1,0 +1,5457 @@
+{
+    "01": {
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "50.86",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "48.97",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "45.83",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "45.47",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "43.63",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "42.02",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "67.25",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "71.77",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "77.68",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "75.65",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "71.53",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "70.34",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "72.2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "78.66",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50009": {},
+        "50010": {},
+        "50011": {},
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "83.16",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "85.07",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "84.52",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "84.3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "85.9",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "88.3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "88",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "86.5",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "87.38",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "80.2",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "15394805.7",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "1520735.3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "45355790",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "16734395",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "47664450",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "4320",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "54666168",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "198458",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "566348",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "20",
+                    "valor": "18.02",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "20",
+                    "valor": "18.14",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "20",
+                    "valor": "18.59",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "18.77",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "18.83",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "18.69",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "18.6",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "18.75",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "19.3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "19.8",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "20.6",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "21.95",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "23.58",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "25.34",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "26.98",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "28.11",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "29.04",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "29.86",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "30.39",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "31",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "31.66",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "33.44",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "34.96",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36607": {
+            "data": [
+                {
+                    "periodo": "2000",
+                    "ubigeo": "20",
+                    "valor": "29325",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "20",
+                    "valor": "29844",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "20",
+                    "valor": "30851",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "31391",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "31731",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "31734",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "31828",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "32314",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "33497",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "34650",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "36367",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "39098.77",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "42404",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "46029",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "49576",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "52390",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "55060",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "57740",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "60006",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "62419",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "64836",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "69457",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "73531",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "35656.18",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "20",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50100": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "3399",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "3399",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "3399",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "3399",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "3399",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "3399",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "3399",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "9043",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "9043",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "9043",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "11276": {
+            "data": [
+                {
+                    "periodo": "1995",
+                    "ubigeo": "20",
+                    "valor": "61.3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "20",
+                    "valor": "1.26",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "20",
+                    "valor": "1.25",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "20",
+                    "valor": "1.24",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "1.24",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "1.23",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "1.23",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "1.22",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "1.21",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "1.21",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "1.21",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "1.2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "1.19",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "1.19",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "1.19",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "1.19",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "1.18",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "1.18",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "1.17",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "1.16",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "1.16",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "1.2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "1.16",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "1.16",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50015": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "1997.3",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "470588.4",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "8159": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "42849",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "42522",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "42439",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "42395",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "42329",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "42217",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "42018",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "41552",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "41492.07",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "41465.61",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "41397.56",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "41372.73",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "41261.22",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "848555.01",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "820961.91",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "497116.71",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "288624.15",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "288306.18",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "180853.11",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "185769.09",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "182896.2",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36750": {
+            "data": [
+                {
+                    "periodo": "1996",
+                    "ubigeo": "20",
+                    "valor": "2407",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "1997",
+                    "ubigeo": "20",
+                    "valor": "3144",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "1998",
+                    "ubigeo": "20",
+                    "valor": "19070",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "1999",
+                    "ubigeo": "20",
+                    "valor": "2358",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2000",
+                    "ubigeo": "20",
+                    "valor": "1700",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2001",
+                    "ubigeo": "20",
+                    "valor": "1700",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "20",
+                    "valor": "1428",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "837",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "35",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "627",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "1287",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "790",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "943",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "1137",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "505",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "1078",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "510",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "275",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "176",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "354",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "1094",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "151",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "270",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "202",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "540",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "43.72",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "28.36",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "57.98",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "3746.63",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "2055.38",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "72.11",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "81.49",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "82.83",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "214.87",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "38.65",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "12.74",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "72.51",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "956.42",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "56.53",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "75.59",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "2880.1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "346.17",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "112.48",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "973.89",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "106.47",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "944.73",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "439.47",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "9738": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "20",
+                    "valor": "275.4",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "95.94",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "142.65",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "230.58",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "201.6",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "281.25",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "149.58",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "124.83",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "173.52",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "327.33",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "83.16",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "44.19",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "65.07",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "112.32",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "199.53",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "465.3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "60.21",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "26.46",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "67.95",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "24.93",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "111.51",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36748": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "43312.39",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "42234.26",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "41724.77",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "41449.61",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "41273.61",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "40919.61",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "39825.61",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "39674.11",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "39404.55",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "39202.55",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "38662.55",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "38618.83",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "38590.47",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "38532.49",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "3746.63",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "2055.38",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "72.11",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "81.49",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "82.83",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "214.87",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "38.65",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "12.74",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "72.51",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "956.42",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "56.53",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "75.59",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "2880.1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "346.17",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "112.48",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "973.89",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "106.47",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "944.73",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "439.47",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "31.31",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "31.72",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "32.25",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "30.58",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "31.33",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "31.78",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "30.31",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "29.21",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "32.23",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "73",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "42",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "33",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "29",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "26",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "20",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "24",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "70",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "33",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "19",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "12.4",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "58.6",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "30.7",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "664.8",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50005": {},
+        "50006": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "11",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50007": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "31.31",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "31.72",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "32.25",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "30.58",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "31.33",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "31.78",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "30.31",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "29.21",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "32.23",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "136",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "212",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "191",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "156",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "271",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "221",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "97",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "153",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "191",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "354",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "202",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "186",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "156",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "157",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "461",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "222",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "114",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "92",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "373",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "317",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "498",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "2261",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "123285",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "128296",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "56668",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "19902",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "143347",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "43905",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "10159",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "6118",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "68767",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "15567",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "23058",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "113325",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "388830",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "494214",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "10224",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "12933",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "9850",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "48921",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "13334",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "302903",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "736",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "1291",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "763",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "1312",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "1733",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "23200",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "331",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "2174",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "1371",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "12453",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "1977",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "2166",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "8349",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "6119",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "103411",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "6000",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "1596",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "226",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "9975",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "2900",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "29899",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "2270",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "123286",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "128297",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "56669",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "19905",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "143354",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "43905",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "10163",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "6123",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "68785",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "15578",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "23063",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "113349",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "388833",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "494249",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "10228",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "12940",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "9850",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "48922",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "13340",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "302920",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "165",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "178",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "187",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "241",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "243",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "6038",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "42",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "461",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "273",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "1069",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "257",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "261",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "1003",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "1104",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "13263",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "685",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "587",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "69",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "3092",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "924",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "2466",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "20647": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "27153",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "674",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "3547",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "89",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "4",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "5",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "140",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "152",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "11024",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "12",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "95.5",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "3286.78",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "365.35",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "422.99",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "10621.6",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "57",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "57",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "64",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "74",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "76",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "20",
+                    "valor": "86",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "16.31",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "16.12",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "29.36",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "30.12",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "5036733",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "5689242",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "7684071",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "4537727",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "4427130",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "2414900",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "4772850",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "21.93",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "26.31",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "28.55",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "28.77",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "33.36",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "33.33",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "36.99",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "41.52",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "49.96",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "252933.36",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "282678.5",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "275419.58",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "278953.15",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "308611.07",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "300731.92",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "308898.44",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "315091.76",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "337511.43",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "0.72",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "0.67",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "0.77",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "0.77",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "0.77",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "0.74",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "0.74",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "0.75",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "0.8",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "31992679",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "35605501",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "38079317",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "54294674",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "49859277",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "40129027",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "48524717",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "53056731",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "53880024",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "65862001",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "67116993",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "75755731",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "86230170",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "105063677",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "70064.42",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "71129.13",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "132160.84",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "145225.69",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "0.5",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "0.56",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "0.54",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "0.54",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "0.54",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "0.52",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "0.52",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "0.53",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "0.56",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "21067": {
+            "data": []
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "201.57",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "201.31",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "263.77",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "263.76",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "254.62",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "338.01",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "0.22",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "0.12",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "0.23",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "0.23",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "0.23",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "0.22",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "0.22",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "0.23",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "0.24",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "633.44",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "2059",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "716.4",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "1596.06",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "6510.58",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "4853.3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "3563.06",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "7911.96",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "7957.62",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "108400.01",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "58825.83",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "118036.96",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "119551.35",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "132261.89",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "128885.11",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "132385.04",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "135039.33",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "144647.75",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "361333.37",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "341504.34",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "393456.54",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "398504.49",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "440872.96",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "429617.03",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "441283.48",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "450131.08",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "482159.18",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "5233974",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "5717067",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "57125182",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "63913834",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "69005700",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "70306309",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "89797268",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "4",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "323",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "68",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "114",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "235",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "219",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "0",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "0",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "0",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "0",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "0",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "0",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "0",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "18",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "32",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "50",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "36",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "27",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "21",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "15",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "12",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50026": {
+            "data": [
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "3.0",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "1.0",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "2.0",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "65",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "81",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "72",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "110",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "115",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "81",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "8",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "7",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "10",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "7",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "12",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "12",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "27",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "7",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "15",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "9",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36711": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "50.86",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "48.97",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "45.83",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "45.47",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "43.63",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "42.02",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "67.25",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "71.77",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "77.68",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "75.65",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "71.53",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "70.34",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "72.2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "78.66",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "53.5",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "56.2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "59.9",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "62",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "66.2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "67.6",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "67.9",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "72",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "70.8",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "67.4",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "66.51",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "64.91",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "318522",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "195997",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "228154",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "180386",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "132523",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "147531",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "130648",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "167915",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "160617",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "120822",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "147419",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "154376",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "46113",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "65033",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "135920",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "99644",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "49740",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "39651",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "34188",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "34979",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "21906",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "46851",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "49156",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "26206",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "28748",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "29198",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "23555",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "27382",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "14844",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "19328",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "24519",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "23603",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "23242": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "16650413",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "16937277",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "17868872",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "20149822",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "20265166",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "22609876",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "23392196",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "15694554",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "13053220",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "10561269",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "12261887",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "15016165",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "15376651",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "13987281",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "10778068",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "83.16",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "85.07",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "84.52",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "84.3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "85.9",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "88.3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "88",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "86.5",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "87.38",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "80.2",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "20",
+                    "valor": "79",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "263",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "1436",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "677",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "309",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "1629",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "1550",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "1075",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "1328",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "1620",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "2007",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "2435",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "2309",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "2173",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "1328",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "1182",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "583",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "652",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "1759",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "1680",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "1445",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "52.93",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "62.09",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "67.82",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "92.92",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "83.83",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "89.72",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "80.92",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "93.68",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "98.55",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "125.87",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "121.34",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "142.1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "156.53",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "166.19",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "20946": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "20",
+                    "valor": "4205.82",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "153.66",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "2343.31",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "343.22",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "3360.93",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "2996.58",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "2838.1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "175.21",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "11.16",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "123.9",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "48.33",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "68",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "20.02",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "20879": {
+            "data": [
+                {
+                    "periodo": "2002",
+                    "ubigeo": "20",
+                    "valor": "8183.67",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "3613.96",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "4695.36",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "5063.74",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "6318.18",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "6073.92",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "6495.09",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "3896.19",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "3933.36",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "6818.73",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "11177.98",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "8401.07",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "5079",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "3934.82",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "3516.58",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "35",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "2.01",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "1.65",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "2.06",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "1.82",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "1.8",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "1.9",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "1.86",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "1.95",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "1.83",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "2.5",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50043": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "23.08",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "50044": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "23.08",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "45",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "37",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "19",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "23320": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "9",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "7",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "7",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "6",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "6",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "7",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "6",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36836": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "4",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "1",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "60.8",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "49.3",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "50",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2001",
+                    "ubigeo": "20",
+                    "valor": "76.6",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2002",
+                    "ubigeo": "20",
+                    "valor": "69.5",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2003",
+                    "ubigeo": "20",
+                    "valor": "75.5",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "20",
+                    "valor": "70.04",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "20",
+                    "valor": "72.24",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "20",
+                    "valor": "69.05",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "63.09",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "63.97",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "62.21",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "61.73",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "58.82",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "59.42",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "59.84",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "61.76",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "60.11",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "63.76",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "55.92",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "54.49",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "54.24",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "59.53",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "56.45",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "59.7",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "49740",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "39651",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "34188",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "34979",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "21906",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "46851",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "49156",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "26206",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "28748",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "29198",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "23555",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "27382",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "14844",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "19328",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "24519",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "23603",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "318522",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "195997",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "228154",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "180386",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "132523",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "147531",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "130648",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "167915",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "160617",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "120822",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "147419",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "154376",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "46113",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "65033",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "135920",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "20",
+                    "valor": "99644",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "37037": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "50",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "38.89",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "50",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "50",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "54.55",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "50",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "42.86",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "1294.2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "1279",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "1042.2",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "1303.8",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "1414.51",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "1391.7",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "1477.7",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "1588.93",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "37.19",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "39.56",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "43.66",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "48.03",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "50.85",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "53.46",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "53.87",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "56.59",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "57.76",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "60.28",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "64.16",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "64.31",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "67.98",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "61.33",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "61.42",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "63.93",
+                    "nombre": "Piura"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "20",
+                    "valor": "77.59",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "20",
+                    "valor": "79.28",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "20",
+                    "valor": "81.94",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "20",
+                    "valor": "84.09",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "20",
+                    "valor": "87.39",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "20",
+                    "valor": "88.76",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "20",
+                    "valor": "93.89",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "20",
+                    "valor": "94.61",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "20",
+                    "valor": "94.83",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "20",
+                    "valor": "95.76",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "20",
+                    "valor": "94.9",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "20",
+                    "valor": "95.57",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "20",
+                    "valor": "95.48",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "20",
+                    "valor": "96.49",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "20",
+                    "valor": "95.98",
+                    "nombre": "Piura"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "20",
+                    "valor": "96.8",
+                    "nombre": "Piura"
+                }
+            ]
+        }
+    }
+}

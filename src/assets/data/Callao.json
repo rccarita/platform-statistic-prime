@@ -1,0 +1,3095 @@
+{
+    "01": {
+        "36711": {
+            "data": []
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "96.07",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "95.14",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "95.58",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "95.77",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "96.1",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "96.8",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "97.6",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "97.61",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "97",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "97.5",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "50009": {},
+        "50010": {},
+        "50011": {},
+        "22814": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "3327538",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "3116426",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "2864783.56",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "17379831",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "922361",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "3802366",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "1247788",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "446068094",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "566348",
+                    "nombre": "Callao"
+                }
+            ]
+        }
+    },
+    "02": {
+        "22664": {
+            "data": []
+        },
+        "36607": {
+            "data": []
+        }
+    },
+    "03": {
+        "20789": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "128.28",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "50012": {},
+        "50013": {},
+        "50014": {},
+        "60003": {
+            "data": [
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "1",
+                    "nombre": "Callao"
+                }
+            ]
+        }
+    },
+    "04": {
+        "60004": {
+            "data": [
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "1",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "1",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "50100": {},
+        "11276": {
+            "data": []
+        },
+        "50015": {},
+        "21336": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "257.94",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "8159": {
+            "data": []
+        },
+        "21266": {
+            "data": [
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "1782.45",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "2185.47",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "2479.23",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "2768.4",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "2743.65",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "710.55",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "692.46",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "725.13",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36750": {
+            "data": []
+        },
+        "36918": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "5.38",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "9738": {
+            "data": []
+        },
+        "36748": {
+            "data": []
+        },
+        "37016": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "5.38",
+                    "nombre": "Callao"
+                }
+            ]
+        }
+    },
+    "05": {
+        "37219": {
+            "data": []
+        },
+        "50000": {},
+        "50001": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "1",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "50002": {},
+        "50003": {},
+        "50004": {},
+        "50005": {},
+        "50006": {},
+        "50007": {},
+        "50031": {},
+        "50032": {}
+    },
+    "06": {
+        "20269": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "07",
+                    "valor": "28",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "07",
+                    "valor": "58",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "07",
+                    "valor": "56",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "07",
+                    "valor": "60",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "07",
+                    "valor": "16",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "35",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "57",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "51",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "52",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "120",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "58",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "21",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "52",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "27",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "71",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "48",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "1",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "34",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "73",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "54",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "56",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "20362": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "07",
+                    "valor": "122",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "07",
+                    "valor": "374",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "07",
+                    "valor": "44",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "07",
+                    "valor": "221",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "89",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "207",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "325",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "215",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "340",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "85",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "57",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "121",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "122",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "156",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "106",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "1",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "76",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "158",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "50",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "2015",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "20428": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "07",
+                    "valor": "161",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "07",
+                    "valor": "300",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "07",
+                    "valor": "312",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "07",
+                    "valor": "433",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "07",
+                    "valor": "96",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "188",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "116",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "118",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "423",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "596",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "1311",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "184",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "600",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "143",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "274",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "226",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "126",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "365",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "393",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "233",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "20214": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "07",
+                    "valor": "122",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "07",
+                    "valor": "386",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "07",
+                    "valor": "44",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "07",
+                    "valor": "224",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "89",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "210",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "325",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "217",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "341",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "86",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "57",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "123",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "122",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "157",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "109",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "1",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "76",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "159",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "53",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "2015",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "20564": {
+            "data": [
+                {
+                    "periodo": "2003",
+                    "ubigeo": "07",
+                    "valor": "26",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2004",
+                    "ubigeo": "07",
+                    "valor": "69",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "07",
+                    "valor": "76",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "07",
+                    "valor": "93",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "07",
+                    "valor": "23",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "38",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "28",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "25",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "96",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "60",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "339",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "29",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "117",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "4",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "21",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "27",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "30",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "92",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "98",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "11",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "20647": {
+            "data": []
+        }
+    },
+    "07": {},
+    "08": {
+        "36636": {
+            "data": []
+        },
+        "36916": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "94.67",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "96.15",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "81.13",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "80.12",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "99.36",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "98.98",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "99.53",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "98.8",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "98.68",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "24239": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "3586388",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "1052943",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "1589670",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "7950184",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "5359759",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "651450",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "3757047",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "24164": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "106.02",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "114.26",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "131.09",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "134.74",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "140.51",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "103.53",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "29.99",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "31.64",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "97.28",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "11653": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "239611.55",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "241205.15",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "223586.83",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "228384.53",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "232353.25",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "221971.83",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "226787.12",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "275054.27",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "260182.02",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "29509": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "0.94",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "0.92",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "0.85",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "0.86",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "0.85",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "0.79",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "0.79",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "0.93",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "0.87",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36729": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "43143978",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "54569074",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "63796224",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "72568308",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "95726040",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "105641067",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "115437815",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "134296737",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "139954040",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "151580782",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "114453037",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "33887514",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "36431772",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "113975093",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "11585": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "324043.53",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "325979.43",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "259152.09",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "261396.16",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "329822.38",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "313856.02",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "322461.16",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "388228.72",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "366791.97",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "8017": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "0.61",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "0.65",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "0.59",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "0.6",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "0.6",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "0.55",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "0.55",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "0.65",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "0.61",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "21067": {
+            "data": []
+        },
+        "36688": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "45.68",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36942": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "0.28",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "0.26",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "0.26",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "0.26",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "0.26",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "0.24",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "0.24",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "0.28",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "0.26",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36938": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "91.44",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "842",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "869.23",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "1796.99",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "2110.83",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "3246.6",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "1520.43",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "4705.95",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "4896.63",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36940": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "102690.66",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "97818.14",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "95822.93",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "97879.08",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "99579.96",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "95130.78",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "97194.48",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "117880.4",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "111506.58",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "24473": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "342302.21",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "339023.29",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "319409.76",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "326263.62",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "331933.21",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "317102.61",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "323981.6",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "392934.67",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "371688.6",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "24318": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "3586388",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "1052943",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "112627410",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "127658914",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "145256053",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "145887540",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "163436450",
+                    "nombre": "Callao"
+                }
+            ]
+        }
+    },
+    "09": {
+        "24392": {
+            "data": [
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "1",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "50016": {},
+        "50017": {},
+        "50018": {},
+        "50019": {},
+        "50020": {},
+        "50021": {},
+        "50022": {},
+        "50023": {
+            "data": [
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "142",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "53",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "40",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "127",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "113",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "50024": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "50025": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "0",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "50026": {},
+        "36690": {
+            "data": [
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "63",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "40",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "87",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "82",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "107",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "88",
+                    "nombre": "Callao"
+                }
+            ]
+        }
+    },
+    "10": {
+        "23424": {
+            "data": [
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "5",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "3",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "6",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "3",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "8",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "9",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "7",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "7",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "6",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "19",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "4",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36711": {
+            "data": []
+        },
+        "2": {
+            "data": [
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "78.7",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "81.4",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "89.8",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "86.9",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "88.3",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "87.5",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "94.1",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "95.8",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "96",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "95.9",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "96.04",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "95.02",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "104815",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "139228",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "110555",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "155068",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "92151",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "92747",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "64800",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "105802",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "91796",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "75284",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "119339",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "112868",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "24007",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "30592",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "65748",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "56817",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "8095",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "8267",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "8763",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "10973",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "3548",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "9422",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "7627",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "15341",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "19486",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "16078",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "16822",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "17576",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "6802",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "8831",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "10943",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "10834",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "23242": {
+            "data": []
+        },
+        "2840": {
+            "data": [
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "96.07",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "95.14",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "95.58",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "95.77",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "96.1",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "96.8",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "97.6",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "97.61",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "97",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "97.5",
+                    "nombre": "Callao"
+                }
+            ]
+        }
+    },
+    "11": {
+        "21197": {
+            "data": []
+        },
+        "23865": {
+            "data": [
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "83.56",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "87.72",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "106.84",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "116.15",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "143.48",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "156.21",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "159.6",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "187.98",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "192.36",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "193.62",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "164.08",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "182.89",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "179.56",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "191.41",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "20946": {
+            "data": []
+        },
+        "20879": {
+            "data": []
+        },
+        "23532": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "3.3",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "2.68",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "4.17",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "4.19",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "4.21",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "3.57",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "3.64",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "3.62",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "3.57",
+                    "nombre": "Callao"
+                }
+            ]
+        }
+    },
+    "12": {
+        "36811": {
+            "data": []
+        },
+        "50042": {},
+        "50043": {},
+        "50044": {},
+        "36807": {
+            "data": []
+        },
+        "22027": {
+            "data": [
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "9",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "23320": {
+            "data": []
+        },
+        "36836": {
+            "data": []
+        },
+        "22120": {
+            "data": [
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "100",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36856": {
+            "data": [
+                {
+                    "periodo": "2004",
+                    "ubigeo": "07",
+                    "valor": "37.69",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2005",
+                    "ubigeo": "07",
+                    "valor": "40.56",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2006",
+                    "ubigeo": "07",
+                    "valor": "38.16",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2007",
+                    "ubigeo": "07",
+                    "valor": "39.94",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "36.79",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "42.09",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "40.19",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "39.38",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "35.32",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "39.72",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "40.61",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "39.59",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "36.58",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "37.07",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "36.11",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "29.4",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "33.52",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "35.74",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "36.44",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36977": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "8095",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "8267",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "8763",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "10973",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "3548",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "9422",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "7627",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "15341",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "19486",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "16078",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "16822",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "17576",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "6802",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "8831",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "10943",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "10834",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36979": {
+            "data": [
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "104815",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "139228",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "110555",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "155068",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "92151",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "92747",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "64800",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "105802",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "91796",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "75284",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "119339",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "112868",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "24007",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "30592",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "65748",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "56817",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "37037": {
+            "data": []
+        }
+    },
+    "13": {
+        "36668": {
+            "data": [
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "3288.9",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "2709.8",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "3422",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "3300.41",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "2711.2",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "3165.2",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "3527.51",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "36858": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "07",
+                    "valor": "92.84",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "91.18",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "89.24",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "93.19",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "95.28",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "96.85",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "98.57",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "98.46",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "99.3",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "98.61",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "98.67",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "98.73",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "99.09",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "98.42",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "98.51",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "98.66",
+                    "nombre": "Callao"
+                }
+            ]
+        },
+        "23774": {
+            "data": [
+                {
+                    "periodo": "2007",
+                    "ubigeo": "07",
+                    "valor": "98.28",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2008",
+                    "ubigeo": "07",
+                    "valor": "99.42",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2009",
+                    "ubigeo": "07",
+                    "valor": "99.53",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2010",
+                    "ubigeo": "07",
+                    "valor": "99.52",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2011",
+                    "ubigeo": "07",
+                    "valor": "99.74",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2012",
+                    "ubigeo": "07",
+                    "valor": "99.58",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2013",
+                    "ubigeo": "07",
+                    "valor": "99.45",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2014",
+                    "ubigeo": "07",
+                    "valor": "99.89",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "07",
+                    "valor": "99.16",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "07",
+                    "valor": "99.81",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "07",
+                    "valor": "99.74",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "07",
+                    "valor": "99.75",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "07",
+                    "valor": "99.66",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "07",
+                    "valor": "99.79",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "07",
+                    "valor": "99.81",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "07",
+                    "valor": "99.38",
+                    "nombre": "Callao"
+                }
+            ]
+        }
+    }
+}
