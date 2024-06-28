@@ -3720,25 +3720,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "03",
-                    "valor": "52.1",
+                    "valor": "59.54",
                     "nombre": "Apurimac"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "03",
-                    "valor": "48.29",
+                    "valor": "59.11",
                     "nombre": "Apurimac"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "03",
-                    "valor": "55.55",
+                    "valor": "66.77",
                     "nombre": "Apurimac"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "03",
-                    "valor": "79.66",
+                    "valor": "85.32",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "03",
+                    "valor": "76.88",
+                    "nombre": "Apurimac"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "03",
+                    "valor": "52.21",
                     "nombre": "Apurimac"
                 }
             ]

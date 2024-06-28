@@ -4339,25 +4339,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "16",
-                    "valor": "102.06",
+                    "valor": "126.39",
                     "nombre": "Loreto"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "16",
-                    "valor": "126.64",
+                    "valor": "147.87",
                     "nombre": "Loreto"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "16",
-                    "valor": "102.63",
+                    "valor": "113.67",
                     "nombre": "Loreto"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "16",
-                    "valor": "122.21",
+                    "valor": "133.70",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "16",
+                    "valor": "143.41",
+                    "nombre": "Loreto"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "16",
+                    "valor": "172.08",
                     "nombre": "Loreto"
                 }
             ]

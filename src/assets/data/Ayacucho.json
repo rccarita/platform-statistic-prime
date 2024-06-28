@@ -4537,25 +4537,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "05",
-                    "valor": "43.94",
+                    "valor": "58.57",
                     "nombre": "Ayacucho"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "05",
-                    "valor": "46.44",
+                    "valor": "66.24",
                     "nombre": "Ayacucho"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "05",
-                    "valor": "45.62",
+                    "valor": "60.39",
                     "nombre": "Ayacucho"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "05",
-                    "valor": "60.78",
+                    "valor": "79.10",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "05",
+                    "valor": "73.77",
+                    "nombre": "Ayacucho"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "05",
+                    "valor": "57.23",
                     "nombre": "Ayacucho"
                 }
             ]

@@ -3813,25 +3813,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "11",
-                    "valor": "73.4",
+                    "valor": "91.86",
                     "nombre": "Ica"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "11",
-                    "valor": "87.56",
+                    "valor": "116.82",
                     "nombre": "Ica"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "11",
-                    "valor": "99.14",
+                    "valor": "137.52",
                     "nombre": "Ica"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "11",
-                    "valor": "132.18",
+                    "valor": "188.74",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "11",
+                    "valor": "221.48",
+                    "nombre": "Ica"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "11",
+                    "valor": "217.64",
                     "nombre": "Ica"
                 }
             ]

@@ -4205,25 +4205,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "04",
-                    "valor": "138.82",
+                    "valor": "182.08",
                     "nombre": "Arequipa"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "04",
-                    "valor": "155.96",
+                    "valor": "221.55",
                     "nombre": "Arequipa"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "04",
-                    "valor": "176.95",
+                    "valor": "226.09",
                     "nombre": "Arequipa"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "04",
-                    "valor": "216.21",
+                    "valor": "245.37",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "04",
+                    "valor": "246.12",
+                    "nombre": "Arequipa"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "04",
+                    "valor": "243.57",
                     "nombre": "Arequipa"
                 }
             ]

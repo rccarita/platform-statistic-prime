@@ -2398,25 +2398,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "07",
-                    "valor": "164.08",
+                    "valor": "185.91",
                     "nombre": "Callao"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "07",
-                    "valor": "182.89",
+                    "valor": "208.98",
                     "nombre": "Callao"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "07",
-                    "valor": "179.56",
+                    "valor": "204.03",
                     "nombre": "Callao"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "07",
-                    "valor": "191.41",
+                    "valor": "212.04",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "07",
+                    "valor": "215.41",
+                    "nombre": "Callao"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "07",
+                    "valor": "229.13",
                     "nombre": "Callao"
                 }
             ]

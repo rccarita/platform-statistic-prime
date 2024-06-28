@@ -4492,25 +4492,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "08",
-                    "valor": "170.94",
+                    "valor": "197.35",
                     "nombre": "Cusco"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "08",
-                    "valor": "164.81",
+                    "valor": "190.87",
                     "nombre": "Cusco"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "08",
-                    "valor": "198.77",
+                    "valor": "225.51",
                     "nombre": "Cusco"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "08",
-                    "valor": "249.57",
+                    "valor": "299.17",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "08",
+                    "valor": "414.36",
+                    "nombre": "Cusco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "08",
+                    "valor": "322.78",
                     "nombre": "Cusco"
                 }
             ]

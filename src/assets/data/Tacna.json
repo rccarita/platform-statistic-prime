@@ -3911,25 +3911,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "23",
-                    "valor": "37.6",
+                    "valor": "44.26",
                     "nombre": "Tacna"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "23",
-                    "valor": "36.58",
+                    "valor": "49.41",
                     "nombre": "Tacna"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "23",
-                    "valor": "44.49",
+                    "valor": "54.46",
                     "nombre": "Tacna"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "23",
-                    "valor": "51.48",
+                    "valor": "63.63",
+                    "nombre": "Tacna"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "23",
+                    "valor": "57.04",
+                    "nombre": "Tacna"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "23",
+                    "valor": "66.20",
                     "nombre": "Tacna"
                 }
             ]

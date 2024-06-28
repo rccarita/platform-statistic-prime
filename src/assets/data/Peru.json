@@ -7037,25 +7037,37 @@
         {
           "periodo": "2019",
           "ubigeo": "00",
-          "valor": "3244.31",
+          "valor": "3832.71",
           "nombre": "Nacional"
         },
         {
           "periodo": "2020",
           "ubigeo": "00",
-          "valor": "3417.31",
+          "valor": "4141.02",
           "nombre": "Nacional"
         },
         {
           "periodo": "2021",
           "ubigeo": "00",
-          "valor": "3657.95",
+          "valor": "4276.92",
           "nombre": "Nacional"
         },
         {
           "periodo": "2022",
           "ubigeo": "00",
-          "valor": "4133.17",
+          "valor": "4609.21",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2023",
+          "ubigeo": "00",
+          "valor": "5006.44",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2024",
+          "ubigeo": "00",
+          "valor": "5033.47",
           "nombre": "Nacional"
         }
       ]

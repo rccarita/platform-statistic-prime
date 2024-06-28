@@ -4117,25 +4117,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "15",
-                    "valor": "1636.6",
+                    "valor": "1999.11",
                     "nombre": "Lima"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "15",
-                    "valor": "1679.98",
+                    "valor": "2109.00",
                     "nombre": "Lima"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "15",
-                    "valor": "1805.88",
+                    "valor": "2181.24",
                     "nombre": "Lima"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "15",
-                    "valor": "1853.58",
+                    "valor": "2171.87",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "15",
+                    "valor": "2159.12",
+                    "nombre": "Lima"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "15",
+                    "valor": "2222.66",
                     "nombre": "Lima"
                 }
             ]

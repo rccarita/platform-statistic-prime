@@ -4121,25 +4121,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "02",
-                    "valor": "82.34",
+                    "valor": "137.59",
                     "nombre": "Ancash"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "02",
-                    "valor": "90.88",
+                    "valor": "138.89",
                     "nombre": "Ancash"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "02",
-                    "valor": "104.89",
+                    "valor": "151.95",
                     "nombre": "Ancash"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "02",
-                    "valor": "157.25",
+                    "valor": "216.71",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "02",
+                    "valor": "195.01",
+                    "nombre": "Ancash"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "02",
+                    "valor": "183.51",
                     "nombre": "Ancash"
                 }
             ]

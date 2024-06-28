@@ -4561,25 +4561,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "12",
-                    "valor": "87.54",
+                    "valor": "123.75",
                     "nombre": "Junin"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "12",
-                    "valor": "81.46",
+                    "valor": "98.24",
                     "nombre": "Junin"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "12",
-                    "valor": "95.72",
+                    "valor": "124.43",
                     "nombre": "Junin"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "12",
-                    "valor": "122.44",
+                    "valor": "134.13",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "12",
+                    "valor": "121.64",
+                    "nombre": "Junin"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "12",
+                    "valor": "122.00",
                     "nombre": "Junin"
                 }
             ]

@@ -3712,25 +3712,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "14",
-                    "valor": "74.35",
+                    "valor": "97.82",
                     "nombre": "Lambayeque"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "14",
-                    "valor": "83.14",
+                    "valor": "103.28",
                     "nombre": "Lambayeque"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "14",
-                    "valor": "89.22",
+                    "valor": "113.43",
                     "nombre": "Lambayeque"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "14",
-                    "valor": "111.32",
+                    "valor": "121.63",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "14",
+                    "valor": "198.78",
+                    "nombre": "Lambayeque"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "14",
+                    "valor": "197.01",
                     "nombre": "Lambayeque"
                 }
             ]

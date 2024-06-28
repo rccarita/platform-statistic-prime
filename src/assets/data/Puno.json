@@ -4420,25 +4420,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "21",
-                    "valor": "52.9",
+                    "valor": "61.64",
                     "nombre": "Puno"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "21",
-                    "valor": "55.88",
+                    "valor": "72.40",
                     "nombre": "Puno"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "21",
-                    "valor": "58.17",
+                    "valor": "74.16",
                     "nombre": "Puno"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "21",
-                    "valor": "82.62",
+                    "valor": "102.13",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "21",
+                    "valor": "116.24",
+                    "nombre": "Puno"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "21",
+                    "valor": "100.68",
                     "nombre": "Puno"
                 }
             ]

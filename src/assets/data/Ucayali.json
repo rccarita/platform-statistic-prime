@@ -4186,25 +4186,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "25",
-                    "valor": "29.57",
+                    "valor": "31.88",
                     "nombre": "Ucayali"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "25",
-                    "valor": "35.5",
+                    "valor": "42.85",
                     "nombre": "Ucayali"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "25",
-                    "valor": "35.74",
+                    "valor": "47.27",
                     "nombre": "Ucayali"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "25",
-                    "valor": "46.53",
+                    "valor": "54.60",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "25",
+                    "valor": "88.69",
+                    "nombre": "Ucayali"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "25",
+                    "valor": "106.66",
                     "nombre": "Ucayali"
                 }
             ]

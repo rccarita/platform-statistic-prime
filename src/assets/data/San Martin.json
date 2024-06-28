@@ -4291,25 +4291,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "22",
-                    "valor": "47.16",
+                    "valor": "56.81",
                     "nombre": "San Martin"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "22",
-                    "valor": "50.13",
+                    "valor": "58.23",
                     "nombre": "San Martin"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "22",
-                    "valor": "57.21",
+                    "valor": "64.78",
                     "nombre": "San Martin"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "22",
-                    "valor": "61.68",
+                    "valor": "64.26",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "22",
+                    "valor": "87.08",
+                    "nombre": "San Martin"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "22",
+                    "valor": "121.12",
                     "nombre": "San Martin"
                 }
             ]

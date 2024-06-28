@@ -4196,25 +4196,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "19",
-                    "valor": "24.42",
+                    "valor": "30.57",
                     "nombre": "Pasco"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "19",
-                    "valor": "21.61",
+                    "valor": "30.02",
                     "nombre": "Pasco"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "19",
-                    "valor": "25.3",
+                    "valor": "30.58",
                     "nombre": "Pasco"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "19",
-                    "valor": "31.85",
+                    "valor": "36.16",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "19",
+                    "valor": "30.94",
+                    "nombre": "Pasco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "19",
+                    "valor": "51.90",
                     "nombre": "Pasco"
                 }
             ]

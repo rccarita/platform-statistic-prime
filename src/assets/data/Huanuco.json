@@ -4486,25 +4486,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "10",
-                    "valor": "46.97",
+                    "valor": "53.72",
                     "nombre": "Huanuco"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "10",
-                    "valor": "58.5",
+                    "valor": "70.60",
                     "nombre": "Huanuco"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "10",
-                    "valor": "57.98",
+                    "valor": "68.01",
                     "nombre": "Huanuco"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "10",
-                    "valor": "64.79",
+                    "valor": "76.74",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "10",
+                    "valor": "98.36",
+                    "nombre": "Huanuco"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "10",
+                    "valor": "100.17",
                     "nombre": "Huanuco"
                 }
             ]

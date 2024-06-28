@@ -4348,25 +4348,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "13",
-                    "valor": "76.61",
+                    "valor": "94.86",
                     "nombre": "La Libertad"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "13",
-                    "valor": "82.61",
+                    "valor": "103.40",
                     "nombre": "La Libertad"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "13",
-                    "valor": "79.27",
+                    "valor": "98.81",
                     "nombre": "La Libertad"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "13",
-                    "valor": "107.66",
+                    "valor": "121.10",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "13",
+                    "valor": "167.85",
+                    "nombre": "La Libertad"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "13",
+                    "valor": "160.88",
                     "nombre": "La Libertad"
                 }
             ]

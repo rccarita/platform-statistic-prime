@@ -4473,25 +4473,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "06",
-                    "valor": "43.3",
+                    "valor": "50.90",
                     "nombre": "Cajamarca"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "06",
-                    "valor": "59.67",
+                    "valor": "73.92",
                     "nombre": "Cajamarca"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "06",
-                    "valor": "62.64",
+                    "valor": "72.84",
                     "nombre": "Cajamarca"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "06",
-                    "valor": "73.21",
+                    "valor": "80.56",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "06",
+                    "valor": "118.27",
+                    "nombre": "Cajamarca"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "06",
+                    "valor": "84.52",
                     "nombre": "Cajamarca"
                 }
             ]

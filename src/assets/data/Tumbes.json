@@ -3602,25 +3602,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "24",
-                    "valor": "25.11",
+                    "valor": "28.26",
                     "nombre": "Tumbes"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "24",
-                    "valor": "27.93",
+                    "valor": "36.53",
                     "nombre": "Tumbes"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "24",
-                    "valor": "22.31",
+                    "valor": "26.46",
                     "nombre": "Tumbes"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "24",
-                    "valor": "33.18",
+                    "valor": "37.67",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "24",
+                    "valor": "38.68",
+                    "nombre": "Tumbes"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "24",
+                    "valor": "49.37",
                     "nombre": "Tumbes"
                 }
             ]

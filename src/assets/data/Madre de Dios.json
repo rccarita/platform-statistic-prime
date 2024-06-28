@@ -3914,26 +3914,38 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "17",
-                    "valor": "21.05",
-                    "nombre": "Madre de Dios"
+                    "valor": "29.10",
+                    "nombre": "Madre De Dios"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "17",
-                    "valor": "23.54",
-                    "nombre": "Madre de Dios"
+                    "valor": "30.19",
+                    "nombre": "Madre De Dios"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "17",
-                    "valor": "29.08",
-                    "nombre": "Madre de Dios"
+                    "valor": "33.82",
+                    "nombre": "Madre De Dios"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "17",
-                    "valor": "35.42",
-                    "nombre": "Madre de Dios"
+                    "valor": "37.13",
+                    "nombre": "Madre De Dios"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "17",
+                    "valor": "37.03",
+                    "nombre": "Madre De Dios"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "17",
+                    "valor": "30.63",
+                    "nombre": "Madre De Dios"
                 }
             ]
         },

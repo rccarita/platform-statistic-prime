@@ -3950,25 +3950,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "18",
-                    "valor": "36.23",
+                    "valor": "44.36",
                     "nombre": "Moquegua"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "18",
-                    "valor": "24.1",
+                    "valor": "28.97",
                     "nombre": "Moquegua"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "18",
-                    "valor": "20.77",
+                    "valor": "23.76",
                     "nombre": "Moquegua"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "18",
-                    "valor": "26.68",
+                    "valor": "35.27",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "18",
+                    "valor": "27.04",
+                    "nombre": "Moquegua"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "18",
+                    "valor": "35.72",
                     "nombre": "Moquegua"
                 }
             ]

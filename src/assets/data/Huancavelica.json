@@ -4103,25 +4103,37 @@
                 {
                     "periodo": "2019",
                     "ubigeo": "09",
-                    "valor": "25.34",
+                    "valor": "32.18",
                     "nombre": "Huancavelica"
                 },
                 {
                     "periodo": "2020",
                     "ubigeo": "09",
-                    "valor": "27.42",
+                    "valor": "33.86",
                     "nombre": "Huancavelica"
                 },
                 {
                     "periodo": "2021",
                     "ubigeo": "09",
-                    "valor": "25.2",
+                    "valor": "29.77",
                     "nombre": "Huancavelica"
                 },
                 {
                     "periodo": "2022",
                     "ubigeo": "09",
-                    "valor": "28.46",
+                    "valor": "31.68",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "09",
+                    "valor": "34.91",
+                    "nombre": "Huancavelica"
+                },
+                {
+                    "periodo": "2024",
+                    "ubigeo": "09",
+                    "valor": "30.97",
                     "nombre": "Huancavelica"
                 }
             ]
