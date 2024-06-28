@@ -1,9 +1,12 @@
-<div *ngFor="let item of listIndicators()">
-    <div *ngIf="item.ambito === zoneSelected() && item.tematica === thematicSelected()" class="mt-4">
-        <div class="flex items-center">
-            <p-radioButton [(ngModel)]="indicatorSelected" [inputId]="item.id_indicador"
-                (ngModelChange)="sendIndicatorParams()" [value]="item"></p-radioButton>
-            <label [for]="item.id_indicador" class="ml-2">{{ item.indicador }}</label>
-        </div>
+<label for="float-label">Buscar por indicador...</label>
+<p-dropdown inputId="float-label" styleClass="w-full mt-1" [editable]="true" [showClear]="true"
+    [options]="getFilteredIndicators()" optionLabel="indicador" variant="filled" appendTo="body"
+    placeholder="--Seleccionar o buscar indicador--" (onChange)="handleDropdownChange($event)"
+    [(ngModel)]="indicatorSelected" />
+<div *ngFor="let item of getFilteredIndicators()" class="mt-4">
+    <div class="flex items-center">
+        <p-radioButton [(ngModel)]="indicatorSelected" [inputId]="item.id_indicador"
+            (ngModelChange)="sendIndicatorParams()" [value]="item"></p-radioButton>
+        <label [for]="item.id_indicador" class="ml-2">{{ item.indicador }}</label>
     </div>
 </div>

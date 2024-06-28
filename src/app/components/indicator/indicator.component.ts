@@ -1,6 +1,8 @@
 import { CommonModule } from '@angular/common';
 import { Component, OnChanges, input, output } from '@angular/core';
 import { FormsModule } from '@angular/forms';
+import { AutoCompleteModule } from 'primeng/autocomplete';
+import { DropdownModule } from 'primeng/dropdown';
 import { RadioButtonModule } from 'primeng/radiobutton';
 
 @Component({
@@ -10,6 +12,8 @@ import { RadioButtonModule } from 'primeng/radiobutton';
     RadioButtonModule,
     FormsModule,
     CommonModule,
+    DropdownModule,
+    AutoCompleteModule,
   ],
   templateUrl: './indicator.component.html',
 })
@@ -70,18 +74,26 @@ export class IndicatorComponent implements OnChanges {
   }
 
   sendIndicatorParams() {
-    const me = this;
-    const indicatorData = {
-      indicatorId: me.indicatorSelected.id_indicador,
-      indicatorSeries: me.indicatorSelected.id_serie,
-      indicatorZone: me.indicatorSelected.ambito,
-      indicatorSource: me.indicatorSelected.fuente,
-      indicatorUnit: me.indicatorSelected.unidad,
-      indicatorName: me.indicatorSelected.indicador,
-      indicatorAcronymName: me.indicatorSelected.unidad_sigla,
-      indicatorDependency: me.indicatorSelected.dependencia,
-    };
-    me.paramsIndicator.emit(indicatorData);
+    if (this.indicatorSelected) {
+      const indicatorData = {
+        indicatorId: this.indicatorSelected.id_indicador,
+        indicatorSeries: this.indicatorSelected.id_serie,
+        indicatorZone: this.indicatorSelected.ambito,
+        indicatorSource: this.indicatorSelected.fuente,
+        indicatorUnit: this.indicatorSelected.unidad,
+        indicatorName: this.indicatorSelected.indicador,
+        indicatorAcronymName: this.indicatorSelected.unidad_sigla,
+        indicatorDependency: this.indicatorSelected.dependencia,
+      };
+      this.paramsIndicator.emit(indicatorData);
+    }
+  }
+
+  handleDropdownChange(event: any) {
+    if (typeof event.value === 'object' && event.value !== null) {
+      this.indicatorSelected = event.value;
+      this.sendIndicatorParams();
+    }
   }
 
 
@@ -96,5 +108,12 @@ export class IndicatorComponent implements OnChanges {
         }
       );
     }
+  }
+
+  getFilteredIndicators(): any {
+    return this.listIndicators()?.filter((item: any) =>
+      item.ambito === this.zoneSelected() &&
+      item.tematica === this.thematicSelected()
+    );
   }
 }
