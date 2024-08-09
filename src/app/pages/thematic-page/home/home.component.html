@@ -1,0 +1,15 @@
+<div class="p-10">
+    <h5>Temáticas Ambientales</h5>
+    <div class="tematicas">
+        <div *ngFor="let item of thematic">
+            <a class="no-underline" [href]="'/informacion/tematicas?tematica=' + item.value">
+                <img [src]="'./assets/img/' + item.value + '.png'" [alt]="item.name" [title]="item.name" width="120" height="120"/>
+                <div class="p-4">
+                    <h3 class="text-center text-xl font-bold text-black">
+                        {{ item.name }}
+                    </h3>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>

@@ -95,3 +95,13 @@ h5::before {
 .p-dropdown-panel {
     max-width: 900px;
 }
+
+.tematicas {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+
+.size-icon {
+    font-size: 2.5rem !important;
+}

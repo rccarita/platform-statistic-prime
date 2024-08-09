@@ -91,6 +91,7 @@ export class ChartComponent implements OnChanges {
           fontSize: '14px',
           textAlign: 'center',
           fontWeight: 'bold',
+          fontFamily: "Inter var",
         },
       },
       xAxis: {
@@ -98,11 +99,13 @@ export class ChartComponent implements OnChanges {
         title: {
           text: 'Años',
           style: {
+            fontFamily: "Inter var",
           }
         },
         labels: {
           style: {
             fontSize: '11px',
+            fontFamily: "Inter var",
           },
         },
       },
@@ -110,11 +113,13 @@ export class ChartComponent implements OnChanges {
         title: {
           text: me.selectedUnit(),
           style: {
+            fontFamily: "Inter var",
           }
         },
         labels: {
           style: {
             fontSize: '11px',
+            fontFamily: "Inter var",
           },
         },
       },
@@ -125,6 +130,7 @@ export class ChartComponent implements OnChanges {
           dataLabels: {
             enabled: true,
             style: {
+              fontFamily: "Inter var",
               color: '#696969',
             },
           },
@@ -139,6 +145,7 @@ export class ChartComponent implements OnChanges {
           fontWeight: 'bold',
           fontSize: '15px',
           color: '#666666',
+          fontFamily: "Inter var",
         },
         position: {
           align: 'center',
@@ -149,6 +156,9 @@ export class ChartComponent implements OnChanges {
         enabled: true,
         text: 'Fuente: ' + this.selectedSource(),
         href: false,
+        style: {
+          fontFamily: "Inter var",
+        }
       },
       legend: {
         enabled: false,
@@ -262,6 +272,7 @@ export class ChartComponent implements OnChanges {
           enabled: true,
           style: {
             color: '#696969',
+            fontFamily: "Inter var",
           },
         },
       });

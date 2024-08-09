@@ -1,0 +1,43 @@
+<h5>Estadística Ambiental</h5>
+<div class="flex flex-col md:flex-row">
+    <div class="mb-4 md:mr-4 md:mb-0">
+        <p-floatLabel>
+            <p-dropdown inputId="region" styleClass="w-full md:w-[400px]" [options]="regionList" optionValue="value"
+                [(ngModel)]="selectedRegion" optionLabel="name" (onChange)="onSelectionChange()" [filter]="true"
+                filterBy="name" emptyFilterMessage="No se encontraron resultados" [disabled]="true">
+            </p-dropdown>
+            <label class="text-sm" for="region">Seleccione región</label>
+        </p-floatLabel>
+    </div>
+    <div>
+        <p-floatLabel>
+            <p-dropdown styleClass="w-full md:w-[400px]" [options]="thematicList" optionValue="value" optionLabel="name"
+                [filter]="true" filterBy="name" (onChange)="onSelectionChange()" [(ngModel)]="selectedThematic"
+                emptyFilterMessage="No se encontraron resultados">
+                <ng-template pTemplate="filter" let-options="options">
+                    <div class="flex gap-1">
+                        <div class="p-inputgroup" (click)="$event.stopPropagation()">
+                            <span class="p-inputgroup-addon"><i class="pi pi-search"></i></span>
+                            <input type="text" pInputText placeholder="-- Buscar por temática --"
+                                [(ngModel)]="filterValueThematic" (keyup)="customFilterFunction($event, options)" />
+                        </div>
+                        <p-button icon="pi pi-times" (click)="resetFunction(options)" severity="secondary" />
+                    </div>
+                </ng-template>
+                <ng-template let-thematic pTemplate="selectedItem">
+                    <div class="flex items-center">
+                        <img [src]="getImageUrl(thematic)" alt="Thematic Icon" class="w-6 mr-2">
+                        <div>{{ thematic.name }}</div>
+                    </div>
+                </ng-template>
+                <ng-template let-thematic pTemplate="item">
+                    <div class="flex items-center">
+                        <img [src]="getImageUrl(thematic)" alt="Thematic Icon" class="w-6 mr-2">
+                        <div>{{ thematic.name }}</div>
+                    </div>
+                </ng-template>
+            </p-dropdown>
+            <label class="text-sm" for="thematic">Seleccione temática</label>
+        </p-floatLabel>
+    </div>
+</div>

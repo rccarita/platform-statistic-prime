@@ -1,0 +1,18 @@
+<h5>Información ambiental</h5>
+<div class="flex flex-col items-center justify-around p-5 md:flex-row">
+    <div (click)="redirect('normatividad')"
+        class="w-48 h-48 rounded-full bg-[#3b9fcc] text-white flex flex-col items-center justify-center mb-4 cursor-pointer">
+        <i class="pi pi-file-edit size-icon"></i>
+        <span class="text-lg">Normas</span>
+    </div>
+    <div (click)="redirect('documentos')"
+        class="w-48 h-48 rounded-full bg-[#29abe2] text-white flex flex-col items-center justify-center mb-4 cursor-pointer">
+        <i class="pi pi-book size-icon"></i>
+        <span class="text-lg">Publicaciones</span>
+    </div>
+    <div (click)="redirect('mapas')"
+        class="w-48 h-48 rounded-full bg-[#00a99d] text-white flex flex-col items-center justify-center mb-4 cursor-pointer">
+        <i class="pi pi-map size-icon"></i>
+        <span class="text-lg">Mapas</span>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+<h5>Datos Generales</h5>
+<div class="grid grid-cols-1 xl:grid-cols-2 gap-4">
+    <div *ngFor="let item of generalDataList">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <ng-container *ngFor="let data of [ 
+        {label: 'Población (hab.)', value: item.population}, 
+        {label: 'Superficie (km&#178;)', value: item.surface}, 
+        {label: 'Densidad Pob(hab/km&#178;)', value: item.density}
+        ]">
+                <div>
+                    <h6 class="card-label">{{ data.label }}</h6>
+                    <div class="blue-box">
+                        <span class="text-white text-2xl">{{ data.value }}</span>
+                    </div>
+                </div>
+            </ng-container>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-14">
+            <highcharts-chart *ngFor="let chartOptions of [chartOptions, chartOptions2]" class="mx-auto"
+                [Highcharts]="Highcharts" [options]="chartOptions"></highcharts-chart>
+        </div>
+    </div>
+    <div #mapViewNode style="width: 100%; height: 450px"></div>
+</div> 
