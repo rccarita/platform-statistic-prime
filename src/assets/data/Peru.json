@@ -2676,7 +2676,7 @@
         {
           "periodo": "2023",
           "ubigeo": "00",
-          "valor": "15",
+          "valor": "19",
           "nombre": "Nacional"
         }
       ]
@@ -2904,6 +2904,134 @@
           "periodo": "2023",
           "ubigeo": "00",
           "valor": "38",
+          "nombre": "Nacional"
+        }
+      ]
+    },
+    "70013": {
+      "data": [
+        {
+          "periodo": "2014",
+          "ubigeo": "00",
+          "valor": "14895.4",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2015",
+          "ubigeo": "00",
+          "valor": "17939.6",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2016",
+          "ubigeo": "00",
+          "valor": "12991.4",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2017",
+          "ubigeo": "00",
+          "valor": "15390.6",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2018",
+          "ubigeo": "00",
+          "valor": "18294.2",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2019",
+          "ubigeo": "00",
+          "valor": "19965.5",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2020",
+          "ubigeo": "00",
+          "valor": "3566.9",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2021",
+          "ubigeo": "00",
+          "valor": "10753.5",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2022",
+          "ubigeo": "00",
+          "valor": "13081.3",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2023",
+          "ubigeo": "00",
+          "valor": "12702.9",
+          "nombre": "Nacional"
+        }
+      ]
+    },
+    "70015": {
+      "data": [
+        {
+          "periodo": "2014",
+          "ubigeo": "00",
+          "valor": "1826",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2015",
+          "ubigeo": "00",
+          "valor": "1839",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2016",
+          "ubigeo": "00",
+          "valor": "1804",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2017",
+          "ubigeo": "00",
+          "valor": "1820",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2018",
+          "ubigeo": "00",
+          "valor": "1822",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2019",
+          "ubigeo": "00",
+          "valor": "1825",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2020",
+          "ubigeo": "00",
+          "valor": "1823",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2021",
+          "ubigeo": "00",
+          "valor": "1806",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2022",
+          "ubigeo": "00",
+          "valor": "1795",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2023",
+          "ubigeo": "00",
+          "valor": "1290",
           "nombre": "Nacional"
         }
       ]
@@ -3882,6 +4010,198 @@
           "periodo": "2019",
           "ubigeo": "00",
           "valor": "210404.42",
+          "nombre": "Nacional"
+        }
+      ]
+    },
+    "70000": {
+      "data": [
+        {
+          "periodo": "2014",
+          "ubigeo": "00",
+          "valor": "435.9",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2015",
+          "ubigeo": "00",
+          "valor": "448.0",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2016",
+          "ubigeo": "00",
+          "valor": "454.2",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2017",
+          "ubigeo": "00",
+          "valor": "443.0",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2018",
+          "ubigeo": "00",
+          "valor": "434.7",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2019",
+          "ubigeo": "00",
+          "valor": "439.8",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2020",
+          "ubigeo": "00",
+          "valor": "461.0",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2021",
+          "ubigeo": "00",
+          "valor": "429.9",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2022",
+          "ubigeo": "00",
+          "valor": "425.6",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2023",
+          "ubigeo": "00",
+          "valor": "425.2",
+          "nombre": "Nacional"
+        }
+      ]
+    },
+    "70002": {
+      "data": [
+        {
+          "periodo": "2014",
+          "ubigeo": "00",
+          "valor": "584.7",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2015",
+          "ubigeo": "00",
+          "valor": "594.7",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2016",
+          "ubigeo": "00",
+          "valor": "606.9",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2017",
+          "ubigeo": "00",
+          "valor": "587.9",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2018",
+          "ubigeo": "00",
+          "valor": "580.6",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2019",
+          "ubigeo": "00",
+          "valor": "587.3",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2020",
+          "ubigeo": "00",
+          "valor": "604.0",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2021",
+          "ubigeo": "00",
+          "valor": "578.4",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2022",
+          "ubigeo": "00",
+          "valor": "581.5",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2023",
+          "ubigeo": "00",
+          "valor": "570.6",
+          "nombre": "Nacional"
+        }
+      ]
+    },
+    "70004": {
+      "data": [
+        {
+          "periodo": "2014",
+          "ubigeo": "00",
+          "valor": "298.9",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2015",
+          "ubigeo": "00",
+          "valor": "311.8",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2016",
+          "ubigeo": "00",
+          "valor": "303.1",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2017",
+          "ubigeo": "00",
+          "valor": "305.0",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2018",
+          "ubigeo": "00",
+          "valor": "296.8",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2019",
+          "ubigeo": "00",
+          "valor": "303.8",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2020",
+          "ubigeo": "00",
+          "valor": "324.7",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2021",
+          "ubigeo": "00",
+          "valor": "294.7",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2022",
+          "ubigeo": "00",
+          "valor": "277.8",
+          "nombre": "Nacional"
+        },
+        {
+          "periodo": "2023",
+          "ubigeo": "00",
+          "valor": "309.8",
           "nombre": "Nacional"
         }
       ]
@@ -5491,7 +5811,7 @@
         {
           "periodo": "2023",
           "ubigeo": "00",
-          "valor": "2266",
+          "valor": "3222",
           "nombre": "Nacional"
         }
       ]

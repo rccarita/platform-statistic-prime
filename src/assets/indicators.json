@@ -2325,7 +2325,7 @@
                 "unidad_sigla": "N°"
             },
             {
-                "indicador": "Alertas de peligros volcánicos asociados a una erupcióne",
+                "indicador": "Alertas de peligros volcánicos asociados a una erupción",
                 "unidad": "Número",
                 "tematica": "05",
                 "id_serie": "50032",
@@ -2353,6 +2353,106 @@
                 "id_indicador": "50003",
                 "ambito": "Nacional",
                 "unidad_sigla": "N°"
+            },
+            {
+                "indicador": "Temperatura del aire promedio anual en estación de medición según departamento",
+                "unidad": "Grados Celsius",
+                "tematica": "07",
+                "id_serie": "70000",
+                "fuente": "SENAMHI",
+                "id_indicador": "60013",
+                "ambito": "Nacional",
+                "unidad_sigla": "°C" 
+            },
+            {
+                "indicador": "Temperatura del aire promedio anual en estación de medición según departamento",
+                "unidad": "Grados Celsius",
+                "tematica": "07",
+                "id_serie": "70001",
+                "fuente": "SENAMHI",
+                "id_indicador": "60013",
+                "ambito": "Departamental",
+                "unidad_sigla": "°C" 
+            },
+            {
+                "indicador": "Temperatura máxima promedio anual en estación de medición según departamento",
+                "unidad": "Grados Celsius",
+                "tematica": "07",
+                "id_serie": "70002",
+                "fuente": "SENAMHI",
+                "id_indicador": "60014",
+                "ambito": "Nacional",
+                "unidad_sigla": "°C" 
+            },
+            {
+                "indicador": "Temperatura máxima promedio anual en estación de medición según departamento",
+                "unidad": "Grados Celsius",
+                "tematica": "07",
+                "id_serie": "70003",
+                "fuente": "SENAMHI",
+                "id_indicador": "60014",
+                "ambito": "Departamental",
+                "unidad_sigla": "°C" 
+            },
+            {
+                "indicador": "Temperatura mínima promedio anual en estación de medición",
+                "unidad": "Grados Celsius",
+                "tematica": "07",
+                "id_serie": "70004",
+                "fuente": "SENAMHI",
+                "id_indicador": "60015",
+                "ambito": "Nacional",
+                "unidad_sigla": "°C" 
+            },
+            {
+                "indicador": "Temperatura mínima promedio anual en estación de medición según departamento",
+                "unidad": "Grados Celsius",
+                "tematica": "07",
+                "id_serie": "70005",
+                "fuente": "SENAMHI",
+                "id_indicador": "60015",
+                "ambito": "Departamental",
+                "unidad_sigla": "°C" 
+            },
+            {
+                "indicador": "Precipitación total anual en estación de medición según departamento",
+                "unidad": "Milímetros",
+                "tematica": "05",
+                "id_serie": "70013",
+                "fuente": "SENAMHI",
+                "id_indicador": "60016",
+                "ambito": "Nacional",
+                "unidad_sigla": "mm" 
+            },
+            {
+                "indicador": "Precipitación total anual en estación de medición según departamento",
+                "unidad": "Milímetros",
+                "tematica": "05",
+                "id_serie": "70014",
+                "fuente": "SENAMHI",
+                "id_indicador": "60016",
+                "ambito": "Departamental",
+                "unidad_sigla": "mm" 
+            },
+            {
+                "indicador": "Humedad relativa promedio anual en estación de medición según departamento",
+                "unidad": "Porcentaje",
+                "tematica": "05",
+                "id_serie": "70015",
+                "fuente": "SENAMHI",
+                "id_indicador": "60017",
+                "ambito": "Nacional",
+                "unidad_sigla": "%" 
+            },
+            {
+                "indicador": "Humedad relativa promedio anual en estación de medición según departamento",
+                "unidad": "Porcentaje",
+                "tematica": "05",
+                "id_serie": "70016",
+                "fuente": "SENAMHI",
+                "id_indicador": "60017",
+                "ambito": "Departamental",
+                "unidad_sigla": "%" 
             }
         ]
     },

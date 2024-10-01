@@ -1322,5 +1322,44 @@
                 "metodologia": "El SERFOR, en coordinación con las ARFFS, y en concordancia con la Ley N° 28611, Ley General del Ambiente, aprueba la Lista Sectorial de Ecosistemas Frágiles, en la cual se incluyen ecosistemas frágiles en buen estado de conservación, con base en estudios técnicos e información científica disponible. Estos ecosistemas forman parte de la categoría de Zonas de protección y conservación ecológica de la Zonificación Forestal."
             }
         ]
+    },
+    "60013": {
+        "data": [
+            {
+                "descripcion": "La temperatura del aire es uno de los elementos climáticos que está en relación directa con el balance de energía, es decir, su valor o magnitud depende de la fracción de Radiación Neta (Rn). Sin embargo, esta relación directa, entre temperatura y Rn es afectado por otros factores como se ve a continuación: * El movimiento de rotación de la tierra que da origen al ciclo diurno y el movimiento de traslación que origina el ciclo anual. * La amplitud de estas ondas (ciclo diurno de temperatura) son alterados por: la superficie sobre la cual incide la radiación solar, masas de aire, nubosidad, transparencia atmosférica, relieve topográfico, etc. ",
+                "finalidad": "Con fines de pronósticos y alertas hidrometeorológicas, trabajos  de  investigación y estudios en climatología, clasificación climática y agroclimática, modelamiento, descripción de pérdidas de láminas de agua, etc.",
+                "fuente": "Servicio Nacional de Meteorología e Hidrología - Dirección de Meteorología y Evaluación Ambiental Armosférica",
+                "id": "60013",
+                "nombre": "Temperatura del aire promedio anual en estación de medición según departamento",
+                "limitaciones": "Ninguna.",
+                "metodologia": "La temperatura del aire promedio anual es información procesada de los datos provenientes de la lectura del termómetro y de los termómetros extremos (máximos y mínimos) de las estaciones de medición ubicadas principalmente en capital de departamento."
+            }
+        ]
+    },
+    "60014": {
+        "data": [
+            {
+                "descripcion": "La temperatura es la magnitud física que expresa el grado o nivel de calor de los cuerpos o del ambiente.  Temperatura Máxima: Es el valor más alto de la temperatura registrada durante un periodo de observación.",
+                "finalidad": "Con fines de pronósticos y alertas hidrometeorológicas, (alertar a la población sobre posibles olas de calor) y estudios en Climatología.",
+                "fuente": "Servicio Nacional de Meteorología e Hidrología - Dirección de Meteorología y Evaluación Ambiental Armosférica",
+                "id": "60014",
+                "nombre": "Temperatura máxima promedio anual en estación de medición según departamento",
+                "limitaciones": "Ninguna.",
+                "metodologia": "La temperatura máxima promedio anual es información procesada de los datos provenientes de la lectura de la temperatura máxima promedio mensual de las estaciones de medición ubicadas principalmente en capital de departamento."
+            }
+        ]
+    },
+    "60015": {
+        "data": [
+            {
+                "descripcion": "Es el valor más bajo de la temperatura del aire registrada durante un periodo de observación. La temperatura mínima es uno de los elementos más importantes del tiempo, que ejerce gran influencia en la vida humana,  en los animales y plantas. Es un elemento determinante de las condiciones de vida y productividad en las diversas regiones del país.",
+                "finalidad": "Con fines de pronósticos y alertas hidrometeorológicas, ocurrencia de “friajes”, heladas meteorológicas y agronómicas, trabajos específicos e investigación en Climatología.",
+                "fuente": "Servicio Nacional de Meteorología e Hidrología - Dirección de Meteorología y Evaluación Ambiental Armosférica",
+                "id": "60014",
+                "nombre": "Temperatura mínima promedio anual en estación de medición según departamento",
+                "limitaciones": "Ninguna.",
+                "metodologia": "La temperatura mínima promedio anual es información procesada de los datos provenientes de la lectura de la temperatura mínima promedio mensual de las estaciones de medición ubicadas principalmente en capital de departamento."
+            }
+        ]
     }
 }
