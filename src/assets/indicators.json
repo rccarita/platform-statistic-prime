@@ -2358,16 +2358,6 @@
                 "indicador": "Temperatura del aire promedio anual en estación de medición según departamento",
                 "unidad": "Grados Celsius",
                 "tematica": "07",
-                "id_serie": "70000",
-                "fuente": "SENAMHI",
-                "id_indicador": "60013",
-                "ambito": "Nacional",
-                "unidad_sigla": "°C" 
-            },
-            {
-                "indicador": "Temperatura del aire promedio anual en estación de medición según departamento",
-                "unidad": "Grados Celsius",
-                "tematica": "07",
                 "id_serie": "70001",
                 "fuente": "SENAMHI",
                 "id_indicador": "60013",
@@ -2378,30 +2368,10 @@
                 "indicador": "Temperatura máxima promedio anual en estación de medición según departamento",
                 "unidad": "Grados Celsius",
                 "tematica": "07",
-                "id_serie": "70002",
-                "fuente": "SENAMHI",
-                "id_indicador": "60014",
-                "ambito": "Nacional",
-                "unidad_sigla": "°C" 
-            },
-            {
-                "indicador": "Temperatura máxima promedio anual en estación de medición según departamento",
-                "unidad": "Grados Celsius",
-                "tematica": "07",
                 "id_serie": "70003",
                 "fuente": "SENAMHI",
                 "id_indicador": "60014",
                 "ambito": "Departamental",
-                "unidad_sigla": "°C" 
-            },
-            {
-                "indicador": "Temperatura mínima promedio anual en estación de medición",
-                "unidad": "Grados Celsius",
-                "tematica": "07",
-                "id_serie": "70004",
-                "fuente": "SENAMHI",
-                "id_indicador": "60015",
-                "ambito": "Nacional",
                 "unidad_sigla": "°C" 
             },
             {
@@ -2418,16 +2388,6 @@
                 "indicador": "Precipitación total anual en estación de medición según departamento",
                 "unidad": "Milímetros",
                 "tematica": "05",
-                "id_serie": "70013",
-                "fuente": "SENAMHI",
-                "id_indicador": "60016",
-                "ambito": "Nacional",
-                "unidad_sigla": "mm" 
-            },
-            {
-                "indicador": "Precipitación total anual en estación de medición según departamento",
-                "unidad": "Milímetros",
-                "tematica": "05",
                 "id_serie": "70014",
                 "fuente": "SENAMHI",
                 "id_indicador": "60016",
@@ -2438,22 +2398,223 @@
                 "indicador": "Humedad relativa promedio anual en estación de medición según departamento",
                 "unidad": "Porcentaje",
                 "tematica": "05",
-                "id_serie": "70015",
-                "fuente": "SENAMHI",
-                "id_indicador": "60017",
-                "ambito": "Nacional",
-                "unidad_sigla": "%" 
-            },
-            {
-                "indicador": "Humedad relativa promedio anual en estación de medición según departamento",
-                "unidad": "Porcentaje",
-                "tematica": "05",
                 "id_serie": "70016",
                 "fuente": "SENAMHI",
                 "id_indicador": "60017",
                 "ambito": "Departamental",
                 "unidad_sigla": "%" 
+            },
+            {
+                "indicador": "Número de negocios sostenibles identificados en el catálogo de eco y bionegocios",
+                "unidad": "Número",
+                "tematica": "11",
+                "id_serie": "70017",
+                "fuente": "MINAM",
+                "id_indicador": "60018",
+                "ambito": "Nacional",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Número de negocios sostenibles identificados en el catálogo de eco y bionegocios",
+                "unidad": "Número",
+                "tematica": "11",
+                "id_serie": "70018",
+                "fuente": "MINAM",
+                "id_indicador": "60018",
+                "ambito": "Departamental",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Número de comunidades amazónicas en el ámbito de intervención del IIAP",
+                "unidad": "Número",
+                "tematica": "09",
+                "id_serie": "70020",
+                "fuente": "IIAP",
+                "id_indicador": "60019",
+                "ambito": "Nacional",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Número de casos ambientales registrados en el Sistema Único de Administración de Expedientes de las Procuradurías Públicas",
+                "unidad": "Número",
+                "tematica": "09",
+                "id_serie": "70022",
+                "fuente": "MINAM",
+                "id_indicador": "60020",
+                "ambito": "Nacional",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Número de casos ambientales registrados en el Sistema Único de Administración de Expedientes de las Procuradurías Públicas",
+                "unidad": "Número",
+                "tematica": "09",
+                "id_serie": "70023",
+                "fuente": "MINAM",
+                "id_indicador": "60020",
+                "ambito": "Departamental",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Usuarios que acceden a información ambiental del SINIA",
+                "unidad": "Número",
+                "tematica": "09",
+                "id_serie": "70024",
+                "fuente": "MINAM",
+                "id_indicador": "60021",
+                "ambito": "Nacional",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Número de campañas y acciones de educación, información y comunicación ambiental",
+                "unidad": "Número",
+                "tematica": "09",
+                "id_serie": "70026",
+                "fuente": "MINAM",
+                "id_indicador": "60022",
+                "ambito": "Nacional",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Número de campañas y acciones de educación, información y comunicación ambiental",
+                "unidad": "Número",
+                "tematica": "09",
+                "id_serie": "70027",
+                "fuente": "MINAM",
+                "id_indicador": "60022",
+                "ambito": "Departamental",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Gobiernos locales con Programa Municipal EDUCCA aprobados",
+                "unidad": "Número",
+                "tematica": "09",
+                "id_serie": "70028",
+                "fuente": "MINAM",
+                "id_indicador": "60023",
+                "ambito": "Nacional",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Gobiernos locales con Programa Municipal EDUCCA aprobados",
+                "unidad": "Número",
+                "tematica": "09",
+                "id_serie": "70029",
+                "fuente": "MINAM",
+                "id_indicador": "60023",
+                "ambito": "Departamental",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Número de postulaciones enviadas al Premio Nacional Ambiental Antonio Brack",
+                "unidad": "Número",
+                "tematica": "09",
+                "id_serie": "70030",
+                "fuente": "MINAM",
+                "id_indicador": "60024",
+                "ambito": "Nacional",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Número de postulaciones enviadas al Premio Nacional Ambiental Antonio Brack por departamentos",
+                "unidad": "Número",
+                "tematica": "09",
+                "id_serie": "70031",
+                "fuente": "MINAM",
+                "id_indicador": "60024",
+                "ambito": "Departamental",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Porcentaje de residuos sólidos municipales valorizados respecto a lo generado",
+                "unidad": "Porcentaje",
+                "tematica": "08",
+                "id_serie": "70040",
+                "fuente": "MINAM",
+                "id_indicador": "60025",
+                "ambito": "Nacional",
+                "unidad_sigla": "%" 
+            },
+            {
+                "indicador": "Porcentaje de residuos sólidos municipales valorizados respecto a lo generado",
+                "unidad": "Porcentaje",
+                "tematica": "08",
+                "id_serie": "70041",
+                "fuente": "MINAM",
+                "id_indicador": "60025",
+                "ambito": "Departamental",
+                "unidad_sigla": "%" 
+            },
+            {
+                "indicador": "Municipalidades que implementan efectivamente la valorización de residuos sólidos inorgánicos",
+                "unidad": "Numero",
+                "tematica": "08",
+                "id_serie": "70042",
+                "fuente": "MINAM",
+                "id_indicador": "60026",
+                "ambito": "Nacional",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Municipalidades que implementan efectivamente la valorización de residuos sólidos inorgánicos",
+                "unidad": "Numero",
+                "tematica": "08",
+                "id_serie": "70043",
+                "fuente": "MINAM",
+                "id_indicador": "60026",
+                "ambito": "Departamental",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Municipalidades que implementan efectivamente la valorización de residuos sólidos orgánicos",
+                "unidad": "Numero",
+                "tematica": "08",
+                "id_serie": "70044",
+                "fuente": "MINAM",
+                "id_indicador": "60027",
+                "ambito": "Nacional",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Municipalidades que implementan efectivamente la valorización de residuos sólidos orgánicos",
+                "unidad": "Numero",
+                "tematica": "08",
+                "id_serie": "70045",
+                "fuente": "MINAM",
+                "id_indicador": "60027",
+                "ambito": "Departamental",
+                "unidad_sigla": "N°" 
+            },
+            {
+                "indicador": "Porcentaje de campos de cultivo con presencia ilegal de OVM en el Perú",
+                "unidad": "Porcentaje",
+                "tematica": "03",
+                "id_serie": "70050",
+                "fuente": "MINAM",
+                "id_indicador": "60028",
+                "ambito": "Nacional",
+                "unidad_sigla": "%" 
+            },
+            {
+                "indicador": "Porcentaje de campos de cultivo con presencia ilegal de OVM en el Perú",
+                "unidad": "Porcentaje",
+                "tematica": "03",
+                "id_serie": "70051",
+                "fuente": "MINAM",
+                "id_indicador": "60028",
+                "ambito": "Departamental",
+                "unidad_sigla": "%" 
+            },
+            {
+                "indicador": "Índice de cultivos nativos de la agrobiodiversidad conservados",
+                "unidad": "Índice",
+                "tematica": "03",
+                "id_serie": "70052",
+                "fuente": "MIDAGRI",
+                "id_indicador": "60029",
+                "ambito": "Nacional",
+                "unidad_sigla": "I" 
             }
+
         ]
     },
     "success": true
