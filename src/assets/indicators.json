@@ -2355,7 +2355,7 @@
                 "unidad_sigla": "N°"
             },
             {
-                "indicador": "Temperatura del aire promedio anual en estación de medición según departamento",
+                "indicador": "Temperatura del aire promedio anual en estación de medición",
                 "unidad": "Grados Celsius",
                 "tematica": "07",
                 "id_serie": "70001",
@@ -2365,7 +2365,7 @@
                 "unidad_sigla": "°C" 
             },
             {
-                "indicador": "Temperatura máxima promedio anual en estación de medición según departamento",
+                "indicador": "Temperatura máxima promedio anual en estación de medición",
                 "unidad": "Grados Celsius",
                 "tematica": "07",
                 "id_serie": "70003",
@@ -2375,7 +2375,7 @@
                 "unidad_sigla": "°C" 
             },
             {
-                "indicador": "Temperatura mínima promedio anual en estación de medición según departamento",
+                "indicador": "Temperatura mínima promedio anual en estación de medición",
                 "unidad": "Grados Celsius",
                 "tematica": "07",
                 "id_serie": "70005",
@@ -2385,7 +2385,7 @@
                 "unidad_sigla": "°C" 
             },
             {
-                "indicador": "Precipitación total anual en estación de medición según departamento",
+                "indicador": "Precipitación total anual en estación de medición",
                 "unidad": "Milímetros",
                 "tematica": "05",
                 "id_serie": "70014",
@@ -2395,7 +2395,7 @@
                 "unidad_sigla": "mm" 
             },
             {
-                "indicador": "Humedad relativa promedio anual en estación de medición según departamento",
+                "indicador": "Humedad relativa promedio anual en estación de medición",
                 "unidad": "Porcentaje",
                 "tematica": "05",
                 "id_serie": "70016",
@@ -2515,7 +2515,7 @@
                 "unidad_sigla": "N°" 
             },
             {
-                "indicador": "Número de postulaciones enviadas al Premio Nacional Ambiental Antonio Brack por departamentos",
+                "indicador": "Número de postulaciones enviadas al Premio Nacional Ambiental Antonio Brack",
                 "unidad": "Número",
                 "tematica": "09",
                 "id_serie": "70031",
