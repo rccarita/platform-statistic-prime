@@ -1617,7 +1617,135 @@
             ]
         },
         "50031": {},
-        "50032": {}
+        "50032": {},
+        "70014": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "01",
+                    "valor": "1057.8",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "01",
+                    "valor": "1070.0",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "01",
+                    "valor": "649.1",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "01",
+                    "valor": "907.1",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "01",
+                    "valor": "989.0",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "01",
+                    "valor": "1074.3",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "01",
+                    "valor": "783.2",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "01",
+                    "valor": "885.9",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "01",
+                    "valor": "810.0",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "01",
+                    "valor": "889.3",
+                    "nombre": "Amazonas"
+                }
+            ]
+        },
+        "70016": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "01",
+                    "valor": "83",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "01",
+                    "valor": "81",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "01",
+                    "valor": "78",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "01",
+                    "valor": "79",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "01",
+                    "valor": "80",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "01",
+                    "valor": "81",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "01",
+                    "valor": "79",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "01",
+                    "valor": "80",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "01",
+                    "valor": "79",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "01",
+                    "valor": "...",
+                    "nombre": "Amazonas"
+                }
+            ]
+        }
     },
     "06": {
         "20269": {
@@ -2377,7 +2505,200 @@
             ]
         }
     },
-    "07": {},
+    "07": {        
+        "70001": {
+        "data": [
+            {
+                "periodo": "2014",
+                "ubigeo": "01",
+                "valor": "14.9",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2015",
+                "ubigeo": "01",
+                "valor": "15.1",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2016",
+                "ubigeo": "01",
+                "valor": "15.6",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2017",
+                "ubigeo": "01",
+                "valor": "15.2",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2018",
+                "ubigeo": "01",
+                "valor": "14.9",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2019",
+                "ubigeo": "01",
+                "valor": "15.0",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2020",
+                "ubigeo": "01",
+                "valor": "15.3",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2021",
+                "ubigeo": "01",
+                "valor": "15.0",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2022",
+                "ubigeo": "01",
+                "valor": "15.0",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2023",
+                "ubigeo": "01",
+                "valor": "15.5",
+                "nombre": "Amazonas"
+            }
+        ]
+        },
+        "70003": {
+            "data": [
+                {
+                    "periodo": "2014",
+                    "ubigeo": "01",
+                    "valor": "20.0",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2015",
+                    "ubigeo": "01",
+                    "valor": "20.0",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2016",
+                    "ubigeo": "01",
+                    "valor": "20.9",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2017",
+                    "ubigeo": "01",
+                    "valor": "20.3",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2018",
+                    "ubigeo": "01",
+                    "valor": "20.1",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2019",
+                    "ubigeo": "01",
+                    "valor": "20.0",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2020",
+                    "ubigeo": "01",
+                    "valor": "20.5",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2021",
+                    "ubigeo": "01",
+                    "valor": "20.0",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2022",
+                    "ubigeo": "01",
+                    "valor": "20.2",
+                    "nombre": "Amazonas"
+                },
+                {
+                    "periodo": "2023",
+                    "ubigeo": "01",
+                    "valor": "...",
+                    "nombre": "Amazonas"
+                }
+            ]
+        },
+        "70005": {
+             "data": [
+            {
+                "periodo": "2014",
+                "ubigeo": "01",
+                "valor": "10.0",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2015",
+                "ubigeo": "01",
+                "valor": "9.9",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2016",
+                "ubigeo": "01",
+                "valor": "10.0",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2017",
+                "ubigeo": "01",
+                "valor": "10.0",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2018",
+                "ubigeo": "01",
+                "valor": "9.3",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2019",
+                "ubigeo": "01",
+                "valor": "9.8",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2020",
+                "ubigeo": "01",
+                "valor": "9.8",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2021",
+                "ubigeo": "01",
+                "valor": "9.7",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2022",
+                "ubigeo": "01",
+                "valor": "8.2",
+                "nombre": "Amazonas"
+            },
+            {
+                "periodo": "2023",
+                "ubigeo": "01",
+                "valor": "9.6",
+                "nombre": "Amazonas"
+            }
+        ]
+        }
+    },
     "08": {
         "36636": {
             "data": [
